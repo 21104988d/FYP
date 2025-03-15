@@ -1,0 +1,199 @@
+Country Name,Category,id
+Afghanistan,Cultural,1
+Afghanistan,Environmental,67
+Afghanistan,Political,26
+Afghanistan,Social,56
+Australia,Cultural,4
+Australia,Economical,148
+Australia,Environmental,104
+Australia,Political,8
+Australia,Social,57
+Austria,Cultural,3
+Austria,Economical,118
+Austria,Environmental,102
+Austria,Political,8
+Austria,Social,53
+Bangladesh,Cultural,1
+Bangladesh,Economical,154
+Bangladesh,Environmental,107
+Bangladesh,Political,32
+Bangladesh,Social,59
+Belgium,Cultural,3
+Belgium,Economical,115
+Belgium,Environmental,90
+Belgium,Political,5
+Belgium,Social,58
+Canada,Cultural,1
+Canada,Economical,140
+Canada,Environmental,97
+Canada,Political,8
+Canada,Social,57
+Chad,Cultural,4
+Chad,Economical,95
+Chad,Environmental,93
+Chad,Political,18
+Chad,Social,60
+China,Cultural,4
+China,Economical,149
+China,Environmental,111
+China,Political,31
+China,Social,51
+"Congo, Dem. Rep.",Cultural,1
+"Congo, Dem. Rep.",Economical,118
+"Congo, Dem. Rep.",Environmental,105
+"Congo, Dem. Rep.",Political,24
+"Congo, Dem. Rep.",Social,59
+Denmark,Cultural,5
+Denmark,Economical,142
+Denmark,Environmental,104
+Denmark,Political,6
+Denmark,Social,57
+Ethiopia,Cultural,1
+Ethiopia,Economical,118
+Ethiopia,Environmental,92
+Ethiopia,Political,32
+Ethiopia,Social,60
+Finland,Cultural,3
+Finland,Economical,148
+Finland,Environmental,105
+Finland,Political,6
+Finland,Social,55
+France,Cultural,3
+France,Economical,148
+France,Environmental,107
+France,Political,6
+France,Social,62
+Germany,Cultural,6
+Germany,Economical,149
+Germany,Environmental,106
+Germany,Political,8
+Germany,Social,55
+India,Cultural,3
+India,Economical,166
+India,Environmental,115
+India,Political,34
+India,Social,52
+Ireland,Cultural,6
+Ireland,Economical,110
+Ireland,Environmental,101
+Ireland,Political,6
+Ireland,Social,53
+Italy,Cultural,3
+Italy,Economical,142
+Italy,Environmental,107
+Italy,Political,7
+Italy,Social,62
+Japan,Cultural,1
+Japan,Economical,144
+Japan,Environmental,105
+Japan,Political,7
+Japan,Social,50
+Kenya,Cultural,1
+Kenya,Economical,152
+Kenya,Environmental,113
+Kenya,Political,30
+Kenya,Social,59
+"Korea, Rep.",Cultural,6
+"Korea, Rep.",Economical,162
+"Korea, Rep.",Environmental,109
+"Korea, Rep.",Political,6
+"Korea, Rep.",Social,56
+Madagascar,Cultural,3
+Madagascar,Economical,146
+Madagascar,Environmental,109
+Madagascar,Political,24
+Madagascar,Social,59
+Malawi,Cultural,5
+Malawi,Economical,101
+Malawi,Environmental,88
+Malawi,Political,29
+Malawi,Social,59
+Mozambique,Cultural,6
+Mozambique,Economical,112
+Mozambique,Environmental,106
+Mozambique,Political,31
+Mozambique,Social,59
+Myanmar,Cultural,1
+Myanmar,Economical,59
+Myanmar,Environmental,83
+Myanmar,Political,20
+Myanmar,Social,58
+Nepal,Cultural,6
+Nepal,Economical,128
+Nepal,Environmental,101
+Nepal,Political,31
+Nepal,Social,59
+Netherlands,Cultural,4
+Netherlands,Economical,145
+Netherlands,Environmental,105
+Netherlands,Political,8
+Netherlands,Social,57
+New Zealand,Cultural,3
+New Zealand,Economical,107
+New Zealand,Environmental,100
+New Zealand,Political,3
+New Zealand,Social,57
+Nigeria,Cultural,1
+Nigeria,Economical,106
+Nigeria,Environmental,88
+Nigeria,Political,28
+Nigeria,Social,51
+Norway,Cultural,5
+Norway,Economical,149
+Norway,Environmental,106
+Norway,Political,8
+Norway,Social,55
+Pakistan,Cultural,1
+Pakistan,Economical,166
+Pakistan,Environmental,113
+Pakistan,Political,31
+Pakistan,Social,52
+Singapore,Cultural,2
+Singapore,Economical,139
+Singapore,Environmental,101
+Singapore,Political,5
+Singapore,Social,49
+South Sudan,Cultural,1
+South Sudan,Environmental,7
+South Sudan,Political,1
+South Sudan,Social,50
+Sweden,Cultural,6
+Sweden,Economical,147
+Sweden,Environmental,106
+Sweden,Political,6
+Sweden,Social,56
+Switzerland,Cultural,5
+Switzerland,Economical,137
+Switzerland,Environmental,107
+Switzerland,Political,7
+Switzerland,Social,55
+Tanzania,Cultural,3
+Tanzania,Economical,148
+Tanzania,Environmental,109
+Tanzania,Political,30
+Tanzania,Social,60
+Uganda,Cultural,1
+Uganda,Economical,137
+Uganda,Environmental,109
+Uganda,Political,29
+Uganda,Social,59
+United Kingdom,Cultural,2
+United Kingdom,Economical,142
+United Kingdom,Environmental,102
+United Kingdom,Political,6
+United Kingdom,Social,53
+United States,Cultural,1
+United States,Economical,147
+United States,Environmental,97
+United States,Political,7
+United States,Social,51
+"Yemen, Rep.",Cultural,1
+"Yemen, Rep.",Economical,26
+"Yemen, Rep.",Environmental,65
+"Yemen, Rep.",Political,20
+"Yemen, Rep.",Social,58
+Zimbabwe,Cultural,1
+Zimbabwe,Economical,105
+Zimbabwe,Environmental,103
+Zimbabwe,Political,27
+Zimbabwe,Social,59

@@ -1,0 +1,696 @@
+Series Name ID,Series Name
+1,Adjusted net national income (constant 2015 US$)
+2,Adjusted net national income (current US$)
+3,Adjusted net national income per capita (constant 2015 US$)
+4,Adjusted net national income per capita (current US$)
+5,"Adjusted net savings, excluding particulate emission damage (current US$)"
+6,"Adjusted net savings, including particulate emission damage (current US$)"
+7,Adjusted savings: carbon dioxide damage (current US$)
+8,Adjusted savings: consumption of fixed capital (current US$)
+9,Adjusted savings: education expenditure (current US$)
+10,Adjusted savings: energy depletion (current US$)
+11,Adjusted savings: mineral depletion (current US$)
+12,Adjusted savings: net forest depletion (current US$)
+13,Adjusted savings: net national savings (current US$)
+14,Adjusted savings: particulate emission damage (current US$)
+15,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+16,Adults (ages 15+) and children (ages 0-14) newly infected with HIV
+17,Adults (ages 15-49) newly infected with HIV
+18,Agricultural land (sq. km)
+19,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+20,"Agriculture, forestry, and fishing, value added (constant LCU)"
+21,"Agriculture, forestry, and fishing, value added (current LCU)"
+22,"Agriculture, forestry, and fishing, value added (current US$)"
+23,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)"
+24,"Air transport, freight (million ton-km)"
+25,"Air transport, passengers carried"
+26,"Air transport, registered carrier departures worldwide"
+27,"Annual freshwater withdrawals, total (billion cubic meters)"
+28,Aquaculture production (metric tons)
+29,Arable land (hectares per person)
+30,Arable land (hectares)
+31,"Armed forces personnel, total"
+32,Arms exports (SIPRI trend indicator values)
+33,Arms imports (SIPRI trend indicator values)
+34,"Automated teller machines (ATMs) (per 100,000 adults)"
+35,Average precipitation in depth (mm per year)
+36,Average time to clear exports through customs (days)
+37,"Average working hours of children, study and work, ages 7-14 (hours per week)"
+38,"Average working hours of children, study and work, female, ages 7-14 (hours per week)"
+39,"Average working hours of children, study and work, male, ages 7-14 (hours per week)"
+40,"Average working hours of children, working only, ages 7-14 (hours per week)"
+41,"Average working hours of children, working only, female, ages 7-14 (hours per week)"
+42,"Average working hours of children, working only, male, ages 7-14 (hours per week)"
+43,Battle-related deaths (number of people)
+44,"Bird species, threatened"
+45,"Birth rate, crude (per 1,000 people)"
+46,"Borrowers from commercial banks (per 1,000 adults)"
+47,Broad money (current LCU)
+48,Broad money to total reserves ratio
+49,Business extent of disclosure index (0=less disclosure to 10=more disclosure)
+50,CPIA building human resources rating (1=low to 6=high)
+51,CPIA business regulatory environment rating (1=low to 6=high)
+52,CPIA debt policy rating (1=low to 6=high)
+53,CPIA economic management cluster average (1=low to 6=high)
+54,CPIA efficiency of revenue mobilization rating (1=low to 6=high)
+55,CPIA equity of public resource use rating (1=low to 6=high)
+56,CPIA financial sector rating (1=low to 6=high)
+57,CPIA fiscal policy rating (1=low to 6=high)
+58,CPIA gender equality rating (1=low to 6=high)
+59,CPIA macroeconomic management rating (1=low to 6=high)
+60,CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
+61,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high)
+62,CPIA property rights and rule-based governance rating (1=low to 6=high)
+63,CPIA public sector management and institutions cluster average (1=low to 6=high)
+64,CPIA quality of budgetary and financial management rating (1=low to 6=high)
+65,CPIA quality of public administration rating (1=low to 6=high)
+66,CPIA social protection rating (1=low to 6=high)
+67,CPIA structural policies cluster average (1=low to 6=high)
+68,CPIA trade rating (1=low to 6=high)
+69,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)"
+70,Capture fisheries production (metric tons)
+71,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)
+72,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)
+73,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e)
+74,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e)
+75,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+76,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e)
+77,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e)
+78,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e)
+79,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e)
+80,Carbon dioxide (CO2) emissions from Waste (Mt CO2e)
+81,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e)
+82,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e)
+83,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e)
+84,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e)
+85,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e)
+86,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP)
+87,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP)
+88,"Central government debt, total (current LCU)"
+89,Cereal production (metric tons)
+90,Cereal yield (kg per hectare)
+91,Changes in inventories (constant LCU)
+92,Changes in inventories (current LCU)
+93,Changes in inventories (current US$)
+94,"Charges for the use of intellectual property, payments (BoP, current US$)"
+95,"Charges for the use of intellectual property, receipts (BoP, current US$)"
+96,Children (0-14) living with HIV
+97,Children (ages 0-14) newly infected with HIV
+98,"Children out of school, primary"
+99,"Children out of school, primary, female"
+100,"Children out of school, primary, male"
+101,"Commercial bank branches (per 100,000 adults)"
+102,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)"
+103,Commercial service exports (current US$)
+104,Commercial service imports (current US$)
+105,"Community health workers (per 1,000 people)"
+106,Compensation of employees (current LCU)
+107,"Compulsory education, duration (years)"
+108,Consumer price index (2010 = 100)
+109,Container port traffic (TEU: 20 foot equivalent units)
+110,Control of Corruption: Estimate
+111,Control of Corruption: Number of Sources
+112,Control of Corruption: Percentile Rank
+113,Control of Corruption: Standard Error
+114,"Cost to export, border compliance (US$)"
+115,"Cost to export, documentary compliance (US$)"
+116,"Cost to import, border compliance (US$)"
+117,"Cost to import, documentary compliance (US$)"
+118,Crop production index (2014-2016 = 100)
+119,"Current account balance (BoP, current US$)"
+120,Current health expenditure per capita (current US$)
+121,"Current health expenditure per capita, PPP (current international $)"
+122,Customs and other import duties (current LCU)
+123,DEC alternative conversion factor (LCU per US$)
+124,"Death rate, crude (per 1,000 people)"
+125,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)"
+126,"Debt service on external debt, total (TDS, current US$)"
+127,"Depositors with commercial banks (per 1,000 adults)"
+128,Depth of credit information index (0=low to 8=high)
+129,Disaster risk reduction progress score (1-5 scale; 5=best)
+130,Discrepancy in expenditure estimate of GDP (constant LCU)
+131,Discrepancy in expenditure estimate of GDP (current LCU)
+132,Domestic general government health expenditure per capita (current US$)
+133,"Domestic general government health expenditure per capita, PPP (current international $)"
+134,Domestic private health expenditure per capita (current US$)
+135,"Domestic private health expenditure per capita, PPP (current international $)"
+136,Ease of doing business rank (1=most business-friendly regulations)
+137,Ease of doing business score (0 = lowest performance to 100 = best performance)
+138,Electric power consumption (kWh per capita)
+139,"Electricity production from renewable sources, excluding hydroelectric (kWh)"
+140,Energy intensity level of primary energy (MJ/$2017 PPP GDP)
+141,Energy use (kg of oil equivalent per capita)
+142,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)"
+143,Expense (current LCU)
+144,Export unit value index (2015 = 100)
+145,Export value index (2015 = 100)
+146,Export volume index (2015 = 100)
+147,Exports as a capacity to import (constant LCU)
+148,"Exports of goods and services (BoP, current US$)"
+149,Exports of goods and services (constant 2015 US$)
+150,Exports of goods and services (constant LCU)
+151,Exports of goods and services (current LCU)
+152,Exports of goods and services (current US$)
+153,"Exports of goods, services and primary income (BoP, current US$)"
+154,External balance on goods and services (constant LCU)
+155,External balance on goods and services (current LCU)
+156,External balance on goods and services (current US$)
+157,"External debt stocks, long-term (DOD, current US$)"
+158,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)"
+159,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)"
+160,"External debt stocks, short-term (DOD, current US$)"
+161,"External debt stocks, total (DOD, current US$)"
+162,External health expenditure per capita (current US$)
+163,"External health expenditure per capita, PPP (current international $)"
+164,F-gases emissions from Industrial Processes (Mt CO2e)
+165,"Fertility rate, total (births per woman)"
+166,Fertilizer consumption (kilograms per hectare of arable land)
+167,Final consumption expenditure (constant 2015 US$)
+168,Final consumption expenditure (constant LCU)
+169,Final consumption expenditure (current LCU)
+170,Final consumption expenditure (current US$)
+171,Financial intermediary services indirectly Measured (FISIM) (constant LCU)
+172,Financial intermediary services indirectly Measured (FISIM) (current LCU)
+173,"Fish species, threatened"
+174,Fixed broadband subscriptions
+175,Fixed broadband subscriptions (per 100 people)
+176,Fixed telephone subscriptions
+177,Fixed telephone subscriptions (per 100 people)
+178,Food production index (2014-2016 = 100)
+179,"Foreign direct investment, net (BoP, current US$)"
+180,"Foreign direct investment, net inflows (BoP, current US$)"
+181,"Foreign direct investment, net outflows (BoP, current US$)"
+182,Forest area (sq. km)
+183,GDP (constant 2015 US$)
+184,GDP (constant LCU)
+185,GDP (current LCU)
+186,GDP (current US$)
+187,GDP deflator (base year varies by country)
+188,GDP deflator: linked series (base year varies by country)
+189,GDP per capita (constant 2015 US$)
+190,GDP per capita (constant LCU)
+191,GDP per capita (current LCU)
+192,GDP per capita (current US$)
+193,"GDP per capita, PPP (constant 2021 international $)"
+194,"GDP per capita, PPP (current international $)"
+195,GDP per person employed (constant 2021 PPP $)
+196,GDP per unit of energy use (PPP $ per kg of oil equivalent)
+197,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)
+198,"GDP, PPP (constant 2021 international $)"
+199,"GDP, PPP (current international $)"
+200,GDP: linked series (current LCU)
+201,GNI (constant 2015 US$)
+202,GNI (constant LCU)
+203,GNI (current LCU)
+204,GNI (current US$)
+205,GNI per capita (constant 2015 US$)
+206,GNI per capita (constant LCU)
+207,GNI per capita (current LCU)
+208,"GNI per capita, Atlas method (current US$)"
+209,"GNI per capita, PPP (constant 2021 international $)"
+210,"GNI per capita, PPP (current international $)"
+211,"GNI, Atlas method (current US$)"
+212,"GNI, PPP (constant 2021 international $)"
+213,"GNI, PPP (current international $)"
+214,GNI: linked series (current LCU)
+215,General government final consumption expenditure (constant 2015 US$)
+216,General government final consumption expenditure (constant LCU)
+217,General government final consumption expenditure (current LCU)
+218,General government final consumption expenditure (current US$)
+219,Gini index
+220,Goods and services expense (current LCU)
+221,"Goods exports (BoP, current US$)"
+222,"Goods imports (BoP, current US$)"
+223,Government Effectiveness: Estimate
+224,Government Effectiveness: Number of Sources
+225,Government Effectiveness: Percentile Rank
+226,Government Effectiveness: Standard Error
+227,Grants and other revenue (current LCU)
+228,"Grants, excluding technical cooperation (BoP, current US$)"
+229,Gross capital formation (constant 2015 US$)
+230,Gross capital formation (constant LCU)
+231,Gross capital formation (current LCU)
+232,Gross capital formation (current US$)
+233,Gross domestic income (constant LCU)
+234,Gross domestic savings (current LCU)
+235,Gross domestic savings (current US$)
+236,Gross fixed capital formation (constant 2015 US$)
+237,Gross fixed capital formation (constant LCU)
+238,Gross fixed capital formation (current LCU)
+239,Gross fixed capital formation (current US$)
+240,"Gross fixed capital formation, private sector (current LCU)"
+241,Gross national expenditure (constant 2015 US$)
+242,Gross national expenditure (constant LCU)
+243,Gross national expenditure (current LCU)
+244,Gross national expenditure (current US$)
+245,Gross national expenditure deflator (base year varies by country)
+246,Gross savings (current LCU)
+247,Gross savings (current US$)
+248,Gross value added at basic prices (GVA) (constant 2015 US$)
+249,Gross value added at basic prices (GVA) (constant LCU)
+250,Gross value added at basic prices (GVA) (current LCU)
+251,Gross value added at basic prices (GVA) (current US$)
+252,High-technology exports (current US$)
+253,"Hospital beds (per 1,000 people)"
+254,Households and NPISHs Final consumption expenditure (constant 2015 US$)
+255,Households and NPISHs Final consumption expenditure (constant LCU)
+256,Households and NPISHs Final consumption expenditure (current LCU)
+257,Households and NPISHs Final consumption expenditure (current US$)
+258,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$)
+259,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)"
+260,"Households and NPISHs Final consumption expenditure, PPP (current international $)"
+261,Households and NPISHs final consumption expenditure: linked series (current LCU)
+262,Human capital index (HCI) (scale 0-1)
+263,"Human capital index (HCI), female (scale 0-1)"
+264,"Human capital index (HCI), female, lower bound (scale 0-1)"
+265,"Human capital index (HCI), female, upper bound (scale 0-1)"
+266,"Human capital index (HCI), lower bound (scale 0-1)"
+267,"Human capital index (HCI), male (scale 0-1)"
+268,"Human capital index (HCI), male, lower bound (scale 0-1)"
+269,"Human capital index (HCI), male, upper bound (scale 0-1)"
+270,"Human capital index (HCI), upper bound (scale 0-1)"
+271,"IBRD loans and IDA credits (DOD, current US$)"
+272,"ICT service exports (BoP, current US$)"
+273,IDA resource allocation index (1=low to 6=high)
+274,"IFC, private nonguaranteed (NFL, US$)"
+275,"IMF repurchases and charges (TDS, current US$)"
+276,Import unit value index (2015 = 100)
+277,Import value index (2015 = 100)
+278,Import volume index (2015 = 100)
+279,"Imports of goods and services (BoP, current US$)"
+280,Imports of goods and services (constant 2015 US$)
+281,Imports of goods and services (constant LCU)
+282,Imports of goods and services (current LCU)
+283,Imports of goods and services (current US$)
+284,"Imports of goods, services and primary income (BoP, current US$)"
+285,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)"
+286,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)"
+287,"Incidence of HIV, all (per 1,000 uninfected population)"
+288,"Incidence of malaria (per 1,000 population at risk)"
+289,"Incidence of tuberculosis (per 100,000 people)"
+290,"Industrial design applications, nonresident, by count"
+291,"Industrial design applications, resident, by count"
+292,"Industry (including construction), value added (constant 2015 US$)"
+293,"Industry (including construction), value added (constant LCU)"
+294,"Industry (including construction), value added (current LCU)"
+295,"Industry (including construction), value added (current US$)"
+296,"Industry (including construction), value added per worker (constant 2015 US$)"
+297,"Intentional homicides (per 100,000 people)"
+298,"Intentional homicides, female (per 100,000 female)"
+299,"Intentional homicides, male (per 100,000 male)"
+300,Interest payments (current LCU)
+301,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)"
+302,"Internally displaced persons, new displacement associated with disasters (number of cases)"
+303,"Internally displaced persons, total displaced by conflict and violence (number of people)"
+304,"International migrant stock, total"
+305,"International tourism, expenditures (current US$)"
+306,"International tourism, expenditures for passenger transport items (current US$)"
+307,"International tourism, expenditures for travel items (current US$)"
+308,"International tourism, number of arrivals"
+309,"International tourism, number of departures"
+310,"International tourism, receipts (current US$)"
+311,"International tourism, receipts for passenger transport items (current US$)"
+312,"International tourism, receipts for travel items (current US$)"
+313,Investment in ICT with private participation (current US$)
+314,Investment in energy with private participation (current US$)
+315,Investment in transport with private participation (current US$)
+316,Investment in water and sanitation with private participation (current US$)
+317,"Labor force, total"
+318,Land area (sq. km)
+319,Land under cereal production (hectares)
+320,"Lead time to export, median case (days)"
+321,"Lead time to import, median case (days)"
+322,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
+323,"Life expectancy at birth, female (years)"
+324,"Life expectancy at birth, male (years)"
+325,"Life expectancy at birth, total (years)"
+326,Lifetime risk of maternal death (1 in: rate varies by country)
+327,Liner shipping connectivity index (maximum value in 2004 = 100)
+328,"Listed domestic companies, total"
+329,"Literacy rate, youth (ages 15-24), gender parity index (GPI)"
+330,Livestock production index (2014-2016 = 100)
+331,Logistics performance index: Ability to track and trace consignments (1=low to 5=high)
+332,Logistics performance index: Competence and quality of logistics services (1=low to 5=high)
+333,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)
+334,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)
+335,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
+336,Logistics performance index: Overall (1=low to 5=high)
+337,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high)
+338,Lower secondary school starting age (years)
+339,"Mammal species, threatened"
+340,"Manufacturing, value added (constant 2015 US$)"
+341,"Manufacturing, value added (constant LCU)"
+342,"Manufacturing, value added (current LCU)"
+343,"Manufacturing, value added (current US$)"
+344,Market capitalization of listed domestic companies (current US$)
+345,"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+346,"Maternal mortality ratio (national estimate, per 100,000 live births)"
+347,Merchandise exports (current US$)
+348,Merchandise exports by the reporting economy (current US$)
+349,Merchandise imports (current US$)
+350,Merchandise imports by the reporting economy (current US$)
+351,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)
+352,Methane (CH4) emissions from Agriculture (Mt CO2e)
+353,Methane (CH4) emissions from Building (Energy) (Mt CO2e)
+354,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+355,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e)
+356,Methane (CH4) emissions from Industrial Processes (Mt CO2e)
+357,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e)
+358,Methane (CH4) emissions from Transport (Energy) (Mt CO2e)
+359,Methane (CH4) emissions from Waste (Mt CO2e)
+360,Military expenditure (current LCU)
+361,Military expenditure (current USD)
+362,Mobile cellular subscriptions
+363,Mobile cellular subscriptions (per 100 people)
+364,"Mortality caused by road traffic injury (per 100,000 population)"
+365,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)"
+366,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)"
+367,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)"
+368,"Mortality rate attributed to unintentional poisoning (per 100,000 population)"
+369,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)"
+370,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)"
+371,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)"
+372,"Mortality rate, adult, female (per 1,000 female adults)"
+373,"Mortality rate, adult, male (per 1,000 male adults)"
+374,"Mortality rate, infant (per 1,000 live births)"
+375,"Mortality rate, infant, female (per 1,000 live births)"
+376,"Mortality rate, infant, male (per 1,000 live births)"
+377,"Mortality rate, neonatal (per 1,000 live births)"
+378,"Mortality rate, under-5 (per 1,000 live births)"
+379,"Mortality rate, under-5, female (per 1,000 live births)"
+380,"Mortality rate, under-5, male (per 1,000 live births)"
+381,"Multilateral debt service (TDS, current US$)"
+382,"Net ODA provided, to the least developed countries (current US$)"
+383,"Net ODA provided, total (constant 2021 US$)"
+384,"Net ODA provided, total (current US$)"
+385,Net ODA received per capita (current US$)
+386,Net acquisition of financial assets (current LCU)
+387,Net barter terms of trade index (2015 = 100)
+388,"Net bilateral aid flows from DAC donors, Australia (current US$)"
+389,"Net bilateral aid flows from DAC donors, Austria (current US$)"
+390,"Net bilateral aid flows from DAC donors, Belgium (current US$)"
+391,"Net bilateral aid flows from DAC donors, Canada (current US$)"
+392,"Net bilateral aid flows from DAC donors, Czechia (current US$)"
+393,"Net bilateral aid flows from DAC donors, Denmark (current US$)"
+394,"Net bilateral aid flows from DAC donors, Estonia (current US$)"
+395,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)"
+396,"Net bilateral aid flows from DAC donors, Finland (current US$)"
+397,"Net bilateral aid flows from DAC donors, France (current US$)"
+398,"Net bilateral aid flows from DAC donors, Germany (current US$)"
+399,"Net bilateral aid flows from DAC donors, Greece (current US$)"
+400,"Net bilateral aid flows from DAC donors, Hungary (current US$)"
+401,"Net bilateral aid flows from DAC donors, Iceland (current US$)"
+402,"Net bilateral aid flows from DAC donors, Ireland (current US$)"
+403,"Net bilateral aid flows from DAC donors, Italy (current US$)"
+404,"Net bilateral aid flows from DAC donors, Japan (current US$)"
+405,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)"
+406,"Net bilateral aid flows from DAC donors, Lithuania (current US$)"
+407,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)"
+408,"Net bilateral aid flows from DAC donors, Netherlands (current US$)"
+409,"Net bilateral aid flows from DAC donors, New Zealand (current US$)"
+410,"Net bilateral aid flows from DAC donors, Norway (current US$)"
+411,"Net bilateral aid flows from DAC donors, Poland (current US$)"
+412,"Net bilateral aid flows from DAC donors, Portugal (current US$)"
+413,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)"
+414,"Net bilateral aid flows from DAC donors, Slovenia (current US$)"
+415,"Net bilateral aid flows from DAC donors, Spain (current US$)"
+416,"Net bilateral aid flows from DAC donors, Sweden (current US$)"
+417,"Net bilateral aid flows from DAC donors, Switzerland (current US$)"
+418,"Net bilateral aid flows from DAC donors, Total (current US$)"
+419,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)"
+420,"Net bilateral aid flows from DAC donors, United States (current US$)"
+421,"Net capital account (BoP, current US$)"
+422,Net domestic credit (current LCU)
+423,"Net errors and omissions (BoP, current US$)"
+424,"Net financial account (BoP, current US$)"
+425,"Net financial flows, IBRD (NFL, current US$)"
+426,"Net financial flows, IDA (NFL, current US$)"
+427,"Net financial flows, IMF concessional (NFL, current US$)"
+428,"Net financial flows, IMF nonconcessional (NFL, current US$)"
+429,"Net financial flows, RDB concessional (NFL, current US$)"
+430,"Net financial flows, RDB nonconcessional (NFL, current US$)"
+431,"Net financial flows, bilateral (NFL, current US$)"
+432,"Net financial flows, multilateral (NFL, current US$)"
+433,"Net financial flows, others (NFL, current US$)"
+434,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)"
+435,Net foreign assets (current LCU)
+436,"Net incurrence of liabilities, total (current LCU)"
+437,Net investment in nonfinancial assets (current LCU)
+438,Net lending (+) / net borrowing (-) (current LCU)
+439,Net migration
+440,Net official aid received (constant 2021 US$)
+441,Net official aid received (current US$)
+442,Net official development assistance and official aid received (constant 2021 US$)
+443,Net official development assistance and official aid received (current US$)
+444,Net official development assistance received (constant 2021 US$)
+445,Net official development assistance received (current US$)
+446,"Net official flows from UN agencies, CERF (current US$)"
+447,"Net official flows from UN agencies, FAO (current US$)"
+448,"Net official flows from UN agencies, IAEA (current US$)"
+449,"Net official flows from UN agencies, IFAD (current US$)"
+450,"Net official flows from UN agencies, ILO (current US$)"
+451,"Net official flows from UN agencies, SDGFUND (current US$)"
+452,"Net official flows from UN agencies, SPRP (current US$)"
+453,"Net official flows from UN agencies, UNAIDS (current US$)"
+454,"Net official flows from UN agencies, UNCDF (current US$)"
+455,"Net official flows from UN agencies, UNCOVID (current US$)"
+456,"Net official flows from UN agencies, UNCTAD (current US$)"
+457,"Net official flows from UN agencies, UNDP (current US$)"
+458,"Net official flows from UN agencies, UNECE (current US$)"
+459,"Net official flows from UN agencies, UNEP (current US$)"
+460,"Net official flows from UN agencies, UNFPA (current US$)"
+461,"Net official flows from UN agencies, UNHCR (current US$)"
+462,"Net official flows from UN agencies, UNICEF (current US$)"
+463,"Net official flows from UN agencies, UNIDIR (current US$)"
+464,"Net official flows from UN agencies, UNIDO (current US$)"
+465,"Net official flows from UN agencies, UNPBF (current US$)"
+466,"Net official flows from UN agencies, UNRWA (current US$)"
+467,"Net official flows from UN agencies, UNTA (current US$)"
+468,"Net official flows from UN agencies, UNWOMEN (current US$)"
+469,"Net official flows from UN agencies, UNWTO (current US$)"
+470,"Net official flows from UN agencies, WFP (current US$)"
+471,"Net official flows from UN agencies, WHO (current US$)"
+472,"Net official flows from UN agencies, WTO-ITC (current US$)"
+473,"Net primary income (BoP, current US$)"
+474,Net primary income (Net income from abroad) (constant LCU)
+475,Net primary income (Net income from abroad) (current LCU)
+476,Net primary income (Net income from abroad) (current US$)
+477,"Net secondary income (BoP, current US$)"
+478,Net secondary income (Net current transfers from abroad) (constant LCU)
+479,Net secondary income (Net current transfers from abroad) (current LCU)
+480,Net secondary income (Net current transfers from abroad) (current US$)
+481,"Net trade in goods (BoP, current US$)"
+482,"Net trade in goods and services (BoP, current US$)"
+483,"New business density (new registrations per 1,000 people ages 15-64)"
+484,New businesses registered (number)
+485,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)
+486,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e)
+487,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e)
+488,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+489,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e)
+490,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e)
+491,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e)
+492,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e)
+493,Nitrous oxide (N2O) emissions from Waste (Mt CO2e)
+494,Number of deaths ages 10-14 years
+495,Number of deaths ages 15-19 years
+496,Number of deaths ages 20-24 years
+497,Number of deaths ages 5-9 years
+498,Number of infant deaths
+499,Number of maternal deaths
+500,Number of neonatal deaths
+501,"Number of surgical procedures (per 100,000 population)"
+502,Number of under-five deaths
+503,Number of visits or required meetings with tax officials (average for affected firms)
+504,"Nurses and midwives (per 1,000 people)"
+505,"Official exchange rate (LCU per US$, period average)"
+506,Other expense (current LCU)
+507,Other taxes (current LCU)
+508,Out-of-pocket expenditure per capita (current US$)
+509,"Out-of-pocket expenditure per capita, PPP (current international $)"
+510,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+511,"PNG, bonds (NFL, current US$)"
+512,"PNG, commercial banks and other creditors (NFL, current US$)"
+513,"PPG, IBRD (DOD, current US$)"
+514,"PPG, IDA (DOD, current US$)"
+515,"PPG, bonds (NFL, current US$)"
+516,"PPG, commercial banks (NFL, current US$)"
+517,"PPG, official creditors (NFL, US$)"
+518,"PPG, other private creditors (NFL, current US$)"
+519,"PPG, private creditors (NFL, US$)"
+520,"PPP conversion factor, GDP (LCU per international $)"
+521,"PPP conversion factor, private consumption (LCU per international $)"
+522,"Patent applications, nonresidents"
+523,"Patent applications, residents"
+524,"Personal remittances, paid (current US$)"
+525,"Personal remittances, received (current US$)"
+526,"Personal transfers, receipts (BoP, current US$)"
+527,"Physicians (per 1,000 people)"
+528,"Plant species (higher), threatened"
+529,Political Stability and Absence of Violence/Terrorism: Estimate
+530,Political Stability and Absence of Violence/Terrorism: Number of Sources
+531,Political Stability and Absence of Violence/Terrorism: Percentile Rank
+532,Political Stability and Absence of Violence/Terrorism: Standard Error
+533,"Population ages 0-14, female"
+534,"Population ages 0-14, male"
+535,"Population ages 0-14, total"
+536,"Population ages 15-64, female"
+537,"Population ages 15-64, male"
+538,"Population ages 15-64, total"
+539,"Population ages 65 and above, female"
+540,"Population ages 65 and above, male"
+541,"Population ages 65 and above, total"
+542,Population density (people per sq. km of land area)
+543,Population in largest city
+544,Population in urban agglomerations of more than 1 million
+545,"Population, female"
+546,"Population, male"
+547,"Population, total"
+548,"Portfolio equity, net inflows (BoP, current US$)"
+549,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)"
+550,"Portfolio investment, net (BoP, current US$)"
+551,Power outages in firms in a typical month (number)
+552,"Preprimary education, duration (years)"
+553,Present value of external debt (current US$)
+554,Price level ratio of PPP conversion factor (GDP) to market exchange rate
+555,"Primary education, duration (years)"
+556,"Primary education, pupils"
+557,"Primary education, teachers"
+558,"Primary income payments (BoP, current US$)"
+559,"Primary income receipts (BoP, current US$)"
+560,Primary school starting age (years)
+561,"Probability of dying among adolescents ages 10-14 years (per 1,000)"
+562,"Probability of dying among adolescents ages 15-19 years (per 1,000)"
+563,"Probability of dying among children ages 5-9 years (per 1,000)"
+564,"Probability of dying among youth ages 20-24 years (per 1,000)"
+565,Procedures to build a warehouse (number)
+566,Procedures to register property (number)
+567,Prosperity gap (average shortfall from a prosperity standard of $25/day)
+568,Public private partnerships investment in ICT (current US$)
+569,Public private partnerships investment in energy (current US$)
+570,Public private partnerships investment in transport (current US$)
+571,Public private partnerships investment in water and sanitation (current US$)
+572,"Pupil-teacher ratio, lower secondary"
+573,"Pupil-teacher ratio, preprimary"
+574,"Pupil-teacher ratio, primary"
+575,"Pupil-teacher ratio, secondary"
+576,"Pupil-teacher ratio, tertiary"
+577,"Pupil-teacher ratio, upper secondary"
+578,Rail lines (total route-km)
+579,"Railways, goods transported (million ton-km)"
+580,"Railways, passengers carried (million passenger-km)"
+581,Real effective exchange rate index (2010 = 100)
+582,Refugee population by country or territory of asylum
+583,Refugee population by country or territory of origin
+584,Regulatory Quality: Estimate
+585,Regulatory Quality: Number of Sources
+586,Regulatory Quality: Percentile Rank
+587,Regulatory Quality: Standard Error
+588,Renewable internal freshwater resources per capita (cubic meters)
+589,"Renewable internal freshwater resources, total (billion cubic meters)"
+590,Researchers in R&D (per million people)
+591,"Reserves and related items (BoP, current US$)"
+592,"Revenue, excluding grants (current LCU)"
+593,Rule of Law: Estimate
+594,Rule of Law: Number of Sources
+595,Rule of Law: Percentile Rank
+596,Rule of Law: Standard Error
+597,Rural land area (sq. km)
+598,Rural land area where elevation is below 5 meters (sq. km)
+599,Rural population
+600,"School enrollment, primary (gross), gender parity index (GPI)"
+601,"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+602,"School enrollment, secondary (gross), gender parity index (GPI)"
+603,"School enrollment, tertiary (gross), gender parity index (GPI)"
+604,Scientific and technical journal articles
+605,"Secondary education, duration (years)"
+606,"Secondary education, general pupils"
+607,"Secondary education, pupils"
+608,"Secondary education, teachers"
+609,"Secondary education, teachers, female"
+610,"Secondary education, vocational pupils"
+611,"Secondary income receipts (BoP, current US$)"
+612,"Secondary income, other sectors, payments (BoP, current US$)"
+613,Secure Internet servers
+614,Secure Internet servers (per 1 million people)
+615,"Service exports (BoP, current US$)"
+616,"Service imports (BoP, current US$)"
+617,"Services, value added (constant 2015 US$)"
+618,"Services, value added (constant LCU)"
+619,"Services, value added (current LCU)"
+620,"Services, value added (current US$)"
+621,"Services, value added per worker (constant 2015 US$)"
+622,Sex ratio at birth (male births per female births)
+623,Social contributions (current LCU)
+624,"Specialist surgical workforce (per 100,000 population)"
+625,Start-up procedures to register a business (number)
+626,"Start-up procedures to register a business, female (number)"
+627,"Start-up procedures to register a business, male (number)"
+628,Statistical performance indicators (SPI): Overall score (scale 0-100)
+629,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100)
+630,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100)
+631,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100)
+632,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100)
+633,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100)
+634,"Stocks traded, total value (current US$)"
+635,Strength of legal rights index (0=weak to 12=strong)
+636,Subsidies and other transfers (current LCU)
+637,"Suicide mortality rate (per 100,000 population)"
+638,"Suicide mortality rate, female (per 100,000 female population)"
+639,"Suicide mortality rate, male (per 100,000 male population)"
+640,Surface area (sq. km)
+641,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)"
+642,Tax payments (number)
+643,Tax revenue (current LCU)
+644,Taxes less subsidies on products (constant LCU)
+645,Taxes less subsidies on products (current LCU)
+646,Taxes less subsidies on products (current US$)
+647,Taxes on exports (current LCU)
+648,Taxes on goods and services (current LCU)
+649,"Taxes on income, profits and capital gains (current LCU)"
+650,Taxes on international trade (current LCU)
+651,"Technical cooperation grants (BoP, current US$)"
+652,Technicians in R&D (per million people)
+653,Terms of trade adjustment (constant LCU)
+654,Time required to build a warehouse (days)
+655,Time required to enforce a contract (days)
+656,Time required to get electricity (days)
+657,Time required to obtain an operating license (days)
+658,Time required to register property (days)
+659,Time required to start a business (days)
+660,"Time required to start a business, female (days)"
+661,"Time required to start a business, male (days)"
+662,"Time to export, border compliance (hours)"
+663,"Time to export, documentary compliance (hours)"
+664,"Time to import, border compliance (hours)"
+665,"Time to import, documentary compliance (hours)"
+666,Time to obtain an electrical connection (days)
+667,Time to prepare and pay taxes (hours)
+668,Time to resolve insolvency (years)
+669,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)"
+670,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)"
+671,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)"
+672,Total fisheries production (metric tons)
+673,Total greenhouse gas emissions excluding LULUCF (Mt CO2e)
+674,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita)
+675,Total greenhouse gas emissions including LULUCF (Mt CO2e)
+676,"Total reserves (includes gold, current US$)"
+677,Total reserves in months of imports
+678,Total reserves minus gold (current US$)
+679,"Trademark applications, nonresident, by count"
+680,"Trademark applications, resident, by count"
+681,UHC service coverage index
+682,Urban land area (sq. km)
+683,Urban land area where elevation is below 5 meters (sq. km)
+684,Urban population
+685,"Use of IMF credit (DOD, current US$)"
+686,Voice and Accountability: Estimate
+687,Voice and Accountability: Number of Sources
+688,Voice and Accountability: Percentile Rank
+689,Voice and Accountability: Standard Error
+690,Wanted fertility rate (births per woman)
+691,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)"
+692,Wholesale price index (2010 = 100)
+693,Women Business and the Law Index Score (scale 1-100)
+694,World medium voter turnout in election
+695,Young people (ages 15-24) newly infected with HIV
