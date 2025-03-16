@@ -1,275 +1,376 @@
 Series Name,id
-Aquaculture production (metric tons),9
-Net secondary income (Net current transfers from abroad) (current US$),7
-Net secondary income (Net current transfers from abroad) (current LCU),7
-Cereal production (metric tons),6
-Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),6
-Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),6
-Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),6
-Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),6
-Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),5
-Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),5
-"Personal remittances, paid (current US$)",5
-"Net secondary income (BoP, current US$)",5
-"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",5
-"Mortality rate, adult, female (per 1,000 female adults)",5
-"Net bilateral aid flows from DAC donors, Switzerland (current US$)",5
-Total fisheries production (metric tons),5
-Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),5
-Total greenhouse gas emissions excluding LULUCF (Mt CO2e),5
-Methane (CH4) emissions from Agriculture (Mt CO2e),5
-Military expenditure (current USD),5
-External balance on goods and services (current LCU),5
-Crop production index (2014-2016 = 100),5
-Mobile cellular subscriptions,5
-External balance on goods and services (current US$),5
-Women Business and the Law Index Score (scale 1-100),5
-Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),4
-Carbon dioxide (CO2) emissions from Waste (Mt CO2e),4
-"Mortality rate, adult, male (per 1,000 male adults)",4
-Mobile cellular subscriptions (per 100 people),4
-"Net bilateral aid flows from DAC donors, Norway (current US$)",4
-Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),4
-"Air transport, passengers carried",4
-Capture fisheries production (metric tons),4
-Renewable internal freshwater resources per capita (cubic meters),4
-Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),4
-Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),4
-"Annual freshwater withdrawals, total (billion cubic meters)",4
-Arable land (hectares per person),4
-Adjusted savings: particulate emission damage (current US$),4
-Livestock production index (2014-2016 = 100),4
+Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),23
+"Death rate, crude (per 1,000 people)",21
+Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),21
+Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),21
+Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),20
+Women Business and the Law Index Score (scale 1-100),20
+Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),20
+Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),20
+Total greenhouse gas emissions excluding LULUCF (Mt CO2e),20
+External balance on goods and services (current LCU),19
+Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),19
+Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),19
+Aquaculture production (metric tons),19
+Methane (CH4) emissions from Transport (Energy) (Mt CO2e),19
+Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),19
+"Personal remittances, paid (current US$)",18
+Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),18
+Methane (CH4) emissions from Waste (Mt CO2e),18
+Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),18
+Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),18
+Nitrous oxide (N2O) emissions from Waste (Mt CO2e),18
+Urban population,18
+Capture fisheries production (metric tons),18
+"Official exchange rate (LCU per US$, period average)",18
+Adjusted net national income (current US$),18
+Cereal production (metric tons),18
+Methane (CH4) emissions from Agriculture (Mt CO2e),18
+F-gases emissions from Industrial Processes (Mt CO2e),18
+Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita),18
+Total fisheries production (metric tons),18
+Agricultural land (sq. km),18
+Adjusted savings: carbon dioxide damage (current US$),18
+Adjusted net national income per capita (current US$),17
+Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),17
+Arable land (hectares),17
+Cereal yield (kg per hectare),17
+"Population ages 15-64, female",17
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",17
+Fertilizer consumption (kilograms per hectare of arable land),17
+Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),17
+"Agriculture, forestry, and fishing, value added (current LCU)",17
+Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),17
+Number of deaths ages 20-24 years,17
+Number of deaths ages 15-19 years,17
+Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),17
+Number of deaths ages 5-9 years,17
+Number of deaths ages 10-14 years,17
+Livestock production index (2014-2016 = 100),17
+Land under cereal production (hectares),17
+Adjusted savings: energy depletion (current US$),17
+Gross capital formation (current LCU),17
+"Probability of dying among children ages 5-9 years (per 1,000)",16
+Rural population,16
+"Agriculture, forestry, and fishing, value added (current US$)",16
+"Probability of dying among adolescents ages 15-19 years (per 1,000)",16
+Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),16
+Methane (CH4) emissions from Building (Energy) (Mt CO2e),16
+"Mortality rate, infant (per 1,000 live births)",16
+Gross capital formation (current US$),16
+Gross domestic savings (current LCU),16
+"Life expectancy at birth, female (years)",16
+"Mortality rate, adult, male (per 1,000 male adults)",16
+Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),16
+Merchandise exports by the reporting economy (current US$),16
+Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),16
+Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),16
+"Birth rate, crude (per 1,000 people)",16
+"PPP conversion factor, GDP (LCU per international $)",16
+Expense (current LCU),16
+Food production index (2014-2016 = 100),16
+Sex ratio at birth (male births per female births),16
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,16
+"Probability of dying among youth ages 20-24 years (per 1,000)",15
+Number of neonatal deaths,15
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",15
+Changes in inventories (current LCU),15
+Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),15
+"PPP conversion factor, private consumption (LCU per international $)",15
+"Personal remittances, received (current US$)",15
+"Population ages 15-64, male",15
+Taxes less subsidies on products (current US$),15
+Total reserves minus gold (current US$),15
+"Total reserves (includes gold, current US$)",15
+"Air transport, passengers carried",15
+"Probability of dying among adolescents ages 10-14 years (per 1,000)",15
+Net primary income (Net income from abroad) (current US$),15
+External balance on goods and services (current US$),15
+Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),15
+Mobile cellular subscriptions,15
+"Net primary income (BoP, current US$)",15
+Mobile cellular subscriptions (per 100 people),15
+Military expenditure (current USD),15
+Net migration,15
+GDP (current LCU),15
+Merchandise imports by the reporting economy (current US$),15
+Forest area (sq. km),15
+"Fertility rate, total (births per woman)",15
+GDP deflator (base year varies by country),15
+"Air transport, freight (million ton-km)",15
+Adjusted savings: mineral depletion (current US$),15
+Adjusted savings: education expenditure (current US$),15
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,14
+Gross fixed capital formation (current LCU),14
+"Population ages 65 and above, female",14
+GDP per capita (current US$),14
+"GDP, PPP (current international $)",14
+"Patent applications, nonresidents",14
+Arable land (hectares per person),14
+Gross domestic savings (current US$),14
+Net secondary income (Net current transfers from abroad) (current LCU),14
+Merchandise exports (current US$),14
+"Manufacturing, value added (current US$)",14
+Renewable internal freshwater resources per capita (cubic meters),14
+"Mortality rate, adult, female (per 1,000 female adults)",14
+Final consumption expenditure (current LCU),14
+"Mortality rate, under-5 (per 1,000 live births)",14
+"Life expectancy at birth, male (years)",14
+Commercial service exports (current US$),14
+Imports of goods and services (current LCU),14
+Exports of goods and services (current LCU),14
+Consumer price index (2010 = 100),14
+"Primary education, pupils",13
+Commercial service imports (current US$),13
+Crop production index (2014-2016 = 100),13
+"Industry (including construction), value added (current LCU)",13
+Number of infant deaths,13
+"Air transport, registered carrier departures worldwide",13
+"Households and NPISHs Final consumption expenditure, PPP (current international $)",13
+"Annual freshwater withdrawals, total (billion cubic meters)",13
+"Population ages 0-14, male",13
+General government final consumption expenditure (current LCU),13
+"Armed forces personnel, total",13
+Refugee population by country or territory of asylum,13
+Adjusted savings: net forest depletion (current US$),13
+Taxes less subsidies on products (current LCU),13
+Tax revenue (current LCU),13
+Merchandise imports (current US$),13
+"Mortality rate, neonatal (per 1,000 live births)",13
+Exports of goods and services (current US$),13
+Changes in inventories (current US$),13
+Net secondary income (Net current transfers from abroad) (current US$),13
+"Exports of goods and services (BoP, current US$)",13
+Net primary income (Net income from abroad) (current LCU),13
+GDP (current US$),13
+Military expenditure (current LCU),13
+"Mortality rate, infant, female (per 1,000 live births)",13
+"Primary income receipts (BoP, current US$)",12
+Adjusted savings: particulate emission damage (current US$),12
+Subsidies and other transfers (current LCU),12
+"Mortality rate, under-5, male (per 1,000 live births)",12
+"Mortality rate, under-5, female (per 1,000 live births)",12
+"Primary income payments (BoP, current US$)",12
+General government final consumption expenditure (current US$),12
+"GNI per capita, Atlas method (current US$)",12
+"GDP per capita, PPP (current international $)",12
+GNI (current US$),12
+GDP per capita (current LCU),12
+"GNI, PPP (current international $)",12
+"Taxes on income, profits and capital gains (current LCU)",12
+Total reserves in months of imports,12
+"Labor force, total",12
+Final consumption expenditure (current US$),12
+"Secondary income receipts (BoP, current US$)",12
+"Services, value added (current LCU)",12
+GDP deflator: linked series (base year varies by country),12
+"Secondary income, other sectors, payments (BoP, current US$)",12
+"Population ages 0-14, female",12
+"GNI, Atlas method (current US$)",12
+Gross value added at basic prices (GVA) (current US$),12
+Households and NPISHs Final consumption expenditure (current US$),12
+Fixed telephone subscriptions (per 100 people),12
+Fixed telephone subscriptions,12
+"Current account balance (BoP, current US$)",12
+Imports of goods and services (current US$),12
+Gross value added at basic prices (GVA) (current LCU),12
+"Services, value added (current US$)",11
+Population in largest city,11
+Taxes on goods and services (current LCU),11
+GNI per capita (current LCU),11
+Arms imports (SIPRI trend indicator values),11
+Grants and other revenue (current LCU),11
+"GNI per capita, PPP (current international $)",11
+"Population ages 65 and above, male",11
+Households and NPISHs Final consumption expenditure (current LCU),11
+Gross national expenditure deflator (base year varies by country),11
+Other expense (current LCU),11
+"Net secondary income (BoP, current US$)",11
+"Imports of goods and services (BoP, current US$)",11
+Number of under-five deaths,11
+"Exports of goods, services and primary income (BoP, current US$)",11
+Gross fixed capital formation (current US$),11
+Gross national expenditure (current US$),11
+Compensation of employees (current LCU),11
+"Net financial account (BoP, current US$)",11
+"Manufacturing, value added (current LCU)",11
+"Mortality rate, infant, male (per 1,000 live births)",11
+Refugee population by country or territory of origin,11
+"Revenue, excluding grants (current LCU)",11
+Adults (ages 15-49) newly infected with HIV,11
+Surface area (sq. km),11
+Adults (ages 15+) and children (ages 0-14) newly infected with HIV,11
+Adjusted savings: consumption of fixed capital (current US$),11
+"Life expectancy at birth, total (years)",10
+"Net bilateral aid flows from DAC donors, Germany (current US$)",10
+"Net ODA provided, total (current US$)",10
+Methane (CH4) emissions from Industrial Processes (Mt CO2e),10
+"Population, male",10
+"Industry (including construction), value added (current US$)",10
+"Net trade in goods (BoP, current US$)",10
+"Net official flows from UN agencies, WFP (current US$)",10
+Discrepancy in expenditure estimate of GDP (current LCU),10
+"Intentional homicides (per 100,000 people)",10
+"Foreign direct investment, net outflows (BoP, current US$)",10
+"Foreign direct investment, net (BoP, current US$)",10
+"Net errors and omissions (BoP, current US$)",10
+Young people (ages 15-24) newly infected with HIV,10
+Carbon dioxide (CO2) emissions from Waste (Mt CO2e),10
+Gross national expenditure (current LCU),10
+"Goods exports (BoP, current US$)",10
+"Service exports (BoP, current US$)",10
+"Population, female",10
+"Foreign direct investment, net inflows (BoP, current US$)",9
+Import unit value index (2015 = 100),9
+"ICT service exports (BoP, current US$)",9
+GNI: linked series (current LCU),9
+Population density (people per sq. km of land area),9
+GNI (current LCU),9
+Gross savings (current US$),9
+Households and NPISHs final consumption expenditure: linked series (current LCU),9
+Other taxes (current LCU),9
+DEC alternative conversion factor (LCU per US$),9
+Real effective exchange rate index (2010 = 100),9
+"Net financial flows, bilateral (NFL, current US$)",9
+"Net bilateral aid flows from DAC donors, Switzerland (current US$)",9
+"Net trade in goods and services (BoP, current US$)",9
+"Charges for the use of intellectual property, receipts (BoP, current US$)",9
+"Charges for the use of intellectual property, payments (BoP, current US$)",9
+"Imports of goods, services and primary income (BoP, current US$)",9
+Adjusted savings: net national savings (current US$),9
+Land area (sq. km),9
+"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",9
+"Net bilateral aid flows from DAC donors, Norway (current US$)",8
+"Net ODA provided, to the least developed countries (current US$)",8
+"Net bilateral aid flows from DAC donors, Finland (current US$)",8
+"Secondary education, pupils",8
+"Intentional homicides, female (per 100,000 female)",8
+"Net bilateral aid flows from DAC donors, Total (current US$)",8
+Interest payments (current LCU),8
+Export value index (2015 = 100),8
+"Net financial flows, multilateral (NFL, current US$)",8
+"Net official flows from UN agencies, UNDP (current US$)",8
+"Incidence of HIV, all (per 1,000 uninfected population)",8
+Net official development assistance and official aid received (current US$),8
+Goods and services expense (current LCU),8
+"Patent applications, residents",8
+"Service imports (BoP, current US$)",8
+"Technical cooperation grants (BoP, current US$)",8
+"Physicians (per 1,000 people)",8
+"Grants, excluding technical cooperation (BoP, current US$)",8
+GDP: linked series (current LCU),8
+Arms exports (SIPRI trend indicator values),8
+"Population ages 0-14, total",8
+"Goods imports (BoP, current US$)",8
+"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",8
+"School enrollment, tertiary (gross), gender parity index (GPI)",7
+"Net bilateral aid flows from DAC donors, European Union institutions (current US$)",7
+Gross savings (current LCU),7
+"Children out of school, primary",7
+Population in urban agglomerations of more than 1 million,7
+"PPG, official creditors (NFL, US$)",7
+"Adjusted net savings, excluding particulate emission damage (current US$)",7
+Social contributions (current LCU),7
+"External debt stocks, long-term (DOD, current US$)",7
+"Net official flows from UN agencies, UNFPA (current US$)",7
+Import value index (2015 = 100),7
+"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",7
+"Net bilateral aid flows from DAC donors, Ireland (current US$)",7
+"Use of IMF credit (DOD, current US$)",7
+"Net bilateral aid flows from DAC donors, Japan (current US$)",7
+"Net bilateral aid flows from DAC donors, Sweden (current US$)",7
+"Net financial flows, IDA (NFL, current US$)",7
+"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)",7
+"PPG, IDA (DOD, current US$)",6
+"IBRD loans and IDA credits (DOD, current US$)",6
+Children (0-14) living with HIV,6
+"Adjusted net savings, including particulate emission damage (current US$)",6
+Broad money to total reserves ratio,6
+Net domestic credit (current LCU),6
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",6
+"Debt service on external debt, total (TDS, current US$)",6
+"Net official flows from UN agencies, UNICEF (current US$)",6
+Import volume index (2015 = 100),6
+"Hospital beds (per 1,000 people)",6
+Customs and other import duties (current LCU),6
+"Net bilateral aid flows from DAC donors, United States (current US$)",6
+"Stocks traded, total value (current US$)",6
+"Listed domestic companies, total",6
+Net ODA received per capita (current US$),6
+Net barter terms of trade index (2015 = 100),6
+"Net bilateral aid flows from DAC donors, Australia (current US$)",6
+Net lending (+) / net borrowing (-) (current LCU),6
+"Multilateral debt service (TDS, current US$)",6
+"School enrollment, primary (gross), gender parity index (GPI)",6
+"Industrial design applications, nonresident, by count",6
+"Net bilateral aid flows from DAC donors, Canada (current US$)",5
+Primary school starting age (years),5
+"Reserves and related items (BoP, current US$)",5
+"Net bilateral aid flows from DAC donors, France (current US$)",5
+"Net bilateral aid flows from DAC donors, Italy (current US$)",5
+"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",5
+"Net bilateral aid flows from DAC donors, Austria (current US$)",5
+"Primary education, duration (years)",5
+"Portfolio investment, net (BoP, current US$)",5
+Net foreign assets (current LCU),5
+"Intentional homicides, male (per 100,000 male)",5
+Net official development assistance received (current US$),5
+Export unit value index (2015 = 100),5
+"Industrial design applications, resident, by count",5
+"IMF repurchases and charges (TDS, current US$)",5
+"Population ages 15-64, total",5
+"Population, total",5
+"Personal transfers, receipts (BoP, current US$)",5
+"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",5
+Taxes on international trade (current LCU),5
+Children (ages 0-14) newly infected with HIV,5
+"Net bilateral aid flows from DAC donors, Netherlands (current US$)",4
+Lower secondary school starting age (years),4
+"Central government debt, total (current LCU)",4
+Broad money (current LCU),4
+"Net financial flows, others (NFL, current US$)",4
+"Nurses and midwives (per 1,000 people)",4
+"Net official flows from UN agencies, IFAD (current US$)",4
+Export volume index (2015 = 100),4
+Battle-related deaths (number of people),4
+"External debt stocks, short-term (DOD, current US$)",4
 Market capitalization of listed domestic companies (current US$),4
-Methane (CH4) emissions from Building (Energy) (Mt CO2e),4
-Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),4
-Fertilizer consumption (kilograms per hectare of arable land),4
-Fixed telephone subscriptions (per 100 people),4
-Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),4
-"Stocks traded, total value (current US$)",4
-Gross capital formation (current LCU),4
-Adjusted savings: mineral depletion (current US$),4
-Number of deaths ages 20-24 years,3
-Other expense (current LCU),3
-Net primary income (Net income from abroad) (current US$),3
-"Net trade in goods and services (BoP, current US$)",3
-Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),3
-"Population ages 15-64, male",3
-"Population ages 15-64, female",3
-"Charges for the use of intellectual property, payments (BoP, current US$)",3
-"Population ages 0-14, female",3
-Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),3
-"Primary income payments (BoP, current US$)",3
-"Probability of dying among adolescents ages 10-14 years (per 1,000)",3
-"Secondary education, pupils",3
-Real effective exchange rate index (2010 = 100),3
-"Probability of dying among children ages 5-9 years (per 1,000)",3
-Number of deaths ages 15-19 years,3
-Nitrous oxide (N2O) emissions from Waste (Mt CO2e),3
-Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),3
-Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),3
-Cereal yield (kg per hectare),3
-Arable land (hectares),3
-"Foreign direct investment, net inflows (BoP, current US$)",3
-F-gases emissions from Industrial Processes (Mt CO2e),3
-DEC alternative conversion factor (LCU per US$),3
-Compensation of employees (current LCU),3
-Net primary income (Net income from abroad) (current LCU),3
-Methane (CH4) emissions from Transport (Energy) (Mt CO2e),3
-Forest area (sq. km),3
-GDP (current LCU),3
-"GNI per capita, Atlas method (current US$)",3
-Military expenditure (current LCU),3
-Exports of goods and services (current LCU),3
-"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)",3
-"Net bilateral aid flows from DAC donors, Canada (current US$)",3
-"Net bilateral aid flows from DAC donors, United States (current US$)",3
-Net foreign assets (current LCU),3
-Net migration,3
-"Net official flows from UN agencies, UNICEF (current US$)",3
-Fixed telephone subscriptions,3
-Food production index (2014-2016 = 100),3
-Merchandise exports (current US$),3
-Merchandise exports by the reporting economy (current US$),3
-Gross capital formation (current US$),3
-Gross fixed capital formation (current LCU),3
-Import volume index (2015 = 100),3
-Imports of goods and services (current US$),3
-"Manufacturing, value added (current US$)",3
-Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),3
-"Grants, excluding technical cooperation (BoP, current US$)",3
-"Life expectancy at birth, female (years)",3
-Adjusted net national income (current US$),3
-"Total reserves (includes gold, current US$)",3
-Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,3
-"Industrial design applications, nonresident, by count",3
-"Adolescent fertility rate (births per 1,000 women ages 15-19)",3
-"Agriculture, forestry, and fishing, value added (current US$)",3
-Adjusted savings: carbon dioxide damage (current US$),3
-Adjusted net national income per capita (current US$),3
-Adjusted savings: education expenditure (current US$),2
-Adjusted savings: net forest depletion (current US$),2
-Adjusted savings: energy depletion (current US$),2
-Adjusted savings: net national savings (current US$),2
-Total reserves minus gold (current US$),2
-"Secondary income, other sectors, payments (BoP, current US$)",2
-"Air transport, freight (million ton-km)",2
-"Listed domestic companies, total",2
-Gross domestic savings (current US$),2
-Grants and other revenue (current LCU),2
-"Goods imports (BoP, current US$)",2
-"Intentional homicides, male (per 100,000 male)",2
-"Intentional homicides, female (per 100,000 female)",2
-"Intentional homicides (per 100,000 people)",2
-"Industry (including construction), value added (current US$)",2
-"Net official flows from UN agencies, IFAD (current US$)",2
-Commercial service exports (current US$),2
-Commercial service imports (current US$),2
-Net official development assistance and official aid received (current US$),2
-"Net financial account (BoP, current US$)",2
-"Net bilateral aid flows from DAC donors, United Kingdom (current US$)",2
-"Mortality rate, neonatal (per 1,000 live births)",2
-"Net ODA provided, total (current US$)",2
-"GNI per capita, PPP (current international $)",2
-"GNI, Atlas method (current US$)",2
-"Mortality rate, infant, female (per 1,000 live births)",2
-"Mortality rate, infant (per 1,000 live births)",2
-"Mortality rate, infant, male (per 1,000 live births)",2
-Net barter terms of trade index (2015 = 100),2
-"GDP per capita, PPP (current international $)",2
-GDP per capita (current LCU),2
-GDP deflator (base year varies by country),2
-GDP deflator: linked series (base year varies by country),2
-Merchandise imports by the reporting economy (current US$),2
-Methane (CH4) emissions from Waste (Mt CO2e),2
-Merchandise imports (current US$),2
-Imports of goods and services (current LCU),2
-Import value index (2015 = 100),2
-"ICT service exports (BoP, current US$)",2
-Children (ages 0-14) newly infected with HIV,2
-Other taxes (current LCU),2
-"Official exchange rate (LCU per US$, period average)",2
-"PPP conversion factor, GDP (LCU per international $)",2
-"Primary education, pupils",2
-"Physicians (per 1,000 people)",2
-"Population ages 0-14, male",2
-Population in urban agglomerations of more than 1 million,2
-Refugee population by country or territory of origin,2
-"Primary income receipts (BoP, current US$)",2
-Rural population,2
-"Revenue, excluding grants (current LCU)",2
-Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),2
-"Air transport, registered carrier departures worldwide",2
-Population in largest city,2
-"Birth rate, crude (per 1,000 people)",2
-"Net trade in goods (BoP, current US$)",2
-Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),2
-Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),2
-Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),2
-"Patent applications, nonresidents",2
-Changes in inventories (current LCU),2
-"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",2
-Number of deaths ages 10-14 years,2
-"Foreign direct investment, net outflows (BoP, current US$)",2
-"Net bilateral aid flows from DAC donors, Total (current US$)",2
-"Foreign direct investment, net (BoP, current US$)",2
-Final consumption expenditure (current LCU),2
-"Net bilateral aid flows from DAC donors, Sweden (current US$)",2
-Exports of goods and services (current US$),2
-"Net bilateral aid flows from DAC donors, Luxembourg (current US$)",2
-"Net bilateral aid flows from DAC donors, Finland (current US$)",2
-Number of deaths ages 5-9 years,2
-"Debt service on external debt, total (TDS, current US$)",2
-"Death rate, crude (per 1,000 people)",2
-Customs and other import duties (current LCU),2
-"Labor force, total",1
-Land area (sq. km),1
-Land under cereal production (hectares),1
-"Life expectancy at birth, male (years)",1
-"Goods exports (BoP, current US$)",1
-"Life expectancy at birth, total (years)",1
-Gini index,1
-Goods and services expense (current LCU),1
-"Use of IMF credit (DOD, current US$)",1
-"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)",1
-"Industrial design applications, resident, by count",1
-"Industry (including construction), value added (current LCU)",1
-Agricultural land (sq. km),1
-"Services, value added (current US$)",1
-"Services, value added (current LCU)",1
-"Secondary income receipts (BoP, current US$)",1
-"Agriculture, forestry, and fishing, value added (current LCU)",1
-"Adjusted net savings, excluding particulate emission damage (current US$)",1
-"Adjusted net savings, including particulate emission damage (current US$)",1
-Adults (ages 15+) and children (ages 0-14) newly infected with HIV,1
-Surface area (sq. km),1
-Taxes less subsidies on products (current LCU),1
-Total reserves in months of imports,1
-Urban population,1
-"Net bilateral aid flows from DAC donors, Australia (current US$)",1
-Net ODA received per capita (current US$),1
-"Mortality rate, under-5, male (per 1,000 live births)",1
-"Net ODA provided, to the least developed countries (current US$)",1
-Consumer price index (2010 = 100),1
-"Children out of school, primary, male",1
-"Net official flows from UN agencies, UNDP (current US$)",1
-"Net official flows from UN agencies, UNFPA (current US$)",1
-Net official development assistance received (current US$),1
-Net domestic credit (current LCU),1
-"Net financial flows, IDA (NFL, current US$)",1
-"Net incurrence of liabilities, total (current LCU)",1
-"Net bilateral aid flows from DAC donors, Netherlands (current US$)",1
-"Net bilateral aid flows from DAC donors, Italy (current US$)",1
-"Net bilateral aid flows from DAC donors, Ireland (current US$)",1
-"Net bilateral aid flows from DAC donors, Germany (current US$)",1
-"External debt stocks, short-term (DOD, current US$)",1
-"Net bilateral aid flows from DAC donors, Spain (current US$)",1
-"Fertility rate, total (births per woman)",1
-Final consumption expenditure (current US$),1
-"Net bilateral aid flows from DAC donors, Denmark (current US$)",1
-"Net bilateral aid flows from DAC donors, France (current US$)",1
-GDP: linked series (current LCU),1
-"GDP, PPP (current international $)",1
-"Gross fixed capital formation, private sector (current LCU)",1
-Methane (CH4) emissions from Industrial Processes (Mt CO2e),1
-GDP per capita (current US$),1
-GDP (current US$),1
-General government final consumption expenditure (current US$),1
-General government final consumption expenditure (current LCU),1
-GNI: linked series (current LCU),1
-"Mortality rate, under-5 (per 1,000 live births)",1
-Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),1
-Export volume index (2015 = 100),1
-Export unit value index (2015 = 100),1
-Export value index (2015 = 100),1
-"Charges for the use of intellectual property, receipts (BoP, current US$)",1
-Changes in inventories (current US$),1
-"Central government debt, total (current LCU)",1
-"Patent applications, residents",1
-"PPG, official creditors (NFL, US$)",1
-Number of under-five deaths,1
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",4
+"School enrollment, secondary (gross), gender parity index (GPI)",4
+"Secondary education, duration (years)",4
+"Net bilateral aid flows from DAC donors, Denmark (current US$)",4
+"Net capital account (BoP, current US$)",4
+"External debt stocks, total (DOD, current US$)",4
+"Net bilateral aid flows from DAC donors, New Zealand (current US$)",3
+"Net bilateral aid flows from DAC donors, Spain (current US$)",3
+"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)",3
+"Net financial flows, IMF nonconcessional (NFL, current US$)",3
+"Net financial flows, RDB concessional (NFL, current US$)",3
+"IFC, private nonguaranteed (NFL, US$)",3
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",3
+Net acquisition of financial assets (current LCU),3
+"Population ages 65 and above, total",3
+"Net incurrence of liabilities, total (current LCU)",3
+"PPG, other private creditors (NFL, current US$)",2
+"Net financial flows, RDB nonconcessional (NFL, current US$)",2
+Wholesale price index (2010 = 100),2
+Prosperity gap (average shortfall from a prosperity standard of $25/day),2
+"Gross fixed capital formation, private sector (current LCU)",2
+"Net financial flows, IBRD (NFL, current US$)",2
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",2
+Gini index,2
+"Portfolio equity, net inflows (BoP, current US$)",2
+"Secondary education, teachers, female",2
+"Secondary education, teachers",1
+"Net bilateral aid flows from DAC donors, Belgium (current US$)",1
+Public private partnerships investment in transport (current US$),1
+"Net official flows from UN agencies, UNHCR (current US$)",1
+Investment in transport with private participation (current US$),1
+"PPG, private creditors (NFL, US$)",1
+"PPG, commercial banks (NFL, current US$)",1
 "PNG, commercial banks and other creditors (NFL, current US$)",1
-"PPG, IDA (DOD, current US$)",1
-Number of infant deaths,1
-"Nurses and midwives (per 1,000 people)",1
-Expense (current LCU),1
-"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)",1
-"Current account balance (BoP, current US$)",1
-"Population ages 15-64, total",1
-"Population ages 65 and above, female",1
-Children (0-14) living with HIV,1
+"PPG, IBRD (DOD, current US$)",1
 "Primary education, teachers",1
-Price level ratio of PPP conversion factor (GDP) to market exchange rate,1
-Population density (people per sq. km of land area),1
-"Population ages 65 and above, male",1
-"Children out of school, primary",1
-"Population ages 0-14, total",1
-Broad money to total reserves ratio,1
-"Armed forces personnel, total",1
-Refugee population by country or territory of asylum,1
-"Probability of dying among adolescents ages 15-19 years (per 1,000)",1
-Broad money (current LCU),1
-"School enrollment, primary (gross), gender parity index (GPI)",1
-"School enrollment, primary and secondary (gross), gender parity index (GPI)",1
-"School enrollment, secondary (gross), gender parity index (GPI)",1
-"School enrollment, tertiary (gross), gender parity index (GPI)",1
-Young people (ages 15-24) newly infected with HIV,1
+Taxes on exports (current LCU),1
+"Children out of school, primary, male",1
+"Children out of school, primary, female",1
