@@ -23,1411 +23,1475 @@ Series Name ID,Series Name
 22,"Adjusted net enrollment rate, primary, female (% of primary school age children)"
 23,"Adjusted net enrollment rate, primary, male (% of primary school age children)"
 24,Adjusted net national income (annual % growth)
-25,Adjusted net national income (current US$)
-26,Adjusted net national income per capita (annual % growth)
-27,Adjusted net national income per capita (current US$)
-28,"Adjusted net savings, excluding particulate emission damage (% of GNI)"
-29,"Adjusted net savings, excluding particulate emission damage (current US$)"
-30,"Adjusted net savings, including particulate emission damage (% of GNI)"
-31,"Adjusted net savings, including particulate emission damage (current US$)"
-32,Adjusted savings: carbon dioxide damage (% of GNI)
-33,Adjusted savings: carbon dioxide damage (current US$)
-34,Adjusted savings: consumption of fixed capital (% of GNI)
-35,Adjusted savings: consumption of fixed capital (current US$)
-36,Adjusted savings: education expenditure (% of GNI)
-37,Adjusted savings: education expenditure (current US$)
-38,Adjusted savings: energy depletion (% of GNI)
-39,Adjusted savings: energy depletion (current US$)
-40,Adjusted savings: gross savings (% of GNI)
-41,Adjusted savings: mineral depletion (% of GNI)
-42,Adjusted savings: mineral depletion (current US$)
-43,Adjusted savings: natural resources depletion (% of GNI)
-44,Adjusted savings: net forest depletion (% of GNI)
-45,Adjusted savings: net forest depletion (current US$)
-46,Adjusted savings: net national savings (% of GNI)
-47,Adjusted savings: net national savings (current US$)
-48,Adjusted savings: particulate emission damage (% of GNI)
-49,Adjusted savings: particulate emission damage (current US$)
-50,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
-51,Adolescents out of school (% of lower secondary school age)
-52,"Adolescents out of school, female (% of female lower secondary school age)"
-53,"Adolescents out of school, male (% of male lower secondary school age)"
-54,Adults (ages 15+) and children (ages 0-14) newly infected with HIV
-55,Adults (ages 15-49) newly infected with HIV
-56,Age dependency ratio (% of working-age population)
-57,"Age dependency ratio, old (% of working-age population)"
-58,"Age dependency ratio, young (% of working-age population)"
-59,Agricultural irrigated land (% of total agricultural land)
-60,Agricultural land (% of land area)
-61,Agricultural land (sq. km)
-62,Agricultural raw materials exports (% of merchandise exports)
-63,Agricultural raw materials imports (% of merchandise imports)
-64,"Agriculture, forestry, and fishing, value added (% of GDP)"
-65,"Agriculture, forestry, and fishing, value added (annual % growth)"
-66,"Agriculture, forestry, and fishing, value added (current LCU)"
-67,"Agriculture, forestry, and fishing, value added (current US$)"
-68,"Air transport, freight (million ton-km)"
-69,"Air transport, passengers carried"
-70,"Air transport, registered carrier departures worldwide"
-71,Alternative and nuclear energy (% of total energy use)
-72,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)"
-73,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)"
-74,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)"
-75,"Annual freshwater withdrawals, total (% of internal resources)"
-76,"Annual freshwater withdrawals, total (billion cubic meters)"
-77,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"
-78,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)"
-79,Antiretroviral therapy coverage (% of people living with HIV)
-80,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)
-81,Aquaculture production (metric tons)
-82,Arable land (% of land area)
-83,Arable land (hectares per person)
-84,Arable land (hectares)
-85,Armed forces personnel (% of total labor force)
-86,"Armed forces personnel, total"
-87,Arms exports (SIPRI trend indicator values)
-88,Arms imports (SIPRI trend indicator values)
-89,"Automated teller machines (ATMs) (per 100,000 adults)"
-90,Average precipitation in depth (mm per year)
-91,Average time to clear exports through customs (days)
-92,Average transaction cost of sending remittances from a specific country (%)
-93,Average transaction cost of sending remittances to a specific country (%)
-94,"Average working hours of children, study and work, ages 7-14 (hours per week)"
-95,"Average working hours of children, study and work, female, ages 7-14 (hours per week)"
-96,"Average working hours of children, study and work, male, ages 7-14 (hours per week)"
-97,"Average working hours of children, working only, ages 7-14 (hours per week)"
-98,"Average working hours of children, working only, female, ages 7-14 (hours per week)"
-99,"Average working hours of children, working only, male, ages 7-14 (hours per week)"
-100,Bank capital to assets ratio (%)
-101,Bank liquid reserves to bank assets ratio (%)
-102,Bank nonperforming loans to total gross loans (%)
-103,Battle-related deaths (number of people)
-104,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits)
-105,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits)
-106,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits)
-107,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits)
-108,"Binding coverage, all products (%)"
-109,"Binding coverage, manufactured products (%)"
-110,"Binding coverage, primary products (%)"
-111,"Bird species, threatened"
-112,"Birth rate, crude (per 1,000 people)"
-113,Births attended by skilled health staff (% of total)
-114,"Borrowers from commercial banks (per 1,000 adults)"
-115,"Bound rate, simple mean, all products (%)"
-116,"Bound rate, simple mean, manufactured products (%)"
-117,"Bound rate, simple mean, primary products (%)"
-118,Bribery incidence (% of firms experiencing at least one bribe payment request)
-119,Broad money (% of GDP)
-120,Broad money (current LCU)
-121,Broad money growth (annual %)
-122,Broad money to total reserves ratio
-123,Business extent of disclosure index (0=less disclosure to 10=more disclosure)
-124,CPIA building human resources rating (1=low to 6=high)
-125,CPIA business regulatory environment rating (1=low to 6=high)
-126,CPIA debt policy rating (1=low to 6=high)
-127,CPIA economic management cluster average (1=low to 6=high)
-128,CPIA efficiency of revenue mobilization rating (1=low to 6=high)
-129,CPIA equity of public resource use rating (1=low to 6=high)
-130,CPIA financial sector rating (1=low to 6=high)
-131,CPIA fiscal policy rating (1=low to 6=high)
-132,CPIA gender equality rating (1=low to 6=high)
-133,CPIA macroeconomic management rating (1=low to 6=high)
-134,CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
-135,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high)
-136,CPIA property rights and rule-based governance rating (1=low to 6=high)
-137,CPIA public sector management and institutions cluster average (1=low to 6=high)
-138,CPIA quality of budgetary and financial management rating (1=low to 6=high)
-139,CPIA quality of public administration rating (1=low to 6=high)
-140,CPIA social protection rating (1=low to 6=high)
-141,CPIA structural policies cluster average (1=low to 6=high)
-142,CPIA trade rating (1=low to 6=high)
-143,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)"
-144,Capture fisheries production (metric tons)
-145,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990)
-146,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)
-147,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)
-148,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e)
-149,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e)
-150,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e)
-151,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e)
-152,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e)
-153,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e)
-154,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e)
-155,Carbon dioxide (CO2) emissions from Waste (Mt CO2e)
-156,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e)
-157,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e)
-158,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e)
-159,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e)
-160,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e)
-161,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP)
-162,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)"
-163,"Cause of death, by injury (% of total)"
-164,"Cause of death, by non-communicable diseases (% of total)"
-165,"Central government debt, total (% of GDP)"
-166,"Central government debt, total (current LCU)"
-167,Cereal production (metric tons)
-168,Cereal yield (kg per hectare)
-169,Changes in inventories (current LCU)
-170,Changes in inventories (current US$)
-171,"Charges for the use of intellectual property, payments (BoP, current US$)"
-172,"Charges for the use of intellectual property, receipts (BoP, current US$)"
-173,Chemicals (% of value added in manufacturing)
-174,Child employment in agriculture (% of economically active children ages 7-14)
-175,"Child employment in agriculture, female (% of female economically active children ages 7-14)"
-176,"Child employment in agriculture, male (% of male economically active children ages 7-14)"
-177,Child employment in manufacturing (% of economically active children ages 7-14)
-178,"Child employment in manufacturing, female (% of female economically active children ages 7-14)"
-179,"Child employment in manufacturing, male (% of male economically active children ages 7-14)"
-180,Child employment in services (% of economically active children ages 7-14)
-181,"Child employment in services, female (% of female economically active children ages 7-14)"
-182,"Child employment in services, male (% of male economically active children ages 7-14)"
-183,Children (0-14) living with HIV
-184,Children (ages 0-14) newly infected with HIV
-185,"Children in employment, female (% of female children ages 7-14)"
-186,"Children in employment, male (% of male children ages 7-14)"
-187,"Children in employment, self-employed (% of children in employment, ages 7-14)"
-188,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)"
-189,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)"
-190,"Children in employment, study and work (% of children in employment, ages 7-14)"
-191,"Children in employment, study and work, female (% of female children in employment, ages 7-14)"
-192,"Children in employment, study and work, male (% of male children in employment, ages 7-14)"
-193,"Children in employment, total (% of children ages 7-14)"
-194,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)"
-195,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)"
-196,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)"
-197,"Children in employment, wage workers (% of children in employment, ages 7-14)"
-198,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)"
-199,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)"
-200,"Children in employment, work only (% of children in employment, ages 7-14)"
-201,"Children in employment, work only, female (% of female children in employment, ages 7-14)"
-202,"Children in employment, work only, male (% of male children in employment, ages 7-14)"
-203,Children out of school (% of primary school age)
-204,"Children out of school, female (% of female primary school age)"
-205,"Children out of school, male (% of male primary school age)"
-206,"Children out of school, primary"
-207,"Children out of school, primary, female"
-208,"Children out of school, primary, male"
-209,Children with fever receiving antimalarial drugs (% of children under age 5 with fever)
-210,Claims on central government (annual growth as % of broad money)
-211,"Claims on central government, etc. (% GDP)"
-212,Claims on other sectors of the domestic economy (% of GDP)
-213,Claims on other sectors of the domestic economy (annual growth as % of broad money)
-214,Claims on private sector (annual growth as % of broad money)
-215,Coal rents (% of GDP)
-216,Combustible renewables and waste (% of total energy)
-217,"Commercial bank branches (per 100,000 adults)"
-218,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)"
-219,Commercial service exports (current US$)
-220,Commercial service imports (current US$)
-221,"Communications, computer, etc. (% of service exports, BoP)"
-222,"Communications, computer, etc. (% of service imports, BoP)"
-223,"Community health workers (per 1,000 people)"
-224,Compensation of employees (% of expense)
-225,Compensation of employees (current LCU)
-226,Completeness of birth registration (%)
-227,"Completeness of birth registration, female (%)"
-228,"Completeness of birth registration, male (%)"
-229,"Completeness of birth registration, rural (%)"
-230,"Completeness of birth registration, urban (%)"
-231,Completeness of death registration with cause-of-death information (%)
-232,"Compulsory education, duration (years)"
-233,"Computer, communications and other services (% of commercial service exports)"
-234,"Computer, communications and other services (% of commercial service imports)"
-235,"Condom use, population ages 15-24, female (% of females ages 15-24)"
-236,"Condom use, population ages 15-24, male (% of males ages 15-24)"
-237,Consumer price index (2010 = 100)
-238,Consumption of iodized salt (% of households)
-239,Container port traffic (TEU: 20 foot equivalent units)
-240,"Contraceptive prevalence, any method (% of married women ages 15-49)"
-241,"Contraceptive prevalence, any modern method (% of married women ages 15-49)"
-242,"Contributing family workers, female (% of female employment) (modeled ILO estimate)"
-243,"Contributing family workers, male (% of male employment) (modeled ILO estimate)"
-244,"Contributing family workers, total (% of total employment) (modeled ILO estimate)"
-245,Control of Corruption: Estimate
-246,Control of Corruption: Number of Sources
-247,Control of Corruption: Percentile Rank
-248,"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval"
-249,"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval"
-250,Control of Corruption: Standard Error
-251,Cost of business start-up procedures (% of GNI per capita)
-252,"Cost of business start-up procedures, female (% of GNI per capita)"
-253,"Cost of business start-up procedures, male (% of GNI per capita)"
-254,"Cost to export, border compliance (US$)"
-255,"Cost to export, documentary compliance (US$)"
-256,"Cost to import, border compliance (US$)"
-257,"Cost to import, documentary compliance (US$)"
-258,Coverage of social insurance programs (% of population)
-259,Coverage of social insurance programs in 2nd quintile (% of population)
-260,Coverage of social insurance programs in 3rd quintile (% of population)
-261,Coverage of social insurance programs in 4th quintile (% of population)
-262,Coverage of social insurance programs in poorest quintile (% of population)
-263,Coverage of social insurance programs in richest quintile (% of population)
-264,Coverage of social protection and labor programs (% of population)
-265,Coverage of social safety net programs (% of population)
-266,Coverage of social safety net programs in 2nd quintile (% of population)
-267,Coverage of social safety net programs in 3rd quintile (% of population)
-268,Coverage of social safety net programs in 4th quintile (% of population)
-269,Coverage of social safety net programs in poorest quintile (% of population)
-270,Coverage of social safety net programs in richest quintile (% of population)
-271,Coverage of unemployment benefits and ALMP (% of population)
-272,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population)
-273,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population)
-274,Coverage of unemployment benefits and ALMP in 4th quintile (% of population)
-275,Coverage of unemployment benefits and ALMP in poorest quintile (% of population)
-276,Coverage of unemployment benefits and ALMP in richest quintile (% of population)
-277,Crop production index (2014-2016 = 100)
-278,Current account balance (% of GDP)
-279,"Current account balance (BoP, current US$)"
-280,"Current education expenditure, primary (% of total expenditure in primary public institutions)"
-281,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)"
-282,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)"
-283,"Current education expenditure, total (% of total expenditure in public institutions)"
-284,Current health expenditure (% of GDP)
-285,Current health expenditure per capita (current US$)
-286,"Current health expenditure per capita, PPP (current international $)"
-287,Customs and other import duties (% of tax revenue)
-288,Customs and other import duties (current LCU)
-289,DEC alternative conversion factor (LCU per US$)
-290,"Death rate, crude (per 1,000 people)"
-291,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)"
-292,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)"
-293,"Debt service on external debt, total (TDS, current US$)"
-294,Demand for family planning satisfied by modern methods (% of married women with demand for family planning)
-295,Deposit interest rate (%)
-296,"Depositors with commercial banks (per 1,000 adults)"
-297,Depth of credit information index (0=low to 8=high)
-298,Diabetes prevalence (% of population ages 20 to 79)
-299,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)
-300,Diarrhea treatment (% of children under 5 who received ORS packet)
-301,Disaster risk reduction progress score (1-5 scale; 5=best)
-302,Discrepancy in expenditure estimate of GDP (current LCU)
-303,Domestic credit provided by financial sector (% of GDP)
-304,Domestic credit to private sector (% of GDP)
-305,Domestic credit to private sector by banks (% of GDP)
-306,Domestic general government health expenditure (% of GDP)
-307,Domestic general government health expenditure (% of current health expenditure)
-308,Domestic general government health expenditure (% of general government expenditure)
-309,Domestic general government health expenditure per capita (current US$)
-310,"Domestic general government health expenditure per capita, PPP (current international $)"
-311,Domestic private health expenditure (% of current health expenditure)
-312,Domestic private health expenditure per capita (current US$)
-313,"Domestic private health expenditure per capita, PPP (current international $)"
-314,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)"
-315,Ease of doing business rank (1=most business-friendly regulations)
-316,Ease of doing business score (0 = lowest performance to 100 = best performance)
-317,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)"
-318,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)"
-319,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)"
-320,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)"
-321,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)"
-322,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)"
-323,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)"
-324,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)"
-325,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)"
-326,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)"
-327,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
-328,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)"
-329,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)"
-330,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)"
-331,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)"
-332,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)"
-333,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)"
-334,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"
-335,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)"
-336,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)"
-337,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)"
-338,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)"
-339,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)"
-340,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
-341,Electric power consumption (kWh per capita)
-342,Electric power transmission and distribution losses (% of output)
-343,Electricity production from coal sources (% of total)
-344,Electricity production from hydroelectric sources (% of total)
-345,Electricity production from natural gas sources (% of total)
-346,Electricity production from nuclear sources (% of total)
-347,Electricity production from oil sources (% of total)
-348,"Electricity production from oil, gas and coal sources (% of total)"
-349,"Electricity production from renewable sources, excluding hydroelectric (% of total)"
-350,"Electricity production from renewable sources, excluding hydroelectric (kWh)"
-351,"Employers, female (% of female employment) (modeled ILO estimate)"
-352,"Employers, male (% of male employment) (modeled ILO estimate)"
-353,"Employers, total (% of total employment) (modeled ILO estimate)"
-354,Employment in agriculture (% of total employment) (modeled ILO estimate)
-355,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
-356,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
-357,Employment in industry (% of total employment) (modeled ILO estimate)
-358,"Employment in industry, female (% of female employment) (modeled ILO estimate)"
-359,"Employment in industry, male (% of male employment) (modeled ILO estimate)"
-360,Employment in services (% of total employment) (modeled ILO estimate)
-361,"Employment in services, female (% of female employment) (modeled ILO estimate)"
-362,"Employment in services, male (% of male employment) (modeled ILO estimate)"
-363,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)"
-364,"Employment to population ratio, 15+, female (%) (national estimate)"
-365,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)"
-366,"Employment to population ratio, 15+, male (%) (national estimate)"
-367,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)"
-368,"Employment to population ratio, 15+, total (%) (national estimate)"
-369,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)"
-370,"Employment to population ratio, ages 15-24, female (%) (national estimate)"
-371,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
-372,"Employment to population ratio, ages 15-24, male (%) (national estimate)"
-373,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)"
-374,"Employment to population ratio, ages 15-24, total (%) (national estimate)"
-375,"Energy imports, net (% of energy use)"
-376,Energy intensity level of primary energy (MJ/$2017 PPP GDP)
-377,Energy use (kg of oil equivalent per capita)
-378,Exclusive breastfeeding (% of children under 6 months)
-379,Expenditure on primary education (% of government expenditure on education)
-380,Expenditure on secondary education (% of government expenditure on education)
-381,Expenditure on tertiary education (% of government expenditure on education)
-382,Expense (% of GDP)
-383,Expense (current LCU)
-384,Export unit value index (2015 = 100)
-385,Export value index (2015 = 100)
-386,Export volume index (2015 = 100)
-387,Exports of goods and services (% of GDP)
-388,"Exports of goods and services (BoP, current US$)"
-389,Exports of goods and services (annual % growth)
-390,Exports of goods and services (current LCU)
-391,Exports of goods and services (current US$)
-392,"Exports of goods, services and primary income (BoP, current US$)"
-393,External balance on goods and services (% of GDP)
-394,External balance on goods and services (current LCU)
-395,External balance on goods and services (current US$)
-396,External debt stocks (% of GNI)
-397,"External debt stocks, long-term (DOD, current US$)"
-398,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)"
-399,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)"
-400,"External debt stocks, short-term (DOD, current US$)"
-401,"External debt stocks, total (DOD, current US$)"
-402,External health expenditure (% of current health expenditure)
-403,External health expenditure per capita (current US$)
-404,"External health expenditure per capita, PPP (current international $)"
-405,F-gases emissions from Industrial Processes (Mt CO2e)
-406,Female genital mutilation prevalence (%)
-407,Female headed households (% of households with a female head)
-408,Female primary school age children out-of-school (%)
-409,Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold
-410,Female share of employment in senior and middle management (%)
-411,"Fertility rate, total (births per woman)"
-412,Fertilizer consumption (% of fertilizer production)
-413,Fertilizer consumption (kilograms per hectare of arable land)
-414,Final consumption expenditure (% of GDP)
-415,Final consumption expenditure (annual % growth)
-416,Final consumption expenditure (current LCU)
-417,Final consumption expenditure (current US$)
-418,Financial intermediary services indirectly Measured (FISIM) (current LCU)
-419,Firms competing against unregistered firms (% of firms)
-420,Firms expected to give gifts in meetings with tax officials (% of firms)
-421,Firms experiencing electrical outages (% of firms)
-422,Firms experiencing losses due to theft and vandalism (% of firms)
-423,Firms formally registered when operations started (% of firms)
-424,Firms offering formal training (% of firms)
-425,Firms that do not report all sales for tax purposes (% of firms)
-426,Firms that spend on R&D (% of firms)
-427,Firms using banks to finance investment (% of firms)
-428,Firms using banks to finance working capital (% of firms)
-429,Firms visited or required meetings with tax officials (% of firms)
-430,Firms with female participation in ownership (% of firms)
-431,Firms with female top manager (% of firms)
-432,"Fish species, threatened"
-433,Fixed broadband subscriptions
-434,Fixed broadband subscriptions (per 100 people)
-435,Fixed telephone subscriptions
-436,Fixed telephone subscriptions (per 100 people)
-437,Food exports (% of merchandise exports)
-438,Food imports (% of merchandise imports)
-439,Food production index (2014-2016 = 100)
-440,"Food, beverages and tobacco (% of value added in manufacturing)"
-441,"Foreign direct investment, net (BoP, current US$)"
-442,"Foreign direct investment, net inflows (% of GDP)"
-443,"Foreign direct investment, net inflows (BoP, current US$)"
-444,"Foreign direct investment, net outflows (% of GDP)"
-445,"Foreign direct investment, net outflows (BoP, current US$)"
-446,Forest area (% of land area)
-447,Forest area (sq. km)
-448,Forest rents (% of GDP)
-449,Fossil fuel energy consumption (% of total)
-450,Fuel exports (% of merchandise exports)
-451,Fuel imports (% of merchandise imports)
-452,GDP (current LCU)
-453,GDP (current US$)
-454,GDP deflator (base year varies by country)
-455,GDP deflator: linked series (base year varies by country)
-456,GDP growth (annual %)
-457,GDP per capita (current LCU)
-458,GDP per capita (current US$)
-459,GDP per capita growth (annual %)
-460,"GDP per capita, PPP (current international $)"
-461,GDP per unit of energy use (PPP $ per kg of oil equivalent)
-462,"GDP, PPP (current international $)"
-463,GDP: linked series (current LCU)
-464,GNI (current LCU)
-465,GNI (current US$)
-466,GNI growth (annual %)
-467,GNI per capita (current LCU)
-468,GNI per capita growth (annual %)
-469,"GNI per capita, Atlas method (current US$)"
-470,"GNI per capita, PPP (current international $)"
-471,"GNI, Atlas method (current US$)"
-472,"GNI, PPP (current international $)"
-473,GNI: linked series (current LCU)
-474,General government final consumption expenditure (% of GDP)
-475,General government final consumption expenditure (annual % growth)
-476,General government final consumption expenditure (current LCU)
-477,General government final consumption expenditure (current US$)
-478,Gini index
-479,Goods and services expense (% of expense)
-480,Goods and services expense (current LCU)
-481,"Goods exports (BoP, current US$)"
-482,"Goods imports (BoP, current US$)"
-483,Government Effectiveness: Estimate
-484,Government Effectiveness: Number of Sources
-485,Government Effectiveness: Percentile Rank
-486,"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval"
-487,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval"
-488,Government Effectiveness: Standard Error
-489,"Government expenditure on education, total (% of GDP)"
-490,"Government expenditure on education, total (% of government expenditure)"
-491,"Government expenditure per student, primary (% of GDP per capita)"
-492,"Government expenditure per student, secondary (% of GDP per capita)"
-493,"Government expenditure per student, tertiary (% of GDP per capita)"
-494,Grants and other revenue (% of revenue)
-495,Grants and other revenue (current LCU)
-496,"Grants, excluding technical cooperation (BoP, current US$)"
-497,Gross capital formation (% of GDP)
-498,Gross capital formation (annual % growth)
-499,Gross capital formation (current LCU)
-500,Gross capital formation (current US$)
-501,Gross domestic savings (% of GDP)
-502,Gross domestic savings (current LCU)
-503,Gross domestic savings (current US$)
-504,Gross fixed capital formation (% of GDP)
-505,Gross fixed capital formation (annual % growth)
-506,Gross fixed capital formation (current LCU)
-507,Gross fixed capital formation (current US$)
-508,"Gross fixed capital formation, private sector (% of GDP)"
-509,"Gross fixed capital formation, private sector (current LCU)"
-510,"Gross intake ratio in first grade of primary education, female (% of relevant age group)"
-511,"Gross intake ratio in first grade of primary education, male (% of relevant age group)"
-512,"Gross intake ratio in first grade of primary education, total (% of relevant age group)"
-513,Gross national expenditure (% of GDP)
-514,Gross national expenditure (current LCU)
-515,Gross national expenditure (current US$)
-516,Gross national expenditure deflator (base year varies by country)
-517,Gross savings (% of GDP)
-518,Gross savings (% of GNI)
-519,Gross savings (current LCU)
-520,Gross savings (current US$)
-521,Gross value added at basic prices (GVA) (current LCU)
-522,Gross value added at basic prices (GVA) (current US$)
-523,High-technology exports (% of manufactured exports)
-524,High-technology exports (current US$)
-525,"Hospital beds (per 1,000 people)"
-526,Households and NPISHs Final consumption expenditure (annual % growth)
-527,Households and NPISHs Final consumption expenditure (current LCU)
-528,Households and NPISHs Final consumption expenditure (current US$)
-529,Households and NPISHs Final consumption expenditure per capita growth (annual %)
-530,"Households and NPISHs Final consumption expenditure, PPP (current international $)"
-531,Households and NPISHs final consumption expenditure (% of GDP)
-532,Households and NPISHs final consumption expenditure: linked series (current LCU)
-533,Human capital index (HCI) (scale 0-1)
-534,"Human capital index (HCI), female (scale 0-1)"
-535,"Human capital index (HCI), female, lower bound (scale 0-1)"
-536,"Human capital index (HCI), female, upper bound (scale 0-1)"
-537,"Human capital index (HCI), lower bound (scale 0-1)"
-538,"Human capital index (HCI), male (scale 0-1)"
-539,"Human capital index (HCI), male, lower bound (scale 0-1)"
-540,"Human capital index (HCI), male, upper bound (scale 0-1)"
-541,"Human capital index (HCI), upper bound (scale 0-1)"
-542,"IBRD loans and IDA credits (DOD, current US$)"
-543,ICT goods exports (% of total goods exports)
-544,ICT goods imports (% total goods imports)
-545,"ICT service exports (% of service exports, BoP)"
-546,"ICT service exports (BoP, current US$)"
-547,IDA resource allocation index (1=low to 6=high)
-548,"IFC, private nonguaranteed (NFL, US$)"
-549,"IMF repurchases and charges (TDS, current US$)"
-550,"Immunization, DPT (% of children ages 12-23 months)"
-551,"Immunization, HepB3 (% of one-year-old children)"
-552,"Immunization, measles (% of children ages 12-23 months)"
-553,Import unit value index (2015 = 100)
-554,Import value index (2015 = 100)
-555,Import volume index (2015 = 100)
-556,Imports of goods and services (% of GDP)
-557,"Imports of goods and services (BoP, current US$)"
-558,Imports of goods and services (annual % growth)
-559,Imports of goods and services (current LCU)
-560,Imports of goods and services (current US$)
-561,"Imports of goods, services and primary income (BoP, current US$)"
-562,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)"
-563,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)"
-564,"Incidence of HIV, all (per 1,000 uninfected population)"
-565,"Incidence of malaria (per 1,000 population at risk)"
-566,"Incidence of tuberculosis (per 100,000 people)"
-567,Income share held by fourth 20%
-568,Income share held by highest 10%
-569,Income share held by highest 20%
-570,Income share held by lowest 10%
-571,Income share held by lowest 20%
-572,Income share held by second 20%
-573,Income share held by third 20%
-574,Individuals using the Internet (% of population)
-575,"Individuals using the Internet, female (% of female population)"
-576,"Individuals using the Internet, male (% of male population)"
-577,"Industrial design applications, nonresident, by count"
-578,"Industrial design applications, resident, by count"
-579,"Industry (including construction), value added (% of GDP)"
-580,"Industry (including construction), value added (annual % growth)"
-581,"Industry (including construction), value added (current LCU)"
-582,"Industry (including construction), value added (current US$)"
-583,"Inflation, GDP deflator (annual %)"
-584,"Inflation, GDP deflator: linked series (annual %)"
-585,"Inflation, consumer prices (annual %)"
-586,Informal payments to public officials (% of firms)
-587,Insurance and financial services (% of commercial service exports)
-588,Insurance and financial services (% of commercial service imports)
-589,"Insurance and financial services (% of service exports, BoP)"
-590,"Insurance and financial services (% of service imports, BoP)"
-591,"Intentional homicides (per 100,000 people)"
-592,"Intentional homicides, female (per 100,000 female)"
-593,"Intentional homicides, male (per 100,000 male)"
-594,Interest payments (% of expense)
-595,Interest payments (% of revenue)
-596,Interest payments (current LCU)
-597,"Interest rate spread (lending rate minus deposit rate, %)"
-598,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)"
-599,"Internally displaced persons, new displacement associated with disasters (number of cases)"
-600,"Internally displaced persons, total displaced by conflict and violence (number of people)"
-601,International migrant stock (% of population)
-602,"International migrant stock, total"
-603,"International tourism, expenditures (% of total imports)"
-604,"International tourism, expenditures (current US$)"
-605,"International tourism, expenditures for passenger transport items (current US$)"
-606,"International tourism, expenditures for travel items (current US$)"
-607,"International tourism, number of arrivals"
-608,"International tourism, number of departures"
-609,"International tourism, receipts (% of total exports)"
-610,"International tourism, receipts (current US$)"
-611,"International tourism, receipts for passenger transport items (current US$)"
-612,"International tourism, receipts for travel items (current US$)"
-613,Investment in ICT with private participation (current US$)
-614,Investment in energy with private participation (current US$)
-615,Investment in transport with private participation (current US$)
-616,Investment in water and sanitation with private participation (current US$)
-617,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)"
-618,"Labor force participation rate for ages 15-24, female (%) (national estimate)"
-619,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
-620,"Labor force participation rate for ages 15-24, male (%) (national estimate)"
-621,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)"
-622,"Labor force participation rate for ages 15-24, total (%) (national estimate)"
-623,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
-624,"Labor force participation rate, female (% of female population ages 15+) (national estimate)"
-625,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)"
-626,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
-627,"Labor force participation rate, male (% of male population ages 15+) (national estimate)"
-628,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)"
-629,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)"
-630,"Labor force participation rate, total (% of total population ages 15+) (national estimate)"
-631,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)"
-632,Labor force with advanced education (% of total working-age population with advanced education)
-633,"Labor force with advanced education, female (% of female working-age population with advanced education)"
-634,"Labor force with advanced education, male (% of male working-age population with advanced education)"
-635,Labor force with basic education (% of total working-age population with basic education)
-636,"Labor force with basic education, female (% of female working-age population with basic education)"
-637,"Labor force with basic education, male (% of male working-age population with basic education)"
-638,Labor force with intermediate education (% of total working-age population with intermediate education)
-639,"Labor force with intermediate education, female (% of female working-age population with intermediate education)"
-640,"Labor force with intermediate education, male (% of male working-age population with intermediate education)"
-641,"Labor force, female (% of total labor force)"
-642,"Labor force, total"
-643,Labor tax and contributions (% of commercial profits)
-644,Land area (sq. km)
-645,Land area where elevation is below 5 meters (% of total land area)
-646,Land under cereal production (hectares)
-647,"Lead time to export, median case (days)"
-648,"Lead time to import, median case (days)"
-649,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
-650,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
-651,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
-652,Lending interest rate (%)
-653,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
-654,"Life expectancy at birth, female (years)"
-655,"Life expectancy at birth, male (years)"
-656,"Life expectancy at birth, total (years)"
-657,Lifetime risk of maternal death (%)
-658,Lifetime risk of maternal death (1 in: rate varies by country)
-659,Liner shipping connectivity index (maximum value in 2004 = 100)
-660,"Listed domestic companies, total"
-661,"Literacy rate, adult female (% of females ages 15 and above)"
-662,"Literacy rate, adult male (% of males ages 15 and above)"
-663,"Literacy rate, adult total (% of people ages 15 and above)"
-664,"Literacy rate, youth (ages 15-24), gender parity index (GPI)"
-665,"Literacy rate, youth female (% of females ages 15-24)"
-666,"Literacy rate, youth male (% of males ages 15-24)"
-667,"Literacy rate, youth total (% of people ages 15-24)"
-668,Livestock production index (2014-2016 = 100)
-669,Logistics performance index: Ability to track and trace consignments (1=low to 5=high)
-670,Logistics performance index: Competence and quality of logistics services (1=low to 5=high)
-671,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)
-672,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)
-673,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
-674,Logistics performance index: Overall (1=low to 5=high)
-675,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high)
-676,Losses due to theft and vandalism (% of annual sales for affected firms)
-677,Low-birthweight babies (% of births)
-678,"Lower secondary completion rate, female (% of relevant age group)"
-679,"Lower secondary completion rate, male (% of relevant age group)"
-680,"Lower secondary completion rate, total (% of relevant age group)"
-681,Lower secondary school starting age (years)
-682,Machinery and transport equipment (% of value added in manufacturing)
-683,Male primary school age children out-of-school (%)
-684,Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold
-685,"Mammal species, threatened"
-686,Manufactures exports (% of merchandise exports)
-687,Manufactures imports (% of merchandise imports)
-688,"Manufacturing, value added (% of GDP)"
-689,"Manufacturing, value added (annual % growth)"
-690,"Manufacturing, value added (current LCU)"
-691,"Manufacturing, value added (current US$)"
-692,Marine protected areas (% of territorial waters)
-693,Market capitalization of listed domestic companies (% of GDP)
-694,Market capitalization of listed domestic companies (current US$)
-695,"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
-696,"Maternal mortality ratio (national estimate, per 100,000 live births)"
-697,Medium and high-tech exports (% manufactured exports)
-698,Medium and high-tech manufacturing value added (% manufacturing value added)
-699,Merchandise exports (current US$)
-700,Merchandise exports by the reporting economy (current US$)
-701,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)"
-702,Merchandise exports to economies in the Arab World (% of total merchandise exports)
-703,Merchandise exports to high-income economies (% of total merchandise exports)
-704,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)
-705,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)
-706,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)
-707,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)
-708,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)
-709,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)
-710,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)
-711,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)
-712,Merchandise imports (current US$)
-713,Merchandise imports by the reporting economy (current US$)
-714,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)"
-715,Merchandise imports from economies in the Arab World (% of total merchandise imports)
-716,Merchandise imports from high-income economies (% of total merchandise imports)
-717,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)
-718,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)
-719,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)
-720,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)
-721,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)
-722,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)
-723,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)
-724,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)
-725,Merchandise trade (% of GDP)
-726,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990)
-727,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)
-728,Methane (CH4) emissions from Agriculture (Mt CO2e)
-729,Methane (CH4) emissions from Building (Energy) (Mt CO2e)
-730,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e)
-731,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e)
-732,Methane (CH4) emissions from Industrial Processes (Mt CO2e)
-733,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e)
-734,Methane (CH4) emissions from Transport (Energy) (Mt CO2e)
-735,Methane (CH4) emissions from Waste (Mt CO2e)
-736,Military expenditure (% of GDP)
-737,Military expenditure (% of general government expenditure)
-738,Military expenditure (current LCU)
-739,Military expenditure (current USD)
-740,Mineral rents (% of GDP)
-741,Mobile cellular subscriptions
-742,Mobile cellular subscriptions (per 100 people)
-743,Monetary Sector credit to private sector (% GDP)
-744,"Mortality caused by road traffic injury (per 100,000 population)"
-745,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)"
-746,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)"
-747,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)"
-748,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)"
-749,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)"
-750,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)"
-751,"Mortality rate attributed to unintentional poisoning (per 100,000 population)"
-752,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)"
-753,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)"
-754,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)"
-755,"Mortality rate, adult, female (per 1,000 female adults)"
-756,"Mortality rate, adult, male (per 1,000 male adults)"
-757,"Mortality rate, infant (per 1,000 live births)"
-758,"Mortality rate, infant, female (per 1,000 live births)"
-759,"Mortality rate, infant, male (per 1,000 live births)"
-760,"Mortality rate, neonatal (per 1,000 live births)"
-761,"Mortality rate, under-5 (per 1,000 live births)"
-762,"Mortality rate, under-5, female (per 1,000 live births)"
-763,"Mortality rate, under-5, male (per 1,000 live births)"
-764,Multidimensional poverty headcount ratio (UNDP) (% of population)
-765,Multidimensional poverty headcount ratio (World Bank) (% of population)
-766,Multilateral debt service (% of public and publicly guaranteed debt service)
-767,"Multilateral debt service (TDS, current US$)"
-768,Natural gas rents (% of GDP)
-769,Net ODA provided to the least developed countries (% of GNI)
-770,"Net ODA provided, to the least developed countries (current US$)"
-771,"Net ODA provided, total (% of GNI)"
-772,"Net ODA provided, total (current US$)"
-773,Net ODA received (% of GNI)
-774,Net ODA received (% of central government expense)
-775,Net ODA received (% of gross capital formation)
-776,"Net ODA received (% of imports of goods, services and primary income)"
-777,Net ODA received per capita (current US$)
-778,Net acquisition of financial assets (% of GDP)
-779,Net acquisition of financial assets (current LCU)
-780,Net barter terms of trade index (2015 = 100)
-781,"Net bilateral aid flows from DAC donors, Australia (current US$)"
-782,"Net bilateral aid flows from DAC donors, Austria (current US$)"
-783,"Net bilateral aid flows from DAC donors, Belgium (current US$)"
-784,"Net bilateral aid flows from DAC donors, Canada (current US$)"
-785,"Net bilateral aid flows from DAC donors, Czechia (current US$)"
-786,"Net bilateral aid flows from DAC donors, Denmark (current US$)"
-787,"Net bilateral aid flows from DAC donors, Estonia (current US$)"
-788,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)"
-789,"Net bilateral aid flows from DAC donors, Finland (current US$)"
-790,"Net bilateral aid flows from DAC donors, France (current US$)"
-791,"Net bilateral aid flows from DAC donors, Germany (current US$)"
-792,"Net bilateral aid flows from DAC donors, Greece (current US$)"
-793,"Net bilateral aid flows from DAC donors, Hungary (current US$)"
-794,"Net bilateral aid flows from DAC donors, Iceland (current US$)"
-795,"Net bilateral aid flows from DAC donors, Ireland (current US$)"
-796,"Net bilateral aid flows from DAC donors, Italy (current US$)"
-797,"Net bilateral aid flows from DAC donors, Japan (current US$)"
-798,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)"
-799,"Net bilateral aid flows from DAC donors, Lithuania (current US$)"
-800,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)"
-801,"Net bilateral aid flows from DAC donors, Netherlands (current US$)"
-802,"Net bilateral aid flows from DAC donors, New Zealand (current US$)"
-803,"Net bilateral aid flows from DAC donors, Norway (current US$)"
-804,"Net bilateral aid flows from DAC donors, Poland (current US$)"
-805,"Net bilateral aid flows from DAC donors, Portugal (current US$)"
-806,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)"
-807,"Net bilateral aid flows from DAC donors, Slovenia (current US$)"
-808,"Net bilateral aid flows from DAC donors, Spain (current US$)"
-809,"Net bilateral aid flows from DAC donors, Sweden (current US$)"
-810,"Net bilateral aid flows from DAC donors, Switzerland (current US$)"
-811,"Net bilateral aid flows from DAC donors, Total (current US$)"
-812,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)"
-813,"Net bilateral aid flows from DAC donors, United States (current US$)"
-814,"Net capital account (BoP, current US$)"
-815,Net domestic credit (current LCU)
-816,"Net errors and omissions (BoP, current US$)"
-817,"Net financial account (BoP, current US$)"
-818,"Net financial flows, IBRD (NFL, current US$)"
-819,"Net financial flows, IDA (NFL, current US$)"
-820,"Net financial flows, IMF concessional (NFL, current US$)"
-821,"Net financial flows, IMF nonconcessional (NFL, current US$)"
-822,"Net financial flows, RDB concessional (NFL, current US$)"
-823,"Net financial flows, RDB nonconcessional (NFL, current US$)"
-824,"Net financial flows, bilateral (NFL, current US$)"
-825,"Net financial flows, multilateral (NFL, current US$)"
-826,"Net financial flows, others (NFL, current US$)"
-827,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)"
-828,Net foreign assets (current LCU)
-829,"Net incurrence of liabilities, total (% of GDP)"
-830,"Net incurrence of liabilities, total (current LCU)"
-831,Net intake rate in grade 1 (% of official school-age population)
-832,"Net intake rate in grade 1, female (% of official school-age population)"
-833,"Net intake rate in grade 1, male (% of official school-age population)"
-834,Net investment in nonfinancial assets (% of GDP)
-835,Net investment in nonfinancial assets (current LCU)
-836,Net lending (+) / net borrowing (-) (% of GDP)
-837,Net lending (+) / net borrowing (-) (current LCU)
-838,Net migration
-839,Net official aid received (current US$)
-840,Net official development assistance and official aid received (current US$)
-841,Net official development assistance received (current US$)
-842,"Net official flows from UN agencies, CERF (current US$)"
-843,"Net official flows from UN agencies, FAO (current US$)"
-844,"Net official flows from UN agencies, IAEA (current US$)"
-845,"Net official flows from UN agencies, IFAD (current US$)"
-846,"Net official flows from UN agencies, ILO (current US$)"
-847,"Net official flows from UN agencies, SDGFUND (current US$)"
-848,"Net official flows from UN agencies, SPRP (current US$)"
-849,"Net official flows from UN agencies, UNAIDS (current US$)"
-850,"Net official flows from UN agencies, UNCDF (current US$)"
-851,"Net official flows from UN agencies, UNCOVID (current US$)"
-852,"Net official flows from UN agencies, UNCTAD (current US$)"
-853,"Net official flows from UN agencies, UNDP (current US$)"
-854,"Net official flows from UN agencies, UNECE (current US$)"
-855,"Net official flows from UN agencies, UNEP (current US$)"
-856,"Net official flows from UN agencies, UNFPA (current US$)"
-857,"Net official flows from UN agencies, UNHCR (current US$)"
-858,"Net official flows from UN agencies, UNICEF (current US$)"
-859,"Net official flows from UN agencies, UNIDIR (current US$)"
-860,"Net official flows from UN agencies, UNIDO (current US$)"
-861,"Net official flows from UN agencies, UNPBF (current US$)"
-862,"Net official flows from UN agencies, UNRWA (current US$)"
-863,"Net official flows from UN agencies, UNTA (current US$)"
-864,"Net official flows from UN agencies, UNWOMEN (current US$)"
-865,"Net official flows from UN agencies, UNWTO (current US$)"
-866,"Net official flows from UN agencies, WFP (current US$)"
-867,"Net official flows from UN agencies, WHO (current US$)"
-868,"Net official flows from UN agencies, WTO-ITC (current US$)"
-869,"Net primary income (BoP, current US$)"
-870,Net primary income (Net income from abroad) (current LCU)
-871,Net primary income (Net income from abroad) (current US$)
-872,"Net secondary income (BoP, current US$)"
-873,Net secondary income (Net current transfers from abroad) (current LCU)
-874,Net secondary income (Net current transfers from abroad) (current US$)
-875,"Net trade in goods (BoP, current US$)"
-876,"Net trade in goods and services (BoP, current US$)"
-877,"New business density (new registrations per 1,000 people ages 15-64)"
-878,New businesses registered (number)
-879,Newborns protected against tetanus (%)
-880,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990)
-881,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)
-882,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e)
-883,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e)
-884,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e)
-885,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e)
-886,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e)
-887,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e)
-888,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e)
-889,Nitrous oxide (N2O) emissions from Waste (Mt CO2e)
-890,Number of deaths ages 10-14 years
-891,Number of deaths ages 15-19 years
-892,Number of deaths ages 20-24 years
-893,Number of deaths ages 5-9 years
-894,Number of infant deaths
-895,Number of maternal deaths
-896,Number of neonatal deaths
-897,"Number of surgical procedures (per 100,000 population)"
-898,Number of under-five deaths
-899,Number of visits or required meetings with tax officials (average for affected firms)
-900,"Nurses and midwives (per 1,000 people)"
-901,"Official exchange rate (LCU per US$, period average)"
-902,Oil rents (% of GDP)
-903,Ores and metals exports (% of merchandise exports)
-904,Ores and metals imports (% of merchandise imports)
-905,Other expense (% of expense)
-906,Other expense (current LCU)
-907,Other manufacturing (% of value added in manufacturing)
-908,Other taxes (% of revenue)
-909,Other taxes (current LCU)
-910,Other taxes payable by businesses (% of commercial profits)
-911,Out-of-pocket expenditure (% of current health expenditure)
-912,Out-of-pocket expenditure per capita (current US$)
-913,"Out-of-pocket expenditure per capita, PPP (current international $)"
-914,"Over-age students, primary (% of enrollment)"
-915,"Over-age students, primary, female (% of female enrollment)"
-916,"Over-age students, primary, male (% of male enrollment)"
-917,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
-918,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)"
-919,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)"
-920,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)"
-921,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)"
-922,"PNG, bonds (NFL, current US$)"
-923,"PNG, commercial banks and other creditors (NFL, current US$)"
-924,"PPG, IBRD (DOD, current US$)"
-925,"PPG, IDA (DOD, current US$)"
-926,"PPG, bonds (NFL, current US$)"
-927,"PPG, commercial banks (NFL, current US$)"
-928,"PPG, official creditors (NFL, US$)"
-929,"PPG, other private creditors (NFL, current US$)"
-930,"PPG, private creditors (NFL, US$)"
-931,"PPP conversion factor, GDP (LCU per international $)"
-932,"PPP conversion factor, private consumption (LCU per international $)"
-933,"Part time employment, female (% of total female employment)"
-934,"Part time employment, male (% of total male employment)"
-935,"Part time employment, total (% of total employment)"
-936,"Patent applications, nonresidents"
-937,"Patent applications, residents"
-938,People practicing open defecation (% of population)
-939,"People practicing open defecation, rural (% of rural population)"
-940,"People practicing open defecation, urban (% of urban population)"
-941,People using at least basic drinking water services (% of population)
-942,"People using at least basic drinking water services, rural (% of rural population)"
-943,"People using at least basic drinking water services, urban (% of urban population)"
-944,People using at least basic sanitation services (% of population)
-945,"People using at least basic sanitation services, rural (% of rural population)"
-946,"People using at least basic sanitation services, urban (% of urban population)"
-947,People using safely managed drinking water services (% of population)
-948,"People using safely managed drinking water services, rural (% of rural population)"
-949,"People using safely managed drinking water services, urban (% of urban population)"
-950,People using safely managed sanitation services (% of population)
-951,"People using safely managed sanitation services, rural (% of rural population)"
-952,"People using safely managed sanitation services, urban (% of urban population)"
-953,People with basic handwashing facilities including soap and water (% of population)
-954,"People with basic handwashing facilities including soap and water, rural (% of rural population)"
-955,"People with basic handwashing facilities including soap and water, urban (% of urban population)"
-956,Permanent cropland (% of land area)
-957,"Persistence to grade 5, female (% of cohort)"
-958,"Persistence to grade 5, male (% of cohort)"
-959,"Persistence to grade 5, total (% of cohort)"
-960,"Persistence to last grade of primary, female (% of cohort)"
-961,"Persistence to last grade of primary, male (% of cohort)"
-962,"Persistence to last grade of primary, total (% of cohort)"
-963,"Personal remittances, paid (current US$)"
-964,"Personal remittances, received (% of GDP)"
-965,"Personal remittances, received (current US$)"
-966,"Personal transfers, receipts (BoP, current US$)"
-967,"Physicians (per 1,000 people)"
-968,"Plant species (higher), threatened"
-969,Political Stability and Absence of Violence/Terrorism: Estimate
-970,Political Stability and Absence of Violence/Terrorism: Number of Sources
-971,Political Stability and Absence of Violence/Terrorism: Percentile Rank
-972,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval"
-973,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval"
-974,Political Stability and Absence of Violence/Terrorism: Standard Error
-975,Population ages 0-14 (% of total population)
-976,"Population ages 0-14, female"
-977,"Population ages 0-14, female (% of female population)"
-978,"Population ages 0-14, male"
-979,"Population ages 0-14, male (% of male population)"
-980,"Population ages 0-14, total"
-981,"Population ages 00-04, female (% of female population)"
-982,"Population ages 00-04, male (% of male population)"
-983,"Population ages 05-09, female (% of female population)"
-984,"Population ages 05-09, male (% of male population)"
-985,"Population ages 10-14, female (% of female population)"
-986,"Population ages 10-14, male (% of male population)"
-987,"Population ages 15-19, female (% of female population)"
-988,"Population ages 15-19, male (% of male population)"
-989,Population ages 15-64 (% of total population)
-990,"Population ages 15-64, female"
-991,"Population ages 15-64, female (% of female population)"
-992,"Population ages 15-64, male"
-993,"Population ages 15-64, male (% of male population)"
-994,"Population ages 15-64, total"
-995,"Population ages 20-24, female (% of female population)"
-996,"Population ages 20-24, male (% of male population)"
-997,"Population ages 25-29, female (% of female population)"
-998,"Population ages 25-29, male (% of male population)"
-999,"Population ages 30-34, female (% of female population)"
-1000,"Population ages 30-34, male (% of male population)"
-1001,"Population ages 35-39, female (% of female population)"
-1002,"Population ages 35-39, male (% of male population)"
-1003,"Population ages 40-44, female (% of female population)"
-1004,"Population ages 40-44, male (% of male population)"
-1005,"Population ages 45-49, female (% of female population)"
-1006,"Population ages 45-49, male (% of male population)"
-1007,"Population ages 50-54, female (% of female population)"
-1008,"Population ages 50-54, male (% of male population)"
-1009,"Population ages 55-59, female (% of female population)"
-1010,"Population ages 55-59, male (% of male population)"
-1011,"Population ages 60-64, female (% of female population)"
-1012,"Population ages 60-64, male (% of male population)"
-1013,Population ages 65 and above (% of total population)
-1014,"Population ages 65 and above, female"
-1015,"Population ages 65 and above, female (% of female population)"
-1016,"Population ages 65 and above, male"
-1017,"Population ages 65 and above, male (% of male population)"
-1018,"Population ages 65 and above, total"
-1019,"Population ages 65-69, female (% of female population)"
-1020,"Population ages 65-69, male (% of male population)"
-1021,"Population ages 70-74, female (% of female population)"
-1022,"Population ages 70-74, male (% of male population)"
-1023,"Population ages 75-79, female (% of female population)"
-1024,"Population ages 75-79, male (% of male population)"
-1025,"Population ages 80 and above, female (% of female population)"
-1026,"Population ages 80 and above, male (% of male population)"
-1027,Population density (people per sq. km of land area)
-1028,Population growth (annual %)
-1029,Population in largest city
-1030,Population in the largest city (% of urban population)
-1031,Population in urban agglomerations of more than 1 million
-1032,Population in urban agglomerations of more than 1 million (% of total population)
-1033,Population living in areas where elevation is below 5 meters (% of total population)
-1034,Population living in slums (% of urban population)
-1035,"Population, female"
-1036,"Population, female (% of total population)"
-1037,"Population, male"
-1038,"Population, male (% of total population)"
-1039,"Population, total"
-1040,"Portfolio equity, net inflows (BoP, current US$)"
-1041,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)"
-1042,"Portfolio investment, net (BoP, current US$)"
-1043,Poverty gap at $2.15 a day (2017 PPP) (%)
-1044,Poverty gap at $3.65 a day (2017 PPP) (%)
-1045,Poverty gap at $6.85 a day (2017 PPP) (%)
-1046,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)
-1047,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)
-1048,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)
-1049,Poverty headcount ratio at national poverty lines (% of population)
-1050,Poverty headcount ratio at societal poverty line (% of population)
-1051,Power outages in firms in a typical month (number)
-1052,Pregnant women receiving prenatal care (%)
-1053,"Preprimary education, duration (years)"
-1054,Present value of external debt (% of GNI)
-1055,"Present value of external debt (% of exports of goods, services and primary income)"
-1056,Present value of external debt (current US$)
-1057,"Prevalence of HIV, female (% ages 15-24)"
-1058,"Prevalence of HIV, male (% ages 15-24)"
-1059,"Prevalence of HIV, total (% of population ages 15-49)"
-1060,Prevalence of anemia among children (% of children ages 6-59 months)
-1061,Prevalence of anemia among non-pregnant women (% of women ages 15-49)
-1062,Prevalence of anemia among pregnant women (%)
-1063,Prevalence of anemia among women of reproductive age (% of women ages 15-49)
-1064,Prevalence of current tobacco use (% of adults)
-1065,"Prevalence of current tobacco use, females (% of female adults)"
-1066,"Prevalence of current tobacco use, males (% of male adults)"
-1067,Prevalence of moderate or severe food insecurity in the population (%)
-1068,"Prevalence of overweight (modeled estimate, % of children under 5)"
-1069,"Prevalence of overweight, weight for height (% of children under 5)"
-1070,"Prevalence of overweight, weight for height, female (% of children under 5)"
-1071,"Prevalence of overweight, weight for height, male (% of children under 5)"
-1072,Prevalence of severe food insecurity in the population (%)
-1073,"Prevalence of severe wasting, weight for height (% of children under 5)"
-1074,"Prevalence of severe wasting, weight for height, female (% of children under 5)"
-1075,"Prevalence of severe wasting, weight for height, male (% of children under 5)"
-1076,"Prevalence of stunting, height for age (% of children under 5)"
-1077,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)"
-1078,"Prevalence of stunting, height for age, female (% of children under 5)"
-1079,"Prevalence of stunting, height for age, male (% of children under 5)"
-1080,Prevalence of undernourishment (% of population)
-1081,"Prevalence of underweight, weight for age (% of children under 5)"
-1082,"Prevalence of underweight, weight for age, female (% of children under 5)"
-1083,"Prevalence of underweight, weight for age, male (% of children under 5)"
-1084,"Prevalence of wasting, weight for height (% of children under 5)"
-1085,"Prevalence of wasting, weight for height, female (% of children under 5)"
-1086,"Prevalence of wasting, weight for height, male (% of children under 5)"
-1087,Price level ratio of PPP conversion factor (GDP) to market exchange rate
-1088,"Primary completion rate, female (% of relevant age group)"
-1089,"Primary completion rate, male (% of relevant age group)"
-1090,"Primary completion rate, total (% of relevant age group)"
-1091,"Primary education, duration (years)"
-1092,"Primary education, pupils"
-1093,"Primary education, pupils (% female)"
-1094,"Primary education, teachers"
-1095,"Primary education, teachers (% female)"
-1096,Primary government expenditures as a proportion of original approved budget (%)
-1097,"Primary income payments (BoP, current US$)"
-1098,"Primary income receipts (BoP, current US$)"
-1099,Primary school age children out-of-school (%)
-1100,Primary school starting age (years)
-1101,Private credit bureau coverage (% of adults)
-1102,"Probability of dying among adolescents ages 10-14 years (per 1,000)"
-1103,"Probability of dying among adolescents ages 15-19 years (per 1,000)"
-1104,"Probability of dying among children ages 5-9 years (per 1,000)"
-1105,"Probability of dying among youth ages 20-24 years (per 1,000)"
-1106,Procedures to build a warehouse (number)
-1107,Procedures to register property (number)
-1108,Profit tax (% of commercial profits)
-1109,Progression to secondary school (%)
-1110,"Progression to secondary school, female (%)"
-1111,"Progression to secondary school, male (%)"
-1112,Proportion of people living below 50 percent of median income (%)
-1113,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
-1114,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
-1115,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%)
-1116,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
-1117,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
-1118,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)
-1119,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
-1120,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
-1121,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%)
-1122,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%)
-1123,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%)
-1124,Proportion of seats held by women in national parliaments (%)
-1125,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)"
-1126,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)"
-1127,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49)
-1128,Prosperity gap (average shortfall from a prosperity standard of $25/day)
-1129,Public and publicly guaranteed debt service (% of GNI)
-1130,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)"
-1131,Public credit registry coverage (% of adults)
-1132,Public private partnerships investment in ICT (current US$)
-1133,Public private partnerships investment in energy (current US$)
-1134,Public private partnerships investment in transport (current US$)
-1135,Public private partnerships investment in water and sanitation (current US$)
-1136,"Pupil-teacher ratio, lower secondary"
-1137,"Pupil-teacher ratio, preprimary"
-1138,"Pupil-teacher ratio, primary"
-1139,"Pupil-teacher ratio, secondary"
-1140,"Pupil-teacher ratio, tertiary"
-1141,"Pupil-teacher ratio, upper secondary"
-1142,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold
-1143,Rail lines (total route-km)
-1144,"Railways, goods transported (million ton-km)"
-1145,"Railways, passengers carried (million passenger-km)"
-1146,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
-1147,Ratio of female to male labor force participation rate (%) (national estimate)
-1148,Real effective exchange rate index (2010 = 100)
-1149,Real interest rate (%)
-1150,Refugee population by country or territory of asylum
-1151,Refugee population by country or territory of origin
-1152,Regulatory Quality: Estimate
-1153,Regulatory Quality: Number of Sources
-1154,Regulatory Quality: Percentile Rank
-1155,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval"
-1156,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval"
-1157,Regulatory Quality: Standard Error
-1158,Renewable electricity output (% of total electricity output)
-1159,Renewable energy consumption (% of total final energy consumption)
-1160,Renewable internal freshwater resources per capita (cubic meters)
-1161,"Renewable internal freshwater resources, total (billion cubic meters)"
-1162,"Repeaters, primary, female (% of female enrollment)"
-1163,"Repeaters, primary, male (% of male enrollment)"
-1164,"Repeaters, primary, total (% of total enrollment)"
-1165,Research and development expenditure (% of GDP)
-1166,Researchers in R&D (per million people)
-1167,"Reserves and related items (BoP, current US$)"
-1168,"Revenue, excluding grants (% of GDP)"
-1169,"Revenue, excluding grants (current LCU)"
-1170,Risk of catastrophic expenditure for surgical care (% of people at risk)
-1171,Risk of impoverishing expenditure for surgical care (% of people at risk)
-1172,"Risk premium on lending (lending rate minus treasury bill rate, %)"
-1173,Rule of Law: Estimate
-1174,Rule of Law: Number of Sources
-1175,Rule of Law: Percentile Rank
-1176,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval"
-1177,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval"
-1178,Rule of Law: Standard Error
-1179,Rural land area (sq. km)
-1180,Rural land area where elevation is below 5 meters (% of total land area)
-1181,Rural land area where elevation is below 5 meters (sq. km)
-1182,Rural population
-1183,Rural population (% of total population)
-1184,Rural population growth (annual %)
-1185,Rural population living in areas where elevation is below 5 meters (% of total population)
-1186,S&P Global Equity Indices (annual % change)
-1187,"School enrollment, preprimary (% gross)"
-1188,"School enrollment, preprimary, female (% gross)"
-1189,"School enrollment, preprimary, male (% gross)"
-1190,"School enrollment, primary (% gross)"
-1191,"School enrollment, primary (% net)"
-1192,"School enrollment, primary (gross), gender parity index (GPI)"
-1193,"School enrollment, primary and secondary (gross), gender parity index (GPI)"
-1194,"School enrollment, primary, female (% gross)"
-1195,"School enrollment, primary, female (% net)"
-1196,"School enrollment, primary, male (% gross)"
-1197,"School enrollment, primary, male (% net)"
-1198,"School enrollment, primary, private (% of total primary)"
-1199,"School enrollment, secondary (% gross)"
-1200,"School enrollment, secondary (% net)"
-1201,"School enrollment, secondary (gross), gender parity index (GPI)"
-1202,"School enrollment, secondary, female (% gross)"
-1203,"School enrollment, secondary, female (% net)"
-1204,"School enrollment, secondary, male (% gross)"
-1205,"School enrollment, secondary, male (% net)"
-1206,"School enrollment, secondary, private (% of total secondary)"
-1207,"School enrollment, tertiary (% gross)"
-1208,"School enrollment, tertiary (gross), gender parity index (GPI)"
-1209,"School enrollment, tertiary, female (% gross)"
-1210,"School enrollment, tertiary, male (% gross)"
-1211,Scientific and technical journal articles
-1212,"Secondary education, duration (years)"
-1213,"Secondary education, general pupils"
-1214,"Secondary education, general pupils (% female)"
-1215,"Secondary education, pupils"
-1216,"Secondary education, pupils (% female)"
-1217,"Secondary education, teachers"
-1218,"Secondary education, teachers (% female)"
-1219,"Secondary education, teachers, female"
-1220,"Secondary education, vocational pupils"
-1221,"Secondary education, vocational pupils (% female)"
-1222,"Secondary income receipts (BoP, current US$)"
-1223,"Secondary income, other sectors, payments (BoP, current US$)"
-1224,Secure Internet servers
-1225,Secure Internet servers (per 1 million people)
-1226,"Self-employed, female (% of female employment) (modeled ILO estimate)"
-1227,"Self-employed, male (% of male employment) (modeled ILO estimate)"
-1228,"Self-employed, total (% of total employment) (modeled ILO estimate)"
-1229,"Service exports (BoP, current US$)"
-1230,"Service imports (BoP, current US$)"
-1231,"Services, value added (% of GDP)"
-1232,"Services, value added (annual % growth)"
-1233,"Services, value added (current LCU)"
-1234,"Services, value added (current US$)"
-1235,Sex ratio at birth (male births per female births)
-1236,"Share of tariff lines with international peaks, all products (%)"
-1237,"Share of tariff lines with international peaks, manufactured products (%)"
-1238,"Share of tariff lines with international peaks, primary products (%)"
-1239,"Share of tariff lines with specific rates, all products (%)"
-1240,"Share of tariff lines with specific rates, manufactured products (%)"
-1241,"Share of tariff lines with specific rates, primary products (%)"
-1242,"Share of youth not in education, employment or training, female (% of female youth population)"
-1243,"Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)"
-1244,"Share of youth not in education, employment or training, male (% of male youth population)"
-1245,"Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)"
-1246,"Share of youth not in education, employment or training, total (% of youth population)"
-1247,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)"
-1248,"Short-term debt (% of exports of goods, services and primary income)"
-1249,Short-term debt (% of total external debt)
-1250,Short-term debt (% of total reserves)
-1251,Social contributions (% of revenue)
-1252,Social contributions (current LCU)
-1253,"Specialist surgical workforce (per 100,000 population)"
-1254,Start-up procedures to register a business (number)
-1255,"Start-up procedures to register a business, female (number)"
-1256,"Start-up procedures to register a business, male (number)"
-1257,Statistical performance indicators (SPI): Overall score (scale 0-100)
-1258,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100)
-1259,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100)
-1260,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100)
-1261,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100)
-1262,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100)
-1263,"Stocks traded, total value (% of GDP)"
-1264,"Stocks traded, total value (current US$)"
-1265,"Stocks traded, turnover ratio of domestic shares (%)"
-1266,Strength of legal rights index (0=weak to 12=strong)
-1267,Subsidies and other transfers (% of expense)
-1268,Subsidies and other transfers (current LCU)
-1269,"Suicide mortality rate (per 100,000 population)"
-1270,"Suicide mortality rate, female (per 100,000 female population)"
-1271,"Suicide mortality rate, male (per 100,000 male population)"
-1272,Surface area (sq. km)
-1273,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)"
-1274,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)"
-1275,"Survival to age 65, female (% of cohort)"
-1276,"Survival to age 65, male (% of cohort)"
-1277,"Tariff rate, applied, simple mean, all products (%)"
-1278,"Tariff rate, applied, simple mean, manufactured products (%)"
-1279,"Tariff rate, applied, simple mean, primary products (%)"
-1280,"Tariff rate, applied, weighted mean, all products (%)"
-1281,"Tariff rate, applied, weighted mean, manufactured products (%)"
-1282,"Tariff rate, applied, weighted mean, primary products (%)"
-1283,"Tariff rate, most favored nation, simple mean, all products (%)"
-1284,"Tariff rate, most favored nation, simple mean, manufactured products (%)"
-1285,"Tariff rate, most favored nation, simple mean, primary products (%)"
-1286,"Tariff rate, most favored nation, weighted mean, all products (%)"
-1287,"Tariff rate, most favored nation, weighted mean, manufactured products (%)"
-1288,"Tariff rate, most favored nation, weighted mean, primary products (%)"
-1289,Tax payments (number)
-1290,Tax revenue (% of GDP)
-1291,Tax revenue (current LCU)
-1292,Taxes less subsidies on products (current LCU)
-1293,Taxes less subsidies on products (current US$)
-1294,Taxes on exports (% of tax revenue)
-1295,Taxes on exports (current LCU)
-1296,Taxes on goods and services (% of revenue)
-1297,Taxes on goods and services (% value added of industry and services)
-1298,Taxes on goods and services (current LCU)
-1299,"Taxes on income, profits and capital gains (% of revenue)"
-1300,"Taxes on income, profits and capital gains (% of total taxes)"
-1301,"Taxes on income, profits and capital gains (current LCU)"
-1302,Taxes on international trade (% of revenue)
-1303,Taxes on international trade (current LCU)
-1304,"Technical cooperation grants (BoP, current US$)"
-1305,Technicians in R&D (per million people)
-1306,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
-1307,Terrestrial and marine protected areas (% of total territorial area)
-1308,Terrestrial protected areas (% of total land area)
-1309,"Tertiary education, academic staff (% female)"
-1310,Textiles and clothing (% of value added in manufacturing)
-1311,Time required to build a warehouse (days)
-1312,Time required to enforce a contract (days)
-1313,Time required to get electricity (days)
-1314,Time required to obtain an operating license (days)
-1315,Time required to register property (days)
-1316,Time required to start a business (days)
-1317,"Time required to start a business, female (days)"
-1318,"Time required to start a business, male (days)"
-1319,Time spent dealing with the requirements of government regulations (% of senior management time)
-1320,"Time to export, border compliance (hours)"
-1321,"Time to export, documentary compliance (hours)"
-1322,"Time to import, border compliance (hours)"
-1323,"Time to import, documentary compliance (hours)"
-1324,Time to obtain an electrical connection (days)
-1325,Time to prepare and pay taxes (hours)
-1326,Time to resolve insolvency (years)
-1327,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)"
-1328,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)"
-1329,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)"
-1330,Total debt service (% of GNI)
-1331,"Total debt service (% of exports of goods, services and primary income)"
-1332,Total fisheries production (metric tons)
-1333,Total greenhouse gas emissions excluding LULUCF (% change from 1990)
-1334,Total greenhouse gas emissions excluding LULUCF (Mt CO2e)
-1335,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita)
-1336,Total greenhouse gas emissions including LULUCF (Mt CO2e)
-1337,Total natural resources rents (% of GDP)
-1338,Total reserves (% of total external debt)
-1339,"Total reserves (includes gold, current US$)"
-1340,Total reserves in months of imports
-1341,Total reserves minus gold (current US$)
-1342,Total tax and contribution rate (% of profit)
-1343,Trade (% of GDP)
-1344,Trade in services (% of GDP)
-1345,"Trademark applications, nonresident, by count"
-1346,"Trademark applications, resident, by count"
-1347,Trained teachers in lower secondary education (% of total teachers)
-1348,"Trained teachers in lower secondary education, female (% of female teachers)"
-1349,"Trained teachers in lower secondary education, male (% of male teachers)"
-1350,Trained teachers in preprimary education (% of total teachers)
-1351,"Trained teachers in preprimary education, female (% of female teachers)"
-1352,"Trained teachers in preprimary education, male (% of male teachers)"
-1353,Trained teachers in primary education (% of total teachers)
-1354,"Trained teachers in primary education, female (% of female teachers)"
-1355,"Trained teachers in primary education, male (% of male teachers)"
-1356,Trained teachers in secondary education (% of total teachers)
-1357,"Trained teachers in secondary education, female (% of female teachers)"
-1358,"Trained teachers in secondary education, male (% of male teachers)"
-1359,Trained teachers in upper secondary education (% of total teachers)
-1360,"Trained teachers in upper secondary education, female (% of female teachers)"
-1361,"Trained teachers in upper secondary education, male (% of male teachers)"
-1362,Transport services (% of commercial service exports)
-1363,Transport services (% of commercial service imports)
-1364,"Transport services (% of service exports, BoP)"
-1365,"Transport services (% of service imports, BoP)"
-1366,Travel services (% of commercial service exports)
-1367,Travel services (% of commercial service imports)
-1368,"Travel services (% of service exports, BoP)"
-1369,"Travel services (% of service imports, BoP)"
-1370,"Tuberculosis case detection rate (%, all forms)"
-1371,Tuberculosis treatment success rate (% of new cases)
-1372,UHC service coverage index
-1373,Unemployment with advanced education (% of total labor force with advanced education)
-1374,"Unemployment with advanced education, female (% of female labor force with advanced education)"
-1375,"Unemployment with advanced education, male (% of male labor force with advanced education)"
-1376,Unemployment with basic education (% of total labor force with basic education)
-1377,"Unemployment with basic education, female (% of female labor force with basic education)"
-1378,"Unemployment with basic education, male (% of male labor force with basic education)"
-1379,Unemployment with intermediate education (% of total labor force with intermediate education)
-1380,"Unemployment with intermediate education, female (% of female labor force with intermediate education)"
-1381,"Unemployment with intermediate education, male (% of male labor force with intermediate education)"
-1382,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
-1383,"Unemployment, female (% of female labor force) (national estimate)"
-1384,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
-1385,"Unemployment, male (% of male labor force) (national estimate)"
-1386,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
-1387,"Unemployment, total (% of total labor force) (national estimate)"
-1388,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
-1389,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)"
-1390,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
-1391,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)"
-1392,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)"
-1393,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)"
-1394,Unmet need for contraception (% of married women ages 15-49)
-1395,Urban land area (sq. km)
-1396,Urban land area where elevation is below 5 meters (% of total land area)
-1397,Urban land area where elevation is below 5 meters (sq. km)
-1398,Urban population
-1399,Urban population (% of total population)
-1400,Urban population growth (annual %)
-1401,Urban population living in areas where elevation is below 5 meters (% of total population)
-1402,"Use of IMF credit (DOD, current US$)"
-1403,Use of insecticide-treated bed nets (% of under-5 population)
-1404,Value lost due to electrical outages (% of sales for affected firms)
-1405,Vitamin A supplementation coverage rate (% of children ages 6-59 months)
-1406,Voice and Accountability: Estimate
-1407,Voice and Accountability: Number of Sources
-1408,Voice and Accountability: Percentile Rank
-1409,"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval"
-1410,"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval"
-1411,Voice and Accountability: Standard Error
-1412,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
-1413,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
-1414,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)"
-1415,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
-1416,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
-1417,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)"
-1418,Wanted fertility rate (births per woman)
-1419,Wholesale price index (2010 = 100)
-1420,Women Business and the Law Index Score (scale 1-100)
-1421,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)"
-1422,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)"
-1423,Women who believe a husband is justified in beating his wife (any of five reasons) (%)
-1424,Women who believe a husband is justified in beating his wife when she argues with him (%)
-1425,Women who believe a husband is justified in beating his wife when she burns the food (%)
-1426,Women who believe a husband is justified in beating his wife when she goes out without telling him (%)
-1427,Women who believe a husband is justified in beating his wife when she neglects the children (%)
-1428,Women who believe a husband is justified in beating his wife when she refuses sex with him (%)
-1429,Women who were first married by age 15 (% of women ages 20-24)
-1430,Women who were first married by age 18 (% of women ages 20-24)
-1431,Women's share of population ages 15+ living with HIV (%)
-1432,Young people (ages 15-24) newly infected with HIV
+25,Adjusted net national income (constant 2015 US$)
+26,Adjusted net national income (current US$)
+27,Adjusted net national income per capita (annual % growth)
+28,Adjusted net national income per capita (constant 2015 US$)
+29,Adjusted net national income per capita (current US$)
+30,"Adjusted net savings, excluding particulate emission damage (% of GNI)"
+31,"Adjusted net savings, excluding particulate emission damage (current US$)"
+32,"Adjusted net savings, including particulate emission damage (% of GNI)"
+33,"Adjusted net savings, including particulate emission damage (current US$)"
+34,Adjusted savings: carbon dioxide damage (% of GNI)
+35,Adjusted savings: carbon dioxide damage (current US$)
+36,Adjusted savings: consumption of fixed capital (% of GNI)
+37,Adjusted savings: consumption of fixed capital (current US$)
+38,Adjusted savings: education expenditure (% of GNI)
+39,Adjusted savings: education expenditure (current US$)
+40,Adjusted savings: energy depletion (% of GNI)
+41,Adjusted savings: energy depletion (current US$)
+42,Adjusted savings: gross savings (% of GNI)
+43,Adjusted savings: mineral depletion (% of GNI)
+44,Adjusted savings: mineral depletion (current US$)
+45,Adjusted savings: natural resources depletion (% of GNI)
+46,Adjusted savings: net forest depletion (% of GNI)
+47,Adjusted savings: net forest depletion (current US$)
+48,Adjusted savings: net national savings (% of GNI)
+49,Adjusted savings: net national savings (current US$)
+50,Adjusted savings: particulate emission damage (% of GNI)
+51,Adjusted savings: particulate emission damage (current US$)
+52,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+53,Adolescents out of school (% of lower secondary school age)
+54,"Adolescents out of school, female (% of female lower secondary school age)"
+55,"Adolescents out of school, male (% of male lower secondary school age)"
+56,Adults (ages 15+) and children (ages 0-14) newly infected with HIV
+57,Adults (ages 15-49) newly infected with HIV
+58,Age dependency ratio (% of working-age population)
+59,"Age dependency ratio, old (% of working-age population)"
+60,"Age dependency ratio, young (% of working-age population)"
+61,Agricultural irrigated land (% of total agricultural land)
+62,Agricultural land (% of land area)
+63,Agricultural land (sq. km)
+64,Agricultural raw materials exports (% of merchandise exports)
+65,Agricultural raw materials imports (% of merchandise imports)
+66,"Agriculture, forestry, and fishing, value added (% of GDP)"
+67,"Agriculture, forestry, and fishing, value added (annual % growth)"
+68,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+69,"Agriculture, forestry, and fishing, value added (constant LCU)"
+70,"Agriculture, forestry, and fishing, value added (current LCU)"
+71,"Agriculture, forestry, and fishing, value added (current US$)"
+72,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)"
+73,"Air transport, freight (million ton-km)"
+74,"Air transport, passengers carried"
+75,"Air transport, registered carrier departures worldwide"
+76,Alternative and nuclear energy (% of total energy use)
+77,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)"
+78,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)"
+79,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)"
+80,"Annual freshwater withdrawals, total (% of internal resources)"
+81,"Annual freshwater withdrawals, total (billion cubic meters)"
+82,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)"
+83,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)"
+84,Antiretroviral therapy coverage (% of people living with HIV)
+85,Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)
+86,Aquaculture production (metric tons)
+87,Arable land (% of land area)
+88,Arable land (hectares per person)
+89,Arable land (hectares)
+90,Armed forces personnel (% of total labor force)
+91,"Armed forces personnel, total"
+92,Arms exports (SIPRI trend indicator values)
+93,Arms imports (SIPRI trend indicator values)
+94,"Automated teller machines (ATMs) (per 100,000 adults)"
+95,Average precipitation in depth (mm per year)
+96,Average time to clear exports through customs (days)
+97,Average transaction cost of sending remittances from a specific country (%)
+98,Average transaction cost of sending remittances to a specific country (%)
+99,"Average working hours of children, study and work, ages 7-14 (hours per week)"
+100,"Average working hours of children, study and work, female, ages 7-14 (hours per week)"
+101,"Average working hours of children, study and work, male, ages 7-14 (hours per week)"
+102,"Average working hours of children, working only, ages 7-14 (hours per week)"
+103,"Average working hours of children, working only, female, ages 7-14 (hours per week)"
+104,"Average working hours of children, working only, male, ages 7-14 (hours per week)"
+105,Bank capital to assets ratio (%)
+106,Bank liquid reserves to bank assets ratio (%)
+107,Bank nonperforming loans to total gross loans (%)
+108,Battle-related deaths (number of people)
+109,Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits)
+110,Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits)
+111,Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits)
+112,Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits)
+113,"Binding coverage, all products (%)"
+114,"Binding coverage, manufactured products (%)"
+115,"Binding coverage, primary products (%)"
+116,"Bird species, threatened"
+117,"Birth rate, crude (per 1,000 people)"
+118,Births attended by skilled health staff (% of total)
+119,"Borrowers from commercial banks (per 1,000 adults)"
+120,"Bound rate, simple mean, all products (%)"
+121,"Bound rate, simple mean, manufactured products (%)"
+122,"Bound rate, simple mean, primary products (%)"
+123,Bribery incidence (% of firms experiencing at least one bribe payment request)
+124,Broad money (% of GDP)
+125,Broad money (current LCU)
+126,Broad money growth (annual %)
+127,Broad money to total reserves ratio
+128,Business extent of disclosure index (0=less disclosure to 10=more disclosure)
+129,CPIA building human resources rating (1=low to 6=high)
+130,CPIA business regulatory environment rating (1=low to 6=high)
+131,CPIA debt policy rating (1=low to 6=high)
+132,CPIA economic management cluster average (1=low to 6=high)
+133,CPIA efficiency of revenue mobilization rating (1=low to 6=high)
+134,CPIA equity of public resource use rating (1=low to 6=high)
+135,CPIA financial sector rating (1=low to 6=high)
+136,CPIA fiscal policy rating (1=low to 6=high)
+137,CPIA gender equality rating (1=low to 6=high)
+138,CPIA macroeconomic management rating (1=low to 6=high)
+139,CPIA policies for social inclusion/equity cluster average (1=low to 6=high)
+140,CPIA policy and institutions for environmental sustainability rating (1=low to 6=high)
+141,CPIA property rights and rule-based governance rating (1=low to 6=high)
+142,CPIA public sector management and institutions cluster average (1=low to 6=high)
+143,CPIA quality of budgetary and financial management rating (1=low to 6=high)
+144,CPIA quality of public administration rating (1=low to 6=high)
+145,CPIA social protection rating (1=low to 6=high)
+146,CPIA structural policies cluster average (1=low to 6=high)
+147,CPIA trade rating (1=low to 6=high)
+148,"CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)"
+149,Capture fisheries production (metric tons)
+150,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990)
+151,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e)
+152,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)
+153,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e)
+154,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e)
+155,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+156,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e)
+157,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e)
+158,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e)
+159,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e)
+160,Carbon dioxide (CO2) emissions from Waste (Mt CO2e)
+161,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e)
+162,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e)
+163,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e)
+164,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e)
+165,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e)
+166,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP)
+167,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP)
+168,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)"
+169,"Cause of death, by injury (% of total)"
+170,"Cause of death, by non-communicable diseases (% of total)"
+171,"Central government debt, total (% of GDP)"
+172,"Central government debt, total (current LCU)"
+173,Cereal production (metric tons)
+174,Cereal yield (kg per hectare)
+175,Changes in inventories (constant LCU)
+176,Changes in inventories (current LCU)
+177,Changes in inventories (current US$)
+178,"Charges for the use of intellectual property, payments (BoP, current US$)"
+179,"Charges for the use of intellectual property, receipts (BoP, current US$)"
+180,Chemicals (% of value added in manufacturing)
+181,Child employment in agriculture (% of economically active children ages 7-14)
+182,"Child employment in agriculture, female (% of female economically active children ages 7-14)"
+183,"Child employment in agriculture, male (% of male economically active children ages 7-14)"
+184,Child employment in manufacturing (% of economically active children ages 7-14)
+185,"Child employment in manufacturing, female (% of female economically active children ages 7-14)"
+186,"Child employment in manufacturing, male (% of male economically active children ages 7-14)"
+187,Child employment in services (% of economically active children ages 7-14)
+188,"Child employment in services, female (% of female economically active children ages 7-14)"
+189,"Child employment in services, male (% of male economically active children ages 7-14)"
+190,Children (0-14) living with HIV
+191,Children (ages 0-14) newly infected with HIV
+192,"Children in employment, female (% of female children ages 7-14)"
+193,"Children in employment, male (% of male children ages 7-14)"
+194,"Children in employment, self-employed (% of children in employment, ages 7-14)"
+195,"Children in employment, self-employed, female (% of female children in employment, ages 7-14)"
+196,"Children in employment, self-employed, male (% of male children in employment, ages 7-14)"
+197,"Children in employment, study and work (% of children in employment, ages 7-14)"
+198,"Children in employment, study and work, female (% of female children in employment, ages 7-14)"
+199,"Children in employment, study and work, male (% of male children in employment, ages 7-14)"
+200,"Children in employment, total (% of children ages 7-14)"
+201,"Children in employment, unpaid family workers (% of children in employment, ages 7-14)"
+202,"Children in employment, unpaid family workers, female (% of female children in employment, ages 7-14)"
+203,"Children in employment, unpaid family workers, male (% of male children in employment, ages 7-14)"
+204,"Children in employment, wage workers (% of children in employment, ages 7-14)"
+205,"Children in employment, wage workers, female (% of female children in employment, ages 7-14)"
+206,"Children in employment, wage workers, male (% of male children in employment, ages 7-14)"
+207,"Children in employment, work only (% of children in employment, ages 7-14)"
+208,"Children in employment, work only, female (% of female children in employment, ages 7-14)"
+209,"Children in employment, work only, male (% of male children in employment, ages 7-14)"
+210,Children out of school (% of primary school age)
+211,"Children out of school, female (% of female primary school age)"
+212,"Children out of school, male (% of male primary school age)"
+213,"Children out of school, primary"
+214,"Children out of school, primary, female"
+215,"Children out of school, primary, male"
+216,Children with fever receiving antimalarial drugs (% of children under age 5 with fever)
+217,Claims on central government (annual growth as % of broad money)
+218,"Claims on central government, etc. (% GDP)"
+219,Claims on other sectors of the domestic economy (% of GDP)
+220,Claims on other sectors of the domestic economy (annual growth as % of broad money)
+221,Claims on private sector (annual growth as % of broad money)
+222,Coal rents (% of GDP)
+223,Combustible renewables and waste (% of total energy)
+224,"Commercial bank branches (per 100,000 adults)"
+225,"Commercial banks and other lending (PPG + PNG) (NFL, current US$)"
+226,Commercial service exports (current US$)
+227,Commercial service imports (current US$)
+228,"Communications, computer, etc. (% of service exports, BoP)"
+229,"Communications, computer, etc. (% of service imports, BoP)"
+230,"Community health workers (per 1,000 people)"
+231,Compensation of employees (% of expense)
+232,Compensation of employees (current LCU)
+233,Completeness of birth registration (%)
+234,"Completeness of birth registration, female (%)"
+235,"Completeness of birth registration, male (%)"
+236,"Completeness of birth registration, rural (%)"
+237,"Completeness of birth registration, urban (%)"
+238,Completeness of death registration with cause-of-death information (%)
+239,"Compulsory education, duration (years)"
+240,"Computer, communications and other services (% of commercial service exports)"
+241,"Computer, communications and other services (% of commercial service imports)"
+242,"Condom use, population ages 15-24, female (% of females ages 15-24)"
+243,"Condom use, population ages 15-24, male (% of males ages 15-24)"
+244,Consumer price index (2010 = 100)
+245,Consumption of iodized salt (% of households)
+246,Container port traffic (TEU: 20 foot equivalent units)
+247,"Contraceptive prevalence, any method (% of married women ages 15-49)"
+248,"Contraceptive prevalence, any modern method (% of married women ages 15-49)"
+249,"Contributing family workers, female (% of female employment) (modeled ILO estimate)"
+250,"Contributing family workers, male (% of male employment) (modeled ILO estimate)"
+251,"Contributing family workers, total (% of total employment) (modeled ILO estimate)"
+252,Control of Corruption: Estimate
+253,Control of Corruption: Number of Sources
+254,Control of Corruption: Percentile Rank
+255,"Control of Corruption: Percentile Rank, Lower Bound of 90% Confidence Interval"
+256,"Control of Corruption: Percentile Rank, Upper Bound of 90% Confidence Interval"
+257,Control of Corruption: Standard Error
+258,Cost of business start-up procedures (% of GNI per capita)
+259,"Cost of business start-up procedures, female (% of GNI per capita)"
+260,"Cost of business start-up procedures, male (% of GNI per capita)"
+261,"Cost to export, border compliance (US$)"
+262,"Cost to export, documentary compliance (US$)"
+263,"Cost to import, border compliance (US$)"
+264,"Cost to import, documentary compliance (US$)"
+265,Coverage of social insurance programs (% of population)
+266,Coverage of social insurance programs in 2nd quintile (% of population)
+267,Coverage of social insurance programs in 3rd quintile (% of population)
+268,Coverage of social insurance programs in 4th quintile (% of population)
+269,Coverage of social insurance programs in poorest quintile (% of population)
+270,Coverage of social insurance programs in richest quintile (% of population)
+271,Coverage of social protection and labor programs (% of population)
+272,Coverage of social safety net programs (% of population)
+273,Coverage of social safety net programs in 2nd quintile (% of population)
+274,Coverage of social safety net programs in 3rd quintile (% of population)
+275,Coverage of social safety net programs in 4th quintile (% of population)
+276,Coverage of social safety net programs in poorest quintile (% of population)
+277,Coverage of social safety net programs in richest quintile (% of population)
+278,Coverage of unemployment benefits and ALMP (% of population)
+279,Coverage of unemployment benefits and ALMP in 2nd quintile (% of population)
+280,Coverage of unemployment benefits and ALMP in 3rd quintile (% of population)
+281,Coverage of unemployment benefits and ALMP in 4th quintile (% of population)
+282,Coverage of unemployment benefits and ALMP in poorest quintile (% of population)
+283,Coverage of unemployment benefits and ALMP in richest quintile (% of population)
+284,Crop production index (2014-2016 = 100)
+285,Current account balance (% of GDP)
+286,"Current account balance (BoP, current US$)"
+287,"Current education expenditure, primary (% of total expenditure in primary public institutions)"
+288,"Current education expenditure, secondary (% of total expenditure in secondary public institutions)"
+289,"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)"
+290,"Current education expenditure, total (% of total expenditure in public institutions)"
+291,Current health expenditure (% of GDP)
+292,Current health expenditure per capita (current US$)
+293,"Current health expenditure per capita, PPP (current international $)"
+294,Customs and other import duties (% of tax revenue)
+295,Customs and other import duties (current LCU)
+296,DEC alternative conversion factor (LCU per US$)
+297,"Death rate, crude (per 1,000 people)"
+298,"Debt service (PPG and IMF only, % of exports of goods, services and primary income)"
+299,"Debt service on external debt, public and publicly guaranteed (PPG) (TDS, current US$)"
+300,"Debt service on external debt, total (TDS, current US$)"
+301,Demand for family planning satisfied by modern methods (% of married women with demand for family planning)
+302,Deposit interest rate (%)
+303,"Depositors with commercial banks (per 1,000 adults)"
+304,Depth of credit information index (0=low to 8=high)
+305,Diabetes prevalence (% of population ages 20 to 79)
+306,Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)
+307,Diarrhea treatment (% of children under 5 who received ORS packet)
+308,Disaster risk reduction progress score (1-5 scale; 5=best)
+309,Discrepancy in expenditure estimate of GDP (constant LCU)
+310,Discrepancy in expenditure estimate of GDP (current LCU)
+311,Domestic credit provided by financial sector (% of GDP)
+312,Domestic credit to private sector (% of GDP)
+313,Domestic credit to private sector by banks (% of GDP)
+314,Domestic general government health expenditure (% of GDP)
+315,Domestic general government health expenditure (% of current health expenditure)
+316,Domestic general government health expenditure (% of general government expenditure)
+317,Domestic general government health expenditure per capita (current US$)
+318,"Domestic general government health expenditure per capita, PPP (current international $)"
+319,Domestic private health expenditure (% of current health expenditure)
+320,Domestic private health expenditure per capita (current US$)
+321,"Domestic private health expenditure per capita, PPP (current international $)"
+322,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)"
+323,Ease of doing business rank (1=most business-friendly regulations)
+324,Ease of doing business score (0 = lowest performance to 100 = best performance)
+325,"Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)"
+326,"Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)"
+327,"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)"
+328,"Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)"
+329,"Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)"
+330,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)"
+331,"Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)"
+332,"Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)"
+333,"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)"
+334,"Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)"
+335,"Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)"
+336,"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)"
+337,"Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)"
+338,"Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)"
+339,"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)"
+340,"Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)"
+341,"Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)"
+342,"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)"
+343,"Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)"
+344,"Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)"
+345,"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)"
+346,"Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)"
+347,"Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)"
+348,"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)"
+349,Electric power consumption (kWh per capita)
+350,Electric power transmission and distribution losses (% of output)
+351,Electricity production from coal sources (% of total)
+352,Electricity production from hydroelectric sources (% of total)
+353,Electricity production from natural gas sources (% of total)
+354,Electricity production from nuclear sources (% of total)
+355,Electricity production from oil sources (% of total)
+356,"Electricity production from oil, gas and coal sources (% of total)"
+357,"Electricity production from renewable sources, excluding hydroelectric (% of total)"
+358,"Electricity production from renewable sources, excluding hydroelectric (kWh)"
+359,"Employers, female (% of female employment) (modeled ILO estimate)"
+360,"Employers, male (% of male employment) (modeled ILO estimate)"
+361,"Employers, total (% of total employment) (modeled ILO estimate)"
+362,Employment in agriculture (% of total employment) (modeled ILO estimate)
+363,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+364,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+365,Employment in industry (% of total employment) (modeled ILO estimate)
+366,"Employment in industry, female (% of female employment) (modeled ILO estimate)"
+367,"Employment in industry, male (% of male employment) (modeled ILO estimate)"
+368,Employment in services (% of total employment) (modeled ILO estimate)
+369,"Employment in services, female (% of female employment) (modeled ILO estimate)"
+370,"Employment in services, male (% of male employment) (modeled ILO estimate)"
+371,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)"
+372,"Employment to population ratio, 15+, female (%) (national estimate)"
+373,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)"
+374,"Employment to population ratio, 15+, male (%) (national estimate)"
+375,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)"
+376,"Employment to population ratio, 15+, total (%) (national estimate)"
+377,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)"
+378,"Employment to population ratio, ages 15-24, female (%) (national estimate)"
+379,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+380,"Employment to population ratio, ages 15-24, male (%) (national estimate)"
+381,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)"
+382,"Employment to population ratio, ages 15-24, total (%) (national estimate)"
+383,"Energy imports, net (% of energy use)"
+384,Energy intensity level of primary energy (MJ/$2017 PPP GDP)
+385,Energy use (kg of oil equivalent per capita)
+386,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2021 PPP)"
+387,Exclusive breastfeeding (% of children under 6 months)
+388,Expenditure on primary education (% of government expenditure on education)
+389,Expenditure on secondary education (% of government expenditure on education)
+390,Expenditure on tertiary education (% of government expenditure on education)
+391,Expense (% of GDP)
+392,Expense (current LCU)
+393,Export unit value index (2015 = 100)
+394,Export value index (2015 = 100)
+395,Export volume index (2015 = 100)
+396,Exports as a capacity to import (constant LCU)
+397,Exports of goods and services (% of GDP)
+398,"Exports of goods and services (BoP, current US$)"
+399,Exports of goods and services (annual % growth)
+400,Exports of goods and services (constant 2015 US$)
+401,Exports of goods and services (constant LCU)
+402,Exports of goods and services (current LCU)
+403,Exports of goods and services (current US$)
+404,"Exports of goods, services and primary income (BoP, current US$)"
+405,External balance on goods and services (% of GDP)
+406,External balance on goods and services (constant LCU)
+407,External balance on goods and services (current LCU)
+408,External balance on goods and services (current US$)
+409,External debt stocks (% of GNI)
+410,"External debt stocks, long-term (DOD, current US$)"
+411,"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)"
+412,"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)"
+413,"External debt stocks, short-term (DOD, current US$)"
+414,"External debt stocks, total (DOD, current US$)"
+415,External health expenditure (% of current health expenditure)
+416,External health expenditure per capita (current US$)
+417,"External health expenditure per capita, PPP (current international $)"
+418,F-gases emissions from Industrial Processes (Mt CO2e)
+419,Female genital mutilation prevalence (%)
+420,Female headed households (% of households with a female head)
+421,Female primary school age children out-of-school (%)
+422,Female pupils below minimum reading proficiency at end of primary (%). Low GAML threshold
+423,Female share of employment in senior and middle management (%)
+424,"Fertility rate, total (births per woman)"
+425,Fertilizer consumption (% of fertilizer production)
+426,Fertilizer consumption (kilograms per hectare of arable land)
+427,Final consumption expenditure (% of GDP)
+428,Final consumption expenditure (annual % growth)
+429,Final consumption expenditure (constant 2015 US$)
+430,Final consumption expenditure (constant LCU)
+431,Final consumption expenditure (current LCU)
+432,Final consumption expenditure (current US$)
+433,Financial intermediary services indirectly Measured (FISIM) (constant LCU)
+434,Financial intermediary services indirectly Measured (FISIM) (current LCU)
+435,Firms competing against unregistered firms (% of firms)
+436,Firms expected to give gifts in meetings with tax officials (% of firms)
+437,Firms experiencing electrical outages (% of firms)
+438,Firms experiencing losses due to theft and vandalism (% of firms)
+439,Firms formally registered when operations started (% of firms)
+440,Firms offering formal training (% of firms)
+441,Firms that do not report all sales for tax purposes (% of firms)
+442,Firms that spend on R&D (% of firms)
+443,Firms using banks to finance investment (% of firms)
+444,Firms using banks to finance working capital (% of firms)
+445,Firms visited or required meetings with tax officials (% of firms)
+446,Firms with female participation in ownership (% of firms)
+447,Firms with female top manager (% of firms)
+448,"Fish species, threatened"
+449,Fixed broadband subscriptions
+450,Fixed broadband subscriptions (per 100 people)
+451,Fixed telephone subscriptions
+452,Fixed telephone subscriptions (per 100 people)
+453,Food exports (% of merchandise exports)
+454,Food imports (% of merchandise imports)
+455,Food production index (2014-2016 = 100)
+456,"Food, beverages and tobacco (% of value added in manufacturing)"
+457,"Foreign direct investment, net (BoP, current US$)"
+458,"Foreign direct investment, net inflows (% of GDP)"
+459,"Foreign direct investment, net inflows (BoP, current US$)"
+460,"Foreign direct investment, net outflows (% of GDP)"
+461,"Foreign direct investment, net outflows (BoP, current US$)"
+462,Forest area (% of land area)
+463,Forest area (sq. km)
+464,Forest rents (% of GDP)
+465,Fossil fuel energy consumption (% of total)
+466,Fuel exports (% of merchandise exports)
+467,Fuel imports (% of merchandise imports)
+468,GDP (constant 2015 US$)
+469,GDP (constant LCU)
+470,GDP (current LCU)
+471,GDP (current US$)
+472,GDP deflator (base year varies by country)
+473,GDP deflator: linked series (base year varies by country)
+474,GDP growth (annual %)
+475,GDP per capita (constant 2015 US$)
+476,GDP per capita (constant LCU)
+477,GDP per capita (current LCU)
+478,GDP per capita (current US$)
+479,GDP per capita growth (annual %)
+480,"GDP per capita, PPP (constant 2021 international $)"
+481,"GDP per capita, PPP (current international $)"
+482,GDP per person employed (constant 2021 PPP $)
+483,GDP per unit of energy use (PPP $ per kg of oil equivalent)
+484,GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent)
+485,"GDP, PPP (constant 2021 international $)"
+486,"GDP, PPP (current international $)"
+487,GDP: linked series (current LCU)
+488,GNI (constant 2015 US$)
+489,GNI (constant LCU)
+490,GNI (current LCU)
+491,GNI (current US$)
+492,GNI growth (annual %)
+493,GNI per capita (constant 2015 US$)
+494,GNI per capita (constant LCU)
+495,GNI per capita (current LCU)
+496,GNI per capita growth (annual %)
+497,"GNI per capita, Atlas method (current US$)"
+498,"GNI per capita, PPP (constant 2021 international $)"
+499,"GNI per capita, PPP (current international $)"
+500,"GNI, Atlas method (current US$)"
+501,"GNI, PPP (constant 2021 international $)"
+502,"GNI, PPP (current international $)"
+503,GNI: linked series (current LCU)
+504,General government final consumption expenditure (% of GDP)
+505,General government final consumption expenditure (annual % growth)
+506,General government final consumption expenditure (constant 2015 US$)
+507,General government final consumption expenditure (constant LCU)
+508,General government final consumption expenditure (current LCU)
+509,General government final consumption expenditure (current US$)
+510,Gini index
+511,Goods and services expense (% of expense)
+512,Goods and services expense (current LCU)
+513,"Goods exports (BoP, current US$)"
+514,"Goods imports (BoP, current US$)"
+515,Government Effectiveness: Estimate
+516,Government Effectiveness: Number of Sources
+517,Government Effectiveness: Percentile Rank
+518,"Government Effectiveness: Percentile Rank, Lower Bound of 90% Confidence Interval"
+519,"Government Effectiveness: Percentile Rank, Upper Bound of 90% Confidence Interval"
+520,Government Effectiveness: Standard Error
+521,"Government expenditure on education, total (% of GDP)"
+522,"Government expenditure on education, total (% of government expenditure)"
+523,"Government expenditure per student, primary (% of GDP per capita)"
+524,"Government expenditure per student, secondary (% of GDP per capita)"
+525,"Government expenditure per student, tertiary (% of GDP per capita)"
+526,Grants and other revenue (% of revenue)
+527,Grants and other revenue (current LCU)
+528,"Grants, excluding technical cooperation (BoP, current US$)"
+529,Gross capital formation (% of GDP)
+530,Gross capital formation (annual % growth)
+531,Gross capital formation (constant 2015 US$)
+532,Gross capital formation (constant LCU)
+533,Gross capital formation (current LCU)
+534,Gross capital formation (current US$)
+535,Gross domestic income (constant LCU)
+536,Gross domestic savings (% of GDP)
+537,Gross domestic savings (current LCU)
+538,Gross domestic savings (current US$)
+539,Gross fixed capital formation (% of GDP)
+540,Gross fixed capital formation (annual % growth)
+541,Gross fixed capital formation (constant 2015 US$)
+542,Gross fixed capital formation (constant LCU)
+543,Gross fixed capital formation (current LCU)
+544,Gross fixed capital formation (current US$)
+545,"Gross fixed capital formation, private sector (% of GDP)"
+546,"Gross fixed capital formation, private sector (current LCU)"
+547,"Gross intake ratio in first grade of primary education, female (% of relevant age group)"
+548,"Gross intake ratio in first grade of primary education, male (% of relevant age group)"
+549,"Gross intake ratio in first grade of primary education, total (% of relevant age group)"
+550,Gross national expenditure (% of GDP)
+551,Gross national expenditure (constant 2015 US$)
+552,Gross national expenditure (constant LCU)
+553,Gross national expenditure (current LCU)
+554,Gross national expenditure (current US$)
+555,Gross national expenditure deflator (base year varies by country)
+556,Gross savings (% of GDP)
+557,Gross savings (% of GNI)
+558,Gross savings (current LCU)
+559,Gross savings (current US$)
+560,Gross value added at basic prices (GVA) (constant 2015 US$)
+561,Gross value added at basic prices (GVA) (constant LCU)
+562,Gross value added at basic prices (GVA) (current LCU)
+563,Gross value added at basic prices (GVA) (current US$)
+564,High-technology exports (% of manufactured exports)
+565,High-technology exports (current US$)
+566,"Hospital beds (per 1,000 people)"
+567,Households and NPISHs Final consumption expenditure (annual % growth)
+568,Households and NPISHs Final consumption expenditure (constant 2015 US$)
+569,Households and NPISHs Final consumption expenditure (constant LCU)
+570,Households and NPISHs Final consumption expenditure (current LCU)
+571,Households and NPISHs Final consumption expenditure (current US$)
+572,Households and NPISHs Final consumption expenditure per capita (constant 2015 US$)
+573,Households and NPISHs Final consumption expenditure per capita growth (annual %)
+574,"Households and NPISHs Final consumption expenditure, PPP (constant 2021 international $)"
+575,"Households and NPISHs Final consumption expenditure, PPP (current international $)"
+576,Households and NPISHs final consumption expenditure (% of GDP)
+577,Households and NPISHs final consumption expenditure: linked series (current LCU)
+578,Human capital index (HCI) (scale 0-1)
+579,"Human capital index (HCI), female (scale 0-1)"
+580,"Human capital index (HCI), female, lower bound (scale 0-1)"
+581,"Human capital index (HCI), female, upper bound (scale 0-1)"
+582,"Human capital index (HCI), lower bound (scale 0-1)"
+583,"Human capital index (HCI), male (scale 0-1)"
+584,"Human capital index (HCI), male, lower bound (scale 0-1)"
+585,"Human capital index (HCI), male, upper bound (scale 0-1)"
+586,"Human capital index (HCI), upper bound (scale 0-1)"
+587,"IBRD loans and IDA credits (DOD, current US$)"
+588,ICT goods exports (% of total goods exports)
+589,ICT goods imports (% total goods imports)
+590,"ICT service exports (% of service exports, BoP)"
+591,"ICT service exports (BoP, current US$)"
+592,IDA resource allocation index (1=low to 6=high)
+593,"IFC, private nonguaranteed (NFL, US$)"
+594,"IMF repurchases and charges (TDS, current US$)"
+595,"Immunization, DPT (% of children ages 12-23 months)"
+596,"Immunization, HepB3 (% of one-year-old children)"
+597,"Immunization, measles (% of children ages 12-23 months)"
+598,Import unit value index (2015 = 100)
+599,Import value index (2015 = 100)
+600,Import volume index (2015 = 100)
+601,Imports of goods and services (% of GDP)
+602,"Imports of goods and services (BoP, current US$)"
+603,Imports of goods and services (annual % growth)
+604,Imports of goods and services (constant 2015 US$)
+605,Imports of goods and services (constant LCU)
+606,Imports of goods and services (current LCU)
+607,Imports of goods and services (current US$)
+608,"Imports of goods, services and primary income (BoP, current US$)"
+609,"Incidence of HIV, ages 15-24 (per 1,000 uninfected population ages 15-24)"
+610,"Incidence of HIV, ages 15-49 (per 1,000 uninfected population ages 15-49)"
+611,"Incidence of HIV, all (per 1,000 uninfected population)"
+612,"Incidence of malaria (per 1,000 population at risk)"
+613,"Incidence of tuberculosis (per 100,000 people)"
+614,Income share held by fourth 20%
+615,Income share held by highest 10%
+616,Income share held by highest 20%
+617,Income share held by lowest 10%
+618,Income share held by lowest 20%
+619,Income share held by second 20%
+620,Income share held by third 20%
+621,Individuals using the Internet (% of population)
+622,"Individuals using the Internet, female (% of female population)"
+623,"Individuals using the Internet, male (% of male population)"
+624,"Industrial design applications, nonresident, by count"
+625,"Industrial design applications, resident, by count"
+626,"Industry (including construction), value added (% of GDP)"
+627,"Industry (including construction), value added (annual % growth)"
+628,"Industry (including construction), value added (constant 2015 US$)"
+629,"Industry (including construction), value added (constant LCU)"
+630,"Industry (including construction), value added (current LCU)"
+631,"Industry (including construction), value added (current US$)"
+632,"Industry (including construction), value added per worker (constant 2015 US$)"
+633,"Inflation, GDP deflator (annual %)"
+634,"Inflation, GDP deflator: linked series (annual %)"
+635,"Inflation, consumer prices (annual %)"
+636,Informal payments to public officials (% of firms)
+637,Insurance and financial services (% of commercial service exports)
+638,Insurance and financial services (% of commercial service imports)
+639,"Insurance and financial services (% of service exports, BoP)"
+640,"Insurance and financial services (% of service imports, BoP)"
+641,"Intentional homicides (per 100,000 people)"
+642,"Intentional homicides, female (per 100,000 female)"
+643,"Intentional homicides, male (per 100,000 male)"
+644,Interest payments (% of expense)
+645,Interest payments (% of revenue)
+646,Interest payments (current LCU)
+647,"Interest rate spread (lending rate minus deposit rate, %)"
+648,"Internally displaced persons, new displacement associated with conflict and violence (number of cases)"
+649,"Internally displaced persons, new displacement associated with disasters (number of cases)"
+650,"Internally displaced persons, total displaced by conflict and violence (number of people)"
+651,International migrant stock (% of population)
+652,"International migrant stock, total"
+653,"International tourism, expenditures (% of total imports)"
+654,"International tourism, expenditures (current US$)"
+655,"International tourism, expenditures for passenger transport items (current US$)"
+656,"International tourism, expenditures for travel items (current US$)"
+657,"International tourism, number of arrivals"
+658,"International tourism, number of departures"
+659,"International tourism, receipts (% of total exports)"
+660,"International tourism, receipts (current US$)"
+661,"International tourism, receipts for passenger transport items (current US$)"
+662,"International tourism, receipts for travel items (current US$)"
+663,Investment in ICT with private participation (current US$)
+664,Investment in energy with private participation (current US$)
+665,Investment in transport with private participation (current US$)
+666,Investment in water and sanitation with private participation (current US$)
+667,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)"
+668,"Labor force participation rate for ages 15-24, female (%) (national estimate)"
+669,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+670,"Labor force participation rate for ages 15-24, male (%) (national estimate)"
+671,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)"
+672,"Labor force participation rate for ages 15-24, total (%) (national estimate)"
+673,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+674,"Labor force participation rate, female (% of female population ages 15+) (national estimate)"
+675,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)"
+676,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+677,"Labor force participation rate, male (% of male population ages 15+) (national estimate)"
+678,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)"
+679,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)"
+680,"Labor force participation rate, total (% of total population ages 15+) (national estimate)"
+681,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)"
+682,Labor force with advanced education (% of total working-age population with advanced education)
+683,"Labor force with advanced education, female (% of female working-age population with advanced education)"
+684,"Labor force with advanced education, male (% of male working-age population with advanced education)"
+685,Labor force with basic education (% of total working-age population with basic education)
+686,"Labor force with basic education, female (% of female working-age population with basic education)"
+687,"Labor force with basic education, male (% of male working-age population with basic education)"
+688,Labor force with intermediate education (% of total working-age population with intermediate education)
+689,"Labor force with intermediate education, female (% of female working-age population with intermediate education)"
+690,"Labor force with intermediate education, male (% of male working-age population with intermediate education)"
+691,"Labor force, female (% of total labor force)"
+692,"Labor force, total"
+693,Labor tax and contributions (% of commercial profits)
+694,Land area (sq. km)
+695,Land area where elevation is below 5 meters (% of total land area)
+696,Land under cereal production (hectares)
+697,"Lead time to export, median case (days)"
+698,"Lead time to import, median case (days)"
+699,Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
+700,Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
+701,Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
+702,Lending interest rate (%)
+703,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources
+704,"Life expectancy at birth, female (years)"
+705,"Life expectancy at birth, male (years)"
+706,"Life expectancy at birth, total (years)"
+707,Lifetime risk of maternal death (%)
+708,Lifetime risk of maternal death (1 in: rate varies by country)
+709,Liner shipping connectivity index (maximum value in 2004 = 100)
+710,"Listed domestic companies, total"
+711,"Literacy rate, adult female (% of females ages 15 and above)"
+712,"Literacy rate, adult male (% of males ages 15 and above)"
+713,"Literacy rate, adult total (% of people ages 15 and above)"
+714,"Literacy rate, youth (ages 15-24), gender parity index (GPI)"
+715,"Literacy rate, youth female (% of females ages 15-24)"
+716,"Literacy rate, youth male (% of males ages 15-24)"
+717,"Literacy rate, youth total (% of people ages 15-24)"
+718,Livestock production index (2014-2016 = 100)
+719,Logistics performance index: Ability to track and trace consignments (1=low to 5=high)
+720,Logistics performance index: Competence and quality of logistics services (1=low to 5=high)
+721,Logistics performance index: Ease of arranging competitively priced shipments (1=low to 5=high)
+722,Logistics performance index: Efficiency of customs clearance process (1=low to 5=high)
+723,Logistics performance index: Frequency with which shipments reach consignee within scheduled or expected time (1=low to 5=high)
+724,Logistics performance index: Overall (1=low to 5=high)
+725,Logistics performance index: Quality of trade and transport-related infrastructure (1=low to 5=high)
+726,Losses due to theft and vandalism (% of annual sales for affected firms)
+727,Low-birthweight babies (% of births)
+728,"Lower secondary completion rate, female (% of relevant age group)"
+729,"Lower secondary completion rate, male (% of relevant age group)"
+730,"Lower secondary completion rate, total (% of relevant age group)"
+731,Lower secondary school starting age (years)
+732,Machinery and transport equipment (% of value added in manufacturing)
+733,Male primary school age children out-of-school (%)
+734,Male pupils below minimum reading proficiency at end of primary (%). Low GAML threshold
+735,"Mammal species, threatened"
+736,Manufactures exports (% of merchandise exports)
+737,Manufactures imports (% of merchandise imports)
+738,"Manufacturing, value added (% of GDP)"
+739,"Manufacturing, value added (annual % growth)"
+740,"Manufacturing, value added (constant 2015 US$)"
+741,"Manufacturing, value added (constant LCU)"
+742,"Manufacturing, value added (current LCU)"
+743,"Manufacturing, value added (current US$)"
+744,Marine protected areas (% of territorial waters)
+745,Market capitalization of listed domestic companies (% of GDP)
+746,Market capitalization of listed domestic companies (current US$)
+747,"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+748,"Maternal mortality ratio (national estimate, per 100,000 live births)"
+749,Medium and high-tech exports (% manufactured exports)
+750,Medium and high-tech manufacturing value added (% manufacturing value added)
+751,Merchandise exports (current US$)
+752,Merchandise exports by the reporting economy (current US$)
+753,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)"
+754,Merchandise exports to economies in the Arab World (% of total merchandise exports)
+755,Merchandise exports to high-income economies (% of total merchandise exports)
+756,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)
+757,Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports)
+758,Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports)
+759,Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports)
+760,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)
+761,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)
+762,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)
+763,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)
+764,Merchandise imports (current US$)
+765,Merchandise imports by the reporting economy (current US$)
+766,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)"
+767,Merchandise imports from economies in the Arab World (% of total merchandise imports)
+768,Merchandise imports from high-income economies (% of total merchandise imports)
+769,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)
+770,Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports)
+771,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)
+772,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)
+773,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)
+774,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)
+775,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)
+776,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)
+777,Merchandise trade (% of GDP)
+778,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990)
+779,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e)
+780,Methane (CH4) emissions from Agriculture (Mt CO2e)
+781,Methane (CH4) emissions from Building (Energy) (Mt CO2e)
+782,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+783,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e)
+784,Methane (CH4) emissions from Industrial Processes (Mt CO2e)
+785,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e)
+786,Methane (CH4) emissions from Transport (Energy) (Mt CO2e)
+787,Methane (CH4) emissions from Waste (Mt CO2e)
+788,Military expenditure (% of GDP)
+789,Military expenditure (% of general government expenditure)
+790,Military expenditure (current LCU)
+791,Military expenditure (current USD)
+792,Mineral rents (% of GDP)
+793,Mobile cellular subscriptions
+794,Mobile cellular subscriptions (per 100 people)
+795,Monetary Sector credit to private sector (% GDP)
+796,"Mortality caused by road traffic injury (per 100,000 population)"
+797,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)"
+798,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)"
+799,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)"
+800,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)"
+801,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)"
+802,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)"
+803,"Mortality rate attributed to unintentional poisoning (per 100,000 population)"
+804,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)"
+805,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)"
+806,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)"
+807,"Mortality rate, adult, female (per 1,000 female adults)"
+808,"Mortality rate, adult, male (per 1,000 male adults)"
+809,"Mortality rate, infant (per 1,000 live births)"
+810,"Mortality rate, infant, female (per 1,000 live births)"
+811,"Mortality rate, infant, male (per 1,000 live births)"
+812,"Mortality rate, neonatal (per 1,000 live births)"
+813,"Mortality rate, under-5 (per 1,000 live births)"
+814,"Mortality rate, under-5, female (per 1,000 live births)"
+815,"Mortality rate, under-5, male (per 1,000 live births)"
+816,Multidimensional poverty headcount ratio (UNDP) (% of population)
+817,Multidimensional poverty headcount ratio (World Bank) (% of population)
+818,Multilateral debt service (% of public and publicly guaranteed debt service)
+819,"Multilateral debt service (TDS, current US$)"
+820,Natural gas rents (% of GDP)
+821,Net ODA provided to the least developed countries (% of GNI)
+822,"Net ODA provided, to the least developed countries (current US$)"
+823,"Net ODA provided, total (% of GNI)"
+824,"Net ODA provided, total (constant 2021 US$)"
+825,"Net ODA provided, total (current US$)"
+826,Net ODA received (% of GNI)
+827,Net ODA received (% of central government expense)
+828,Net ODA received (% of gross capital formation)
+829,"Net ODA received (% of imports of goods, services and primary income)"
+830,Net ODA received per capita (current US$)
+831,Net acquisition of financial assets (% of GDP)
+832,Net acquisition of financial assets (current LCU)
+833,Net barter terms of trade index (2015 = 100)
+834,"Net bilateral aid flows from DAC donors, Australia (current US$)"
+835,"Net bilateral aid flows from DAC donors, Austria (current US$)"
+836,"Net bilateral aid flows from DAC donors, Belgium (current US$)"
+837,"Net bilateral aid flows from DAC donors, Canada (current US$)"
+838,"Net bilateral aid flows from DAC donors, Czechia (current US$)"
+839,"Net bilateral aid flows from DAC donors, Denmark (current US$)"
+840,"Net bilateral aid flows from DAC donors, Estonia (current US$)"
+841,"Net bilateral aid flows from DAC donors, European Union institutions (current US$)"
+842,"Net bilateral aid flows from DAC donors, Finland (current US$)"
+843,"Net bilateral aid flows from DAC donors, France (current US$)"
+844,"Net bilateral aid flows from DAC donors, Germany (current US$)"
+845,"Net bilateral aid flows from DAC donors, Greece (current US$)"
+846,"Net bilateral aid flows from DAC donors, Hungary (current US$)"
+847,"Net bilateral aid flows from DAC donors, Iceland (current US$)"
+848,"Net bilateral aid flows from DAC donors, Ireland (current US$)"
+849,"Net bilateral aid flows from DAC donors, Italy (current US$)"
+850,"Net bilateral aid flows from DAC donors, Japan (current US$)"
+851,"Net bilateral aid flows from DAC donors, Korea, Rep. (current US$)"
+852,"Net bilateral aid flows from DAC donors, Lithuania (current US$)"
+853,"Net bilateral aid flows from DAC donors, Luxembourg (current US$)"
+854,"Net bilateral aid flows from DAC donors, Netherlands (current US$)"
+855,"Net bilateral aid flows from DAC donors, New Zealand (current US$)"
+856,"Net bilateral aid flows from DAC donors, Norway (current US$)"
+857,"Net bilateral aid flows from DAC donors, Poland (current US$)"
+858,"Net bilateral aid flows from DAC donors, Portugal (current US$)"
+859,"Net bilateral aid flows from DAC donors, Slovak Republic (current US$)"
+860,"Net bilateral aid flows from DAC donors, Slovenia (current US$)"
+861,"Net bilateral aid flows from DAC donors, Spain (current US$)"
+862,"Net bilateral aid flows from DAC donors, Sweden (current US$)"
+863,"Net bilateral aid flows from DAC donors, Switzerland (current US$)"
+864,"Net bilateral aid flows from DAC donors, Total (current US$)"
+865,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)"
+866,"Net bilateral aid flows from DAC donors, United States (current US$)"
+867,"Net capital account (BoP, current US$)"
+868,Net domestic credit (current LCU)
+869,"Net errors and omissions (BoP, current US$)"
+870,"Net financial account (BoP, current US$)"
+871,"Net financial flows, IBRD (NFL, current US$)"
+872,"Net financial flows, IDA (NFL, current US$)"
+873,"Net financial flows, IMF concessional (NFL, current US$)"
+874,"Net financial flows, IMF nonconcessional (NFL, current US$)"
+875,"Net financial flows, RDB concessional (NFL, current US$)"
+876,"Net financial flows, RDB nonconcessional (NFL, current US$)"
+877,"Net financial flows, bilateral (NFL, current US$)"
+878,"Net financial flows, multilateral (NFL, current US$)"
+879,"Net financial flows, others (NFL, current US$)"
+880,"Net flows on external debt, private nonguaranteed (PNG) (NFL, current US$)"
+881,Net foreign assets (current LCU)
+882,"Net incurrence of liabilities, total (% of GDP)"
+883,"Net incurrence of liabilities, total (current LCU)"
+884,Net intake rate in grade 1 (% of official school-age population)
+885,"Net intake rate in grade 1, female (% of official school-age population)"
+886,"Net intake rate in grade 1, male (% of official school-age population)"
+887,Net investment in nonfinancial assets (% of GDP)
+888,Net investment in nonfinancial assets (current LCU)
+889,Net lending (+) / net borrowing (-) (% of GDP)
+890,Net lending (+) / net borrowing (-) (current LCU)
+891,Net migration
+892,Net official aid received (constant 2021 US$)
+893,Net official aid received (current US$)
+894,Net official development assistance and official aid received (constant 2021 US$)
+895,Net official development assistance and official aid received (current US$)
+896,Net official development assistance received (constant 2021 US$)
+897,Net official development assistance received (current US$)
+898,"Net official flows from UN agencies, CERF (current US$)"
+899,"Net official flows from UN agencies, FAO (current US$)"
+900,"Net official flows from UN agencies, IAEA (current US$)"
+901,"Net official flows from UN agencies, IFAD (current US$)"
+902,"Net official flows from UN agencies, ILO (current US$)"
+903,"Net official flows from UN agencies, SDGFUND (current US$)"
+904,"Net official flows from UN agencies, SPRP (current US$)"
+905,"Net official flows from UN agencies, UNAIDS (current US$)"
+906,"Net official flows from UN agencies, UNCDF (current US$)"
+907,"Net official flows from UN agencies, UNCOVID (current US$)"
+908,"Net official flows from UN agencies, UNCTAD (current US$)"
+909,"Net official flows from UN agencies, UNDP (current US$)"
+910,"Net official flows from UN agencies, UNECE (current US$)"
+911,"Net official flows from UN agencies, UNEP (current US$)"
+912,"Net official flows from UN agencies, UNFPA (current US$)"
+913,"Net official flows from UN agencies, UNHCR (current US$)"
+914,"Net official flows from UN agencies, UNICEF (current US$)"
+915,"Net official flows from UN agencies, UNIDIR (current US$)"
+916,"Net official flows from UN agencies, UNIDO (current US$)"
+917,"Net official flows from UN agencies, UNPBF (current US$)"
+918,"Net official flows from UN agencies, UNRWA (current US$)"
+919,"Net official flows from UN agencies, UNTA (current US$)"
+920,"Net official flows from UN agencies, UNWOMEN (current US$)"
+921,"Net official flows from UN agencies, UNWTO (current US$)"
+922,"Net official flows from UN agencies, WFP (current US$)"
+923,"Net official flows from UN agencies, WHO (current US$)"
+924,"Net official flows from UN agencies, WTO-ITC (current US$)"
+925,"Net primary income (BoP, current US$)"
+926,Net primary income (Net income from abroad) (constant LCU)
+927,Net primary income (Net income from abroad) (current LCU)
+928,Net primary income (Net income from abroad) (current US$)
+929,"Net secondary income (BoP, current US$)"
+930,Net secondary income (Net current transfers from abroad) (constant LCU)
+931,Net secondary income (Net current transfers from abroad) (current LCU)
+932,Net secondary income (Net current transfers from abroad) (current US$)
+933,"Net trade in goods (BoP, current US$)"
+934,"Net trade in goods and services (BoP, current US$)"
+935,"New business density (new registrations per 1,000 people ages 15-64)"
+936,New businesses registered (number)
+937,Newborns protected against tetanus (%)
+938,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990)
+939,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e)
+940,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e)
+941,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e)
+942,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e)
+943,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e)
+944,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e)
+945,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e)
+946,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e)
+947,Nitrous oxide (N2O) emissions from Waste (Mt CO2e)
+948,Number of deaths ages 10-14 years
+949,Number of deaths ages 15-19 years
+950,Number of deaths ages 20-24 years
+951,Number of deaths ages 5-9 years
+952,Number of infant deaths
+953,Number of maternal deaths
+954,Number of neonatal deaths
+955,"Number of surgical procedures (per 100,000 population)"
+956,Number of under-five deaths
+957,Number of visits or required meetings with tax officials (average for affected firms)
+958,"Nurses and midwives (per 1,000 people)"
+959,"Official exchange rate (LCU per US$, period average)"
+960,Oil rents (% of GDP)
+961,Ores and metals exports (% of merchandise exports)
+962,Ores and metals imports (% of merchandise imports)
+963,Other expense (% of expense)
+964,Other expense (current LCU)
+965,Other manufacturing (% of value added in manufacturing)
+966,Other taxes (% of revenue)
+967,Other taxes (current LCU)
+968,Other taxes payable by businesses (% of commercial profits)
+969,Out-of-pocket expenditure (% of current health expenditure)
+970,Out-of-pocket expenditure per capita (current US$)
+971,"Out-of-pocket expenditure per capita, PPP (current international $)"
+972,"Over-age students, primary (% of enrollment)"
+973,"Over-age students, primary, female (% of female enrollment)"
+974,"Over-age students, primary, male (% of male enrollment)"
+975,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)"
+976,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)"
+977,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-1 value (% of total)"
+978,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-2 value (% of total)"
+979,"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)"
+980,"PNG, bonds (NFL, current US$)"
+981,"PNG, commercial banks and other creditors (NFL, current US$)"
+982,"PPG, IBRD (DOD, current US$)"
+983,"PPG, IDA (DOD, current US$)"
+984,"PPG, bonds (NFL, current US$)"
+985,"PPG, commercial banks (NFL, current US$)"
+986,"PPG, official creditors (NFL, US$)"
+987,"PPG, other private creditors (NFL, current US$)"
+988,"PPG, private creditors (NFL, US$)"
+989,"PPP conversion factor, GDP (LCU per international $)"
+990,"PPP conversion factor, private consumption (LCU per international $)"
+991,"Part time employment, female (% of total female employment)"
+992,"Part time employment, male (% of total male employment)"
+993,"Part time employment, total (% of total employment)"
+994,"Patent applications, nonresidents"
+995,"Patent applications, residents"
+996,People practicing open defecation (% of population)
+997,"People practicing open defecation, rural (% of rural population)"
+998,"People practicing open defecation, urban (% of urban population)"
+999,People using at least basic drinking water services (% of population)
+1000,"People using at least basic drinking water services, rural (% of rural population)"
+1001,"People using at least basic drinking water services, urban (% of urban population)"
+1002,People using at least basic sanitation services (% of population)
+1003,"People using at least basic sanitation services, rural (% of rural population)"
+1004,"People using at least basic sanitation services, urban (% of urban population)"
+1005,People using safely managed drinking water services (% of population)
+1006,"People using safely managed drinking water services, rural (% of rural population)"
+1007,"People using safely managed drinking water services, urban (% of urban population)"
+1008,People using safely managed sanitation services (% of population)
+1009,"People using safely managed sanitation services, rural (% of rural population)"
+1010,"People using safely managed sanitation services, urban (% of urban population)"
+1011,People with basic handwashing facilities including soap and water (% of population)
+1012,"People with basic handwashing facilities including soap and water, rural (% of rural population)"
+1013,"People with basic handwashing facilities including soap and water, urban (% of urban population)"
+1014,Permanent cropland (% of land area)
+1015,"Persistence to grade 5, female (% of cohort)"
+1016,"Persistence to grade 5, male (% of cohort)"
+1017,"Persistence to grade 5, total (% of cohort)"
+1018,"Persistence to last grade of primary, female (% of cohort)"
+1019,"Persistence to last grade of primary, male (% of cohort)"
+1020,"Persistence to last grade of primary, total (% of cohort)"
+1021,"Personal remittances, paid (current US$)"
+1022,"Personal remittances, received (% of GDP)"
+1023,"Personal remittances, received (current US$)"
+1024,"Personal transfers, receipts (BoP, current US$)"
+1025,"Physicians (per 1,000 people)"
+1026,"Plant species (higher), threatened"
+1027,Political Stability and Absence of Violence/Terrorism: Estimate
+1028,Political Stability and Absence of Violence/Terrorism: Number of Sources
+1029,Political Stability and Absence of Violence/Terrorism: Percentile Rank
+1030,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Lower Bound of 90% Confidence Interval"
+1031,"Political Stability and Absence of Violence/Terrorism: Percentile Rank, Upper Bound of 90% Confidence Interval"
+1032,Political Stability and Absence of Violence/Terrorism: Standard Error
+1033,Population ages 0-14 (% of total population)
+1034,"Population ages 0-14, female"
+1035,"Population ages 0-14, female (% of female population)"
+1036,"Population ages 0-14, male"
+1037,"Population ages 0-14, male (% of male population)"
+1038,"Population ages 0-14, total"
+1039,"Population ages 00-04, female (% of female population)"
+1040,"Population ages 00-04, male (% of male population)"
+1041,"Population ages 05-09, female (% of female population)"
+1042,"Population ages 05-09, male (% of male population)"
+1043,"Population ages 10-14, female (% of female population)"
+1044,"Population ages 10-14, male (% of male population)"
+1045,"Population ages 15-19, female (% of female population)"
+1046,"Population ages 15-19, male (% of male population)"
+1047,Population ages 15-64 (% of total population)
+1048,"Population ages 15-64, female"
+1049,"Population ages 15-64, female (% of female population)"
+1050,"Population ages 15-64, male"
+1051,"Population ages 15-64, male (% of male population)"
+1052,"Population ages 15-64, total"
+1053,"Population ages 20-24, female (% of female population)"
+1054,"Population ages 20-24, male (% of male population)"
+1055,"Population ages 25-29, female (% of female population)"
+1056,"Population ages 25-29, male (% of male population)"
+1057,"Population ages 30-34, female (% of female population)"
+1058,"Population ages 30-34, male (% of male population)"
+1059,"Population ages 35-39, female (% of female population)"
+1060,"Population ages 35-39, male (% of male population)"
+1061,"Population ages 40-44, female (% of female population)"
+1062,"Population ages 40-44, male (% of male population)"
+1063,"Population ages 45-49, female (% of female population)"
+1064,"Population ages 45-49, male (% of male population)"
+1065,"Population ages 50-54, female (% of female population)"
+1066,"Population ages 50-54, male (% of male population)"
+1067,"Population ages 55-59, female (% of female population)"
+1068,"Population ages 55-59, male (% of male population)"
+1069,"Population ages 60-64, female (% of female population)"
+1070,"Population ages 60-64, male (% of male population)"
+1071,Population ages 65 and above (% of total population)
+1072,"Population ages 65 and above, female"
+1073,"Population ages 65 and above, female (% of female population)"
+1074,"Population ages 65 and above, male"
+1075,"Population ages 65 and above, male (% of male population)"
+1076,"Population ages 65 and above, total"
+1077,"Population ages 65-69, female (% of female population)"
+1078,"Population ages 65-69, male (% of male population)"
+1079,"Population ages 70-74, female (% of female population)"
+1080,"Population ages 70-74, male (% of male population)"
+1081,"Population ages 75-79, female (% of female population)"
+1082,"Population ages 75-79, male (% of male population)"
+1083,"Population ages 80 and above, female (% of female population)"
+1084,"Population ages 80 and above, male (% of male population)"
+1085,Population density (people per sq. km of land area)
+1086,Population growth (annual %)
+1087,Population in largest city
+1088,Population in the largest city (% of urban population)
+1089,Population in urban agglomerations of more than 1 million
+1090,Population in urban agglomerations of more than 1 million (% of total population)
+1091,Population living in areas where elevation is below 5 meters (% of total population)
+1092,Population living in slums (% of urban population)
+1093,"Population, female"
+1094,"Population, female (% of total population)"
+1095,"Population, male"
+1096,"Population, male (% of total population)"
+1097,"Population, total"
+1098,"Portfolio equity, net inflows (BoP, current US$)"
+1099,"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)"
+1100,"Portfolio investment, net (BoP, current US$)"
+1101,Poverty gap at $2.15 a day (2017 PPP) (%)
+1102,Poverty gap at $3.65 a day (2017 PPP) (%)
+1103,Poverty gap at $6.85 a day (2017 PPP) (%)
+1104,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population)
+1105,Poverty headcount ratio at $3.65 a day (2017 PPP) (% of population)
+1106,Poverty headcount ratio at $6.85 a day (2017 PPP) (% of population)
+1107,Poverty headcount ratio at national poverty lines (% of population)
+1108,Poverty headcount ratio at societal poverty line (% of population)
+1109,Power outages in firms in a typical month (number)
+1110,Pregnant women receiving prenatal care (%)
+1111,"Preprimary education, duration (years)"
+1112,Present value of external debt (% of GNI)
+1113,"Present value of external debt (% of exports of goods, services and primary income)"
+1114,Present value of external debt (current US$)
+1115,"Prevalence of HIV, female (% ages 15-24)"
+1116,"Prevalence of HIV, male (% ages 15-24)"
+1117,"Prevalence of HIV, total (% of population ages 15-49)"
+1118,Prevalence of anemia among children (% of children ages 6-59 months)
+1119,Prevalence of anemia among non-pregnant women (% of women ages 15-49)
+1120,Prevalence of anemia among pregnant women (%)
+1121,Prevalence of anemia among women of reproductive age (% of women ages 15-49)
+1122,Prevalence of current tobacco use (% of adults)
+1123,"Prevalence of current tobacco use, females (% of female adults)"
+1124,"Prevalence of current tobacco use, males (% of male adults)"
+1125,Prevalence of moderate or severe food insecurity in the population (%)
+1126,"Prevalence of overweight (modeled estimate, % of children under 5)"
+1127,"Prevalence of overweight, weight for height (% of children under 5)"
+1128,"Prevalence of overweight, weight for height, female (% of children under 5)"
+1129,"Prevalence of overweight, weight for height, male (% of children under 5)"
+1130,Prevalence of severe food insecurity in the population (%)
+1131,"Prevalence of severe wasting, weight for height (% of children under 5)"
+1132,"Prevalence of severe wasting, weight for height, female (% of children under 5)"
+1133,"Prevalence of severe wasting, weight for height, male (% of children under 5)"
+1134,"Prevalence of stunting, height for age (% of children under 5)"
+1135,"Prevalence of stunting, height for age (modeled estimate, % of children under 5)"
+1136,"Prevalence of stunting, height for age, female (% of children under 5)"
+1137,"Prevalence of stunting, height for age, male (% of children under 5)"
+1138,Prevalence of undernourishment (% of population)
+1139,"Prevalence of underweight, weight for age (% of children under 5)"
+1140,"Prevalence of underweight, weight for age, female (% of children under 5)"
+1141,"Prevalence of underweight, weight for age, male (% of children under 5)"
+1142,"Prevalence of wasting, weight for height (% of children under 5)"
+1143,"Prevalence of wasting, weight for height, female (% of children under 5)"
+1144,"Prevalence of wasting, weight for height, male (% of children under 5)"
+1145,Price level ratio of PPP conversion factor (GDP) to market exchange rate
+1146,"Primary completion rate, female (% of relevant age group)"
+1147,"Primary completion rate, male (% of relevant age group)"
+1148,"Primary completion rate, total (% of relevant age group)"
+1149,"Primary education, duration (years)"
+1150,"Primary education, pupils"
+1151,"Primary education, pupils (% female)"
+1152,"Primary education, teachers"
+1153,"Primary education, teachers (% female)"
+1154,Primary government expenditures as a proportion of original approved budget (%)
+1155,"Primary income payments (BoP, current US$)"
+1156,"Primary income receipts (BoP, current US$)"
+1157,Primary school age children out-of-school (%)
+1158,Primary school starting age (years)
+1159,Private credit bureau coverage (% of adults)
+1160,"Probability of dying among adolescents ages 10-14 years (per 1,000)"
+1161,"Probability of dying among adolescents ages 15-19 years (per 1,000)"
+1162,"Probability of dying among children ages 5-9 years (per 1,000)"
+1163,"Probability of dying among youth ages 20-24 years (per 1,000)"
+1164,Procedures to build a warehouse (number)
+1165,Procedures to register property (number)
+1166,Profit tax (% of commercial profits)
+1167,Progression to secondary school (%)
+1168,"Progression to secondary school, female (%)"
+1169,"Progression to secondary school, male (%)"
+1170,Proportion of people living below 50 percent of median income (%)
+1171,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
+1172,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
+1173,Proportion of population pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%)
+1174,Proportion of population pushed further below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
+1175,Proportion of population pushed further below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
+1176,Proportion of population pushed further below the 60% median consumption poverty line by out-of-pocket health care expenditure (%)
+1177,Proportion of population pushed or further pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
+1178,Proportion of population pushed or further pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%)
+1179,Proportion of population pushed or further pushed below the 60% median consumption poverty line by out-of-pocket health expenditure (%)
+1180,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%)
+1181,Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%)
+1182,Proportion of seats held by women in national parliaments (%)
+1183,"Proportion of time spent on unpaid domestic and care work, female (% of 24 hour day)"
+1184,"Proportion of time spent on unpaid domestic and care work, male (% of 24 hour day)"
+1185,Proportion of women subjected to physical and/or sexual violence in the last 12 months (% of ever-partnered women ages 15-49)
+1186,Prosperity gap (average shortfall from a prosperity standard of $25/day)
+1187,Public and publicly guaranteed debt service (% of GNI)
+1188,"Public and publicly guaranteed debt service (% of exports of goods, services and primary income)"
+1189,Public credit registry coverage (% of adults)
+1190,Public private partnerships investment in ICT (current US$)
+1191,Public private partnerships investment in energy (current US$)
+1192,Public private partnerships investment in transport (current US$)
+1193,Public private partnerships investment in water and sanitation (current US$)
+1194,"Pupil-teacher ratio, lower secondary"
+1195,"Pupil-teacher ratio, preprimary"
+1196,"Pupil-teacher ratio, primary"
+1197,"Pupil-teacher ratio, secondary"
+1198,"Pupil-teacher ratio, tertiary"
+1199,"Pupil-teacher ratio, upper secondary"
+1200,Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold
+1201,Rail lines (total route-km)
+1202,"Railways, goods transported (million ton-km)"
+1203,"Railways, passengers carried (million passenger-km)"
+1204,Ratio of female to male labor force participation rate (%) (modeled ILO estimate)
+1205,Ratio of female to male labor force participation rate (%) (national estimate)
+1206,Real effective exchange rate index (2010 = 100)
+1207,Real interest rate (%)
+1208,Refugee population by country or territory of asylum
+1209,Refugee population by country or territory of origin
+1210,Regulatory Quality: Estimate
+1211,Regulatory Quality: Number of Sources
+1212,Regulatory Quality: Percentile Rank
+1213,"Regulatory Quality: Percentile Rank, Lower Bound of 90% Confidence Interval"
+1214,"Regulatory Quality: Percentile Rank, Upper Bound of 90% Confidence Interval"
+1215,Regulatory Quality: Standard Error
+1216,Renewable electricity output (% of total electricity output)
+1217,Renewable energy consumption (% of total final energy consumption)
+1218,Renewable internal freshwater resources per capita (cubic meters)
+1219,"Renewable internal freshwater resources, total (billion cubic meters)"
+1220,"Repeaters, primary, female (% of female enrollment)"
+1221,"Repeaters, primary, male (% of male enrollment)"
+1222,"Repeaters, primary, total (% of total enrollment)"
+1223,Research and development expenditure (% of GDP)
+1224,Researchers in R&D (per million people)
+1225,"Reserves and related items (BoP, current US$)"
+1226,"Revenue, excluding grants (% of GDP)"
+1227,"Revenue, excluding grants (current LCU)"
+1228,Risk of catastrophic expenditure for surgical care (% of people at risk)
+1229,Risk of impoverishing expenditure for surgical care (% of people at risk)
+1230,"Risk premium on lending (lending rate minus treasury bill rate, %)"
+1231,Rule of Law: Estimate
+1232,Rule of Law: Number of Sources
+1233,Rule of Law: Percentile Rank
+1234,"Rule of Law: Percentile Rank, Lower Bound of 90% Confidence Interval"
+1235,"Rule of Law: Percentile Rank, Upper Bound of 90% Confidence Interval"
+1236,Rule of Law: Standard Error
+1237,Rural land area (sq. km)
+1238,Rural land area where elevation is below 5 meters (% of total land area)
+1239,Rural land area where elevation is below 5 meters (sq. km)
+1240,Rural population
+1241,Rural population (% of total population)
+1242,Rural population growth (annual %)
+1243,Rural population living in areas where elevation is below 5 meters (% of total population)
+1244,S&P Global Equity Indices (annual % change)
+1245,"School enrollment, preprimary (% gross)"
+1246,"School enrollment, preprimary, female (% gross)"
+1247,"School enrollment, preprimary, male (% gross)"
+1248,"School enrollment, primary (% gross)"
+1249,"School enrollment, primary (% net)"
+1250,"School enrollment, primary (gross), gender parity index (GPI)"
+1251,"School enrollment, primary and secondary (gross), gender parity index (GPI)"
+1252,"School enrollment, primary, female (% gross)"
+1253,"School enrollment, primary, female (% net)"
+1254,"School enrollment, primary, male (% gross)"
+1255,"School enrollment, primary, male (% net)"
+1256,"School enrollment, primary, private (% of total primary)"
+1257,"School enrollment, secondary (% gross)"
+1258,"School enrollment, secondary (% net)"
+1259,"School enrollment, secondary (gross), gender parity index (GPI)"
+1260,"School enrollment, secondary, female (% gross)"
+1261,"School enrollment, secondary, female (% net)"
+1262,"School enrollment, secondary, male (% gross)"
+1263,"School enrollment, secondary, male (% net)"
+1264,"School enrollment, secondary, private (% of total secondary)"
+1265,"School enrollment, tertiary (% gross)"
+1266,"School enrollment, tertiary (gross), gender parity index (GPI)"
+1267,"School enrollment, tertiary, female (% gross)"
+1268,"School enrollment, tertiary, male (% gross)"
+1269,Scientific and technical journal articles
+1270,"Secondary education, duration (years)"
+1271,"Secondary education, general pupils"
+1272,"Secondary education, general pupils (% female)"
+1273,"Secondary education, pupils"
+1274,"Secondary education, pupils (% female)"
+1275,"Secondary education, teachers"
+1276,"Secondary education, teachers (% female)"
+1277,"Secondary education, teachers, female"
+1278,"Secondary education, vocational pupils"
+1279,"Secondary education, vocational pupils (% female)"
+1280,"Secondary income receipts (BoP, current US$)"
+1281,"Secondary income, other sectors, payments (BoP, current US$)"
+1282,Secure Internet servers
+1283,Secure Internet servers (per 1 million people)
+1284,"Self-employed, female (% of female employment) (modeled ILO estimate)"
+1285,"Self-employed, male (% of male employment) (modeled ILO estimate)"
+1286,"Self-employed, total (% of total employment) (modeled ILO estimate)"
+1287,"Service exports (BoP, current US$)"
+1288,"Service imports (BoP, current US$)"
+1289,"Services, value added (% of GDP)"
+1290,"Services, value added (annual % growth)"
+1291,"Services, value added (constant 2015 US$)"
+1292,"Services, value added (constant LCU)"
+1293,"Services, value added (current LCU)"
+1294,"Services, value added (current US$)"
+1295,"Services, value added per worker (constant 2015 US$)"
+1296,Sex ratio at birth (male births per female births)
+1297,"Share of tariff lines with international peaks, all products (%)"
+1298,"Share of tariff lines with international peaks, manufactured products (%)"
+1299,"Share of tariff lines with international peaks, primary products (%)"
+1300,"Share of tariff lines with specific rates, all products (%)"
+1301,"Share of tariff lines with specific rates, manufactured products (%)"
+1302,"Share of tariff lines with specific rates, primary products (%)"
+1303,"Share of youth not in education, employment or training, female (% of female youth population)"
+1304,"Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)"
+1305,"Share of youth not in education, employment or training, male (% of male youth population)"
+1306,"Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)"
+1307,"Share of youth not in education, employment or training, total (% of youth population)"
+1308,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)"
+1309,"Short-term debt (% of exports of goods, services and primary income)"
+1310,Short-term debt (% of total external debt)
+1311,Short-term debt (% of total reserves)
+1312,Social contributions (% of revenue)
+1313,Social contributions (current LCU)
+1314,"Specialist surgical workforce (per 100,000 population)"
+1315,Start-up procedures to register a business (number)
+1316,"Start-up procedures to register a business, female (number)"
+1317,"Start-up procedures to register a business, male (number)"
+1318,Statistical performance indicators (SPI): Overall score (scale 0-100)
+1319,Statistical performance indicators (SPI): Pillar 1 data use score (scale 0-100)
+1320,Statistical performance indicators (SPI): Pillar 2 data services score (scale 0-100)
+1321,Statistical performance indicators (SPI): Pillar 3 data products score  (scale 0-100)
+1322,Statistical performance indicators (SPI): Pillar 4 data sources score (scale 0-100)
+1323,Statistical performance indicators (SPI): Pillar 5 data infrastructure score (scale 0-100)
+1324,"Stocks traded, total value (% of GDP)"
+1325,"Stocks traded, total value (current US$)"
+1326,"Stocks traded, turnover ratio of domestic shares (%)"
+1327,Strength of legal rights index (0=weak to 12=strong)
+1328,Subsidies and other transfers (% of expense)
+1329,Subsidies and other transfers (current LCU)
+1330,"Suicide mortality rate (per 100,000 population)"
+1331,"Suicide mortality rate, female (per 100,000 female population)"
+1332,"Suicide mortality rate, male (per 100,000 male population)"
+1333,Surface area (sq. km)
+1334,"Survey mean consumption or income per capita, bottom 40% of population (2017 PPP $ per day)"
+1335,"Survey mean consumption or income per capita, total population (2017 PPP $ per day)"
+1336,"Survival to age 65, female (% of cohort)"
+1337,"Survival to age 65, male (% of cohort)"
+1338,"Tariff rate, applied, simple mean, all products (%)"
+1339,"Tariff rate, applied, simple mean, manufactured products (%)"
+1340,"Tariff rate, applied, simple mean, primary products (%)"
+1341,"Tariff rate, applied, weighted mean, all products (%)"
+1342,"Tariff rate, applied, weighted mean, manufactured products (%)"
+1343,"Tariff rate, applied, weighted mean, primary products (%)"
+1344,"Tariff rate, most favored nation, simple mean, all products (%)"
+1345,"Tariff rate, most favored nation, simple mean, manufactured products (%)"
+1346,"Tariff rate, most favored nation, simple mean, primary products (%)"
+1347,"Tariff rate, most favored nation, weighted mean, all products (%)"
+1348,"Tariff rate, most favored nation, weighted mean, manufactured products (%)"
+1349,"Tariff rate, most favored nation, weighted mean, primary products (%)"
+1350,Tax payments (number)
+1351,Tax revenue (% of GDP)
+1352,Tax revenue (current LCU)
+1353,Taxes less subsidies on products (constant LCU)
+1354,Taxes less subsidies on products (current LCU)
+1355,Taxes less subsidies on products (current US$)
+1356,Taxes on exports (% of tax revenue)
+1357,Taxes on exports (current LCU)
+1358,Taxes on goods and services (% of revenue)
+1359,Taxes on goods and services (% value added of industry and services)
+1360,Taxes on goods and services (current LCU)
+1361,"Taxes on income, profits and capital gains (% of revenue)"
+1362,"Taxes on income, profits and capital gains (% of total taxes)"
+1363,"Taxes on income, profits and capital gains (current LCU)"
+1364,Taxes on international trade (% of revenue)
+1365,Taxes on international trade (current LCU)
+1366,"Technical cooperation grants (BoP, current US$)"
+1367,Technicians in R&D (per million people)
+1368,Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+1369,Terms of trade adjustment (constant LCU)
+1370,Terrestrial and marine protected areas (% of total territorial area)
+1371,Terrestrial protected areas (% of total land area)
+1372,"Tertiary education, academic staff (% female)"
+1373,Textiles and clothing (% of value added in manufacturing)
+1374,Time required to build a warehouse (days)
+1375,Time required to enforce a contract (days)
+1376,Time required to get electricity (days)
+1377,Time required to obtain an operating license (days)
+1378,Time required to register property (days)
+1379,Time required to start a business (days)
+1380,"Time required to start a business, female (days)"
+1381,"Time required to start a business, male (days)"
+1382,Time spent dealing with the requirements of government regulations (% of senior management time)
+1383,"Time to export, border compliance (hours)"
+1384,"Time to export, documentary compliance (hours)"
+1385,"Time to import, border compliance (hours)"
+1386,"Time to import, documentary compliance (hours)"
+1387,Time to obtain an electrical connection (days)
+1388,Time to prepare and pay taxes (hours)
+1389,Time to resolve insolvency (years)
+1390,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)"
+1391,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)"
+1392,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)"
+1393,Total debt service (% of GNI)
+1394,"Total debt service (% of exports of goods, services and primary income)"
+1395,Total fisheries production (metric tons)
+1396,Total greenhouse gas emissions excluding LULUCF (% change from 1990)
+1397,Total greenhouse gas emissions excluding LULUCF (Mt CO2e)
+1398,Total greenhouse gas emissions excluding LULUCF per capita (t CO2e/capita)
+1399,Total greenhouse gas emissions including LULUCF (Mt CO2e)
+1400,Total natural resources rents (% of GDP)
+1401,Total reserves (% of total external debt)
+1402,"Total reserves (includes gold, current US$)"
+1403,Total reserves in months of imports
+1404,Total reserves minus gold (current US$)
+1405,Total tax and contribution rate (% of profit)
+1406,Trade (% of GDP)
+1407,Trade in services (% of GDP)
+1408,"Trademark applications, nonresident, by count"
+1409,"Trademark applications, resident, by count"
+1410,Trained teachers in lower secondary education (% of total teachers)
+1411,"Trained teachers in lower secondary education, female (% of female teachers)"
+1412,"Trained teachers in lower secondary education, male (% of male teachers)"
+1413,Trained teachers in preprimary education (% of total teachers)
+1414,"Trained teachers in preprimary education, female (% of female teachers)"
+1415,"Trained teachers in preprimary education, male (% of male teachers)"
+1416,Trained teachers in primary education (% of total teachers)
+1417,"Trained teachers in primary education, female (% of female teachers)"
+1418,"Trained teachers in primary education, male (% of male teachers)"
+1419,Trained teachers in secondary education (% of total teachers)
+1420,"Trained teachers in secondary education, female (% of female teachers)"
+1421,"Trained teachers in secondary education, male (% of male teachers)"
+1422,Trained teachers in upper secondary education (% of total teachers)
+1423,"Trained teachers in upper secondary education, female (% of female teachers)"
+1424,"Trained teachers in upper secondary education, male (% of male teachers)"
+1425,Transport services (% of commercial service exports)
+1426,Transport services (% of commercial service imports)
+1427,"Transport services (% of service exports, BoP)"
+1428,"Transport services (% of service imports, BoP)"
+1429,Travel services (% of commercial service exports)
+1430,Travel services (% of commercial service imports)
+1431,"Travel services (% of service exports, BoP)"
+1432,"Travel services (% of service imports, BoP)"
+1433,"Tuberculosis case detection rate (%, all forms)"
+1434,Tuberculosis treatment success rate (% of new cases)
+1435,UHC service coverage index
+1436,Unemployment with advanced education (% of total labor force with advanced education)
+1437,"Unemployment with advanced education, female (% of female labor force with advanced education)"
+1438,"Unemployment with advanced education, male (% of male labor force with advanced education)"
+1439,Unemployment with basic education (% of total labor force with basic education)
+1440,"Unemployment with basic education, female (% of female labor force with basic education)"
+1441,"Unemployment with basic education, male (% of male labor force with basic education)"
+1442,Unemployment with intermediate education (% of total labor force with intermediate education)
+1443,"Unemployment with intermediate education, female (% of female labor force with intermediate education)"
+1444,"Unemployment with intermediate education, male (% of male labor force with intermediate education)"
+1445,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+1446,"Unemployment, female (% of female labor force) (national estimate)"
+1447,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+1448,"Unemployment, male (% of male labor force) (national estimate)"
+1449,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+1450,"Unemployment, total (% of total labor force) (national estimate)"
+1451,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+1452,"Unemployment, youth female (% of female labor force ages 15-24) (national estimate)"
+1453,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+1454,"Unemployment, youth male (% of male labor force ages 15-24) (national estimate)"
+1455,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)"
+1456,"Unemployment, youth total (% of total labor force ages 15-24) (national estimate)"
+1457,Unmet need for contraception (% of married women ages 15-49)
+1458,Urban land area (sq. km)
+1459,Urban land area where elevation is below 5 meters (% of total land area)
+1460,Urban land area where elevation is below 5 meters (sq. km)
+1461,Urban population
+1462,Urban population (% of total population)
+1463,Urban population growth (annual %)
+1464,Urban population living in areas where elevation is below 5 meters (% of total population)
+1465,"Use of IMF credit (DOD, current US$)"
+1466,Use of insecticide-treated bed nets (% of under-5 population)
+1467,Value lost due to electrical outages (% of sales for affected firms)
+1468,Vitamin A supplementation coverage rate (% of children ages 6-59 months)
+1469,Voice and Accountability: Estimate
+1470,Voice and Accountability: Number of Sources
+1471,Voice and Accountability: Percentile Rank
+1472,"Voice and Accountability: Percentile Rank, Lower Bound of 90% Confidence Interval"
+1473,"Voice and Accountability: Percentile Rank, Upper Bound of 90% Confidence Interval"
+1474,Voice and Accountability: Standard Error
+1475,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+1476,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+1477,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)"
+1478,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+1479,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
+1480,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)"
+1481,Wanted fertility rate (births per woman)
+1482,"Water productivity, total (constant 2015 US$ GDP per cubic meter of total freshwater withdrawal)"
+1483,Wholesale price index (2010 = 100)
+1484,Women Business and the Law Index Score (scale 1-100)
+1485,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)"
+1486,"Women participating in the three decisions (own health care, major household purchases, and visiting family) (% of women age 15-49)"
+1487,Women who believe a husband is justified in beating his wife (any of five reasons) (%)
+1488,Women who believe a husband is justified in beating his wife when she argues with him (%)
+1489,Women who believe a husband is justified in beating his wife when she burns the food (%)
+1490,Women who believe a husband is justified in beating his wife when she goes out without telling him (%)
+1491,Women who believe a husband is justified in beating his wife when she neglects the children (%)
+1492,Women who believe a husband is justified in beating his wife when she refuses sex with him (%)
+1493,Women who were first married by age 15 (% of women ages 20-24)
+1494,Women who were first married by age 18 (% of women ages 20-24)
+1495,Women's share of population ages 15+ living with HIV (%)
+1496,Young people (ages 15-24) newly infected with HIV
